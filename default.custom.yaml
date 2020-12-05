@@ -1,7 +1,6 @@
 patch:
   schema_list:
     - schema: luna_pinyin # 全拼
-    - schema: symbols # 特殊符号
     - schema: easy_en # 英文
     - schema: double_pinyin # 自然码
     - schema: double_pinyin_flypy # 小鹤双拼
