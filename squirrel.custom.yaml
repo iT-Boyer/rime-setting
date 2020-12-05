@@ -16,7 +16,7 @@ patch:
       ascii_mode: true
     com.apple.finder:
       ascii_mode: true
-    com.sublimetext.3:
+    com.sublimetext.4:
       ascii_mode: true
     com.apple.calculator:
       ascii_mode: true
