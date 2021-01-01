@@ -65,5 +65,3 @@ Linux 环境下, rime输入法默认配置可能不在` ~/.config/ibus/rime`下,
 1. [Mac 下调校 Rime](https://mritd.me/2019/03/23/oh-my-rime/)
 2. [鼠须管 0.11 Mac 升级重装配置 2019](https://github.com/cnfeat/Rime)
 3. [鼠须管配置 2019](https://placeless.net/blog/rime-squirrel-customization-2019#article)
-
-  
