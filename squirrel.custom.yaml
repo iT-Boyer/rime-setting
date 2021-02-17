@@ -56,9 +56,27 @@ patch:
 
 # 如果想要修改皮肤，直接更改 color_scheme 的值即可
   style:
-    color_scheme: apathy
-
+    color_scheme:  ifanrblack
   preset_color_schemes:
+    ifanrblack:
+      author: "Astrian Zheng"
+      back_color: 0x000000
+      border_height: 6
+      border_width: 6
+      candidate_format: "%c. %@ "
+      candidate_text_color: 0x2824C8
+      comment_text_color: 0xFFFFFF
+      corner_radius: 6
+      font_point: 16
+      hilited_candidate_back_color: 0x000000
+      hilited_candidate_label_color: 0xFFFFFF
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_text_color: 0xFFFFFF
+      horizontal: true
+      label_color: 0x2824C8
+      label_font_point: 12
+      name: "爱范儿黑"
+      text_color: 0x2824C8
     mojave_dark:
       name: "沙漠夜／Mojave Dark"
       author: "xiehuc <xiehuc@gmail.com>"
@@ -316,3 +334,22 @@ patch:
       inline_preedit: true
       line_spacing: 5
       spacing: 10
+    appsored:
+      author: "Astrian Zheng"
+      back_color: 0x2824C8
+      border_height: 6
+      border_width: 6
+      candidate_format: "%c. %@ "
+      candidate_text_color: 0xC5C3F2
+      comment_text_color: 0xFFFFFF
+      corner_radius: 6
+      font_point: 16
+      hilited_candidate_back_color: 0x2824C8
+      hilited_candidate_label_color: 0xFFFFFF
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_text_color: 0xFFFFFF
+      horizontal: true
+      label_color: 0xC5C3F2
+      label_font_point: 12
+      name: "AppSo 红"
+      text_color: 0xC5C3F2
