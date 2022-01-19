@@ -13,7 +13,7 @@ date_translator = require("date")
 module2={
   {module='command', module_name="cammand_proc",name_space="command" },
   {module='english', module_name="english_proc",name_space="english" },
-  {module="conjunctive", odule_name = "conjunctive_proc",name_space="conjunctive"},
+  {module="conjunctive", module_name = "conjunctive_proc",name_space="conjunctive"},
   { module= 'multi_reverse', module_name= "multi_reverse__proc", name_space= "multi_reverse" },
 }
 
