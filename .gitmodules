@@ -1,3 +1,6 @@
 [submodule "lua"]
 	path = lua
 	url = https://github.com/shewer/librime-lua-script
+[submodule "iRimeUnits"]
+	path = iRimeUnits
+	url = git@github.com:it-boyer/iRimeUnits.git

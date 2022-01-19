@@ -8,10 +8,12 @@ local easy_en = require("easy_en")
 easy_en_enhance_filter = easy_en.enhance_filter
 
 -- jimmy54/rime-lua.git
-date_translator = require("date")
+-- date_translator = require("date")
 
 module2={
   {module='command', module_name="cammand_proc",name_space="command" },
+  {module='component/select_character', module_name="select_character", name_space="translator" },
+  {module='others', module_name="date_translator",name_space="date" },
   {module='english', module_name="english_proc",name_space="english" },
   {module="conjunctive", module_name = "conjunctive_proc",name_space="conjunctive"},
   { module= 'multi_reverse', module_name= "multi_reverse__proc", name_space= "multi_reverse" },
