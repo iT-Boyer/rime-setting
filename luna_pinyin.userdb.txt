@@ -1,0 +1,4169 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	15788
+#@/user_id	rime-setting
+a 	啊	c=5 d=0.140593 t=11351
+a chou ti 	啊抽屜	c=1 d=1 t=11064
+a chou ti o 	啊抽屜哦	c=1 d=1 t=10993
+a yi 	阿姨	c=5 d=1.97079 t=8496
+ai 	愛	c=1 d=1 t=11067
+ai guo 	愛國	c=1 d=0.289384 t=563
+ai guo zhe 	愛國者	c=1 d=1 t=15725
+ai hao 	愛好	c=1 d=1 t=6060
+ai hong bian ye 	哀鴻遍野	c=1 d=1 t=2664
+ai kan shu 	愛看書	c=1 d=1 t=8247
+ai qing 	愛情	c=2 d=1.97045 t=6663
+ai shang 	愛上	c=0 d=0.1 t=6255
+ai shang fa sheng di 	愛上發生地	c=1 d=1 t=6256
+ai zheng 	癌症	c=1 d=1 t=7994
+ai zi ji 	愛自己	c=4 d=1.6604 t=8404
+an 	按	c=2 d=0.100001 t=14697
+an ge 	俺哥	c=1 d=0.551563 t=563
+an jing 	安靜	c=1 d=1 t=2483
+an li 	案例	c=3 d=1 t=15482
+an pai 	安排	c=10 d=2.77842 t=11933
+an quan mo shi 	安全模式	c=1 d=1 t=1658
+an ran 	黯然	c=1 d=1 t=1781
+an shang 	岸上	c=1 d=1 t=3850
+an yi 	安逸	c=1 d=1 t=1340
+an zhao 	按照	c=2 d=1.81873 t=14940
+an zhuan 	暗轉	c=1 d=1 t=9386
+an zhuang 	安裝	c=51 d=2.32303 t=15682
+an zhuang bao 	安裝包	c=0 d=0.1 t=11384
+an zhuang ge 	安裝個	c=1 d=1 t=1544
+an zhuang zuan gan 	安裝鑽桿	c=1 d=1 t=9590
+an zhun 	案准	c=1 d=1 t=10257
+an zhuo 	安卓	c=2 d=1.99501 t=1661
+ao 	奧	c=0 d=0.1 t=2975
+ba 	吧	c=50 d=2.21187 t=15179
+ba 	把	c=36 d=1.27822 t=15535
+ba ba 	爸爸	c=1 d=1 t=12103
+ba da guan 	八大關	c=1 d=1 t=3570
+ba dian 	八點	c=1 d=1 t=7281
+ba dian 	靶點	c=1 d=1 t=3746
+ba gua 	八卦	c=1 d=1 t=7430
+ba mu biao 	把目標	c=1 d=1 t=11899
+ba shi 	八十	c=1 d=1 t=4389
+ba shou 	把手	c=1 d=1 t=3075
+ba wo 	把握	c=1 d=1 t=11784
+ba xian 	八仙	c=1 d=0.0689068 t=563
+ba yi qi 	八一七	c=1 d=1 t=13794
+ba zhe xie 	把這些	c=1 d=1 t=8594
+ba zhi shi 	把知識	c=1 d=1 t=14744
+ba zu 	八組	c=1 d=1 t=12713
+bai ban 	白板	c=1 d=1 t=1828
+bai du 	百度	c=3 d=2.94624 t=15343
+bai du yun pan 	百度雲盤	c=1 d=1 t=3988
+bai fang 	拜訪	c=1 d=1 t=8161
+bai huo 	百貨	c=1 d=1 t=12739
+bai ke 	百科	c=2 d=1.99501 t=15335
+bai lan 	擺爛	c=1 d=1 t=7026
+bai tian 	白天	c=1 d=1 t=3615
+bai tuo 	擺脫	c=3 d=1.00245 t=12907
+ban 	板	c=1 d=1.00016 t=4528
+ban 	版	c=6 d=1 t=10150
+ban ben 	版本	c=21 d=1 t=15362
+ban ben ne 	版本呢	c=1 d=1 t=9148
+ban cheng 	半程	c=1 d=1.06079 t=3812
+ban ci 	班次	c=2 d=1.90032 t=3645
+ban fa 	辦法	c=2 d=1 t=7069
+ban li 	辦理	c=2 d=1.96561 t=12734
+ban ri 	半日	c=1 d=1 t=3595
+ban tian 	半天	c=1 d=1 t=8080
+ban xiao shi 	半小時	c=1 d=1 t=2363
+ban yuan 	半圓	c=0 d=0.1 t=1863
+ban yuan jiao 	半圓叫	c=1 d=1 t=1864
+bang 	幫	c=1 d=1 t=3596
+bang bang 	幫幫	c=1 d=1 t=1367
+bang ding 	綁定	c=3 d=1 t=10692
+bang mang 	幫忙	c=1 d=1 t=1445
+bang ni 	幫你	c=3 d=1.00445 t=4817
+bang wan 	傍晚	c=1 d=1 t=3770
+bang wo 	幫我	c=1 d=1 t=3584
+bang yang 	榜樣	c=1 d=1 t=5875
+bang zhu 	幫助	c=4 d=1.52994 t=13758
+bao 	包	c=8 d=1 t=14958
+bao 	報	c=1 d=1 t=7329
+bao bei 	報備	c=1 d=1.05326 t=4634
+bao cang 	保藏	c=1 d=1 t=3121
+bao cun 	保存	c=14 d=6.49762 t=6469
+bao cuo 	報錯	c=1 d=1 t=1618
+bao gui 	寶貴	c=2 d=1 t=12214
+bao kuo 	包括	c=1 d=1 t=11318
+bao lan 	包攬	c=1 d=1 t=4132
+bao le 	報了	c=1 d=1 t=12289
+bao li 	暴力	c=1 d=1 t=11387
+bao lou 	報漏	c=1 d=1 t=8530
+bao lou 	暴漏	c=3 d=1.89597 t=10310
+bao nuan 	保暖	c=1 d=1 t=12814
+bao ping an 	保平安	c=1 d=1 t=7336
+bao shi 	寶石	c=1 d=1.09802 t=15760
+bao tian 	包天	c=1 d=1 t=3614
+bao tuan 	抱團	c=5 d=1.93407 t=3940
+bao wei 	保衛	c=1 d=1 t=7965
+bao zang 	寶藏	c=6 d=1.00809 t=4230
+bao zheng 	保證	c=1 d=1 t=14464
+bei 	北	c=2 d=1.0039 t=3549
+bei 	被	c=8 d=2.00136 t=7676
+bei fen 	備份	c=2 d=1 t=10152
+bei gao 	被告	c=2 d=1.69768 t=1767
+bei jing 	北京	c=16 d=2.60765 t=12781
+bei jing 	背景	c=1 d=1 t=15776
+bei jing shi 	北京市	c=1 d=1 t=6796
+bei ju 	悲劇	c=1 d=1 t=1763
+bei piao 	北漂	c=1 d=1 t=2810
+bei qing 	悲情	c=2 d=1 t=5048
+bei shang guang shen 	北上廣深	c=1 d=1 t=2808
+bei shou 	備受	c=1 d=1 t=14180
+bei wang lu 	備忘錄	c=7 d=4.64444 t=6314
+bei zhan 	北站	c=4 d=2.10297 t=4440
+bei zhu 	備註	c=3 d=1.90019 t=3035
+bei zuo zhe 	被作者	c=1 d=0.66034 t=563
+ben 	本	c=5 d=1.36422 t=9149
+ben di 	本地	c=10 d=1 t=15733
+ben di bao 	本地寶	c=1 d=1 t=4219
+ben lai 	本來	c=1 d=1 t=813
+ben lai de 	本來的	c=1 d=1 t=13896
+ben ling 	本領	c=1 d=1 t=5551
+ben xiang 	本想	c=1 d=1 t=846
+ben zhi 	本質	c=2 d=1.98511 t=15481
+ben zhou 	本週	c=2 d=1.96079 t=6035
+ben zhu 	笨豬	c=2 d=1.0099 t=3011
+beng 	泵	c=1 d=1 t=15245
+beng ku 	甭哭	c=2 d=1.99501 t=15290
+beng kui 	崩潰	c=4 d=2.90873 t=15294
+bi 	比	c=4 d=1 t=10609
+bi 	避	c=0 d=0.1 t=15098
+bi an 	彼岸	c=0 d=0.00765355 t=563
+bi an yi 	彼岸一	c=4 d=0.309997 t=563
+bi bei jing 	比北京	c=1 d=1 t=661
+bi bu kai 	比不開	c=1 d=1 t=15098
+bi bu kai 	避不開	c=1 d=1 t=15099
+bi guan 	閉關	c=1 d=1 t=2486
+bi ji 	筆記	c=9 d=1 t=14801
+bi jiao 	比較	c=18 d=1.06173 t=12605
+bi jiao shao 	比較少	c=1 d=1 t=2406
+bi jiao yan 	比較嚴	c=1 d=0.511709 t=563
+bi jing 	畢竟	c=2 d=1 t=14674
+bi mian 	避免	c=5 d=1 t=14955
+bi ru 	比如	c=5 d=1.21155 t=14129
+bi xu 	必須	c=7 d=0.105389 t=15749
+bi xu xian zuo 	必須先做	c=1 d=1 t=15750
+bi yi ge 	比一個	c=1 d=1 t=2304
+bian 	變	c=7 d=1.79058 t=10246
+bian 	辯	c=1 d=1 t=1777
+bian 	邊	c=1 d=1 t=3806
+bian cheng 	編程	c=6 d=1.00019 t=15688
+bian cheng 	變成	c=2 d=1 t=15508
+bian da 	變大	c=0 d=0.1 t=10699
+bian da shi 	變大是	c=1 d=1 t=10700
+bian de 	變得	c=1 d=1 t=11848
+bian hu lv shi 	辯護律師	c=1 d=1 t=1686
+bian ji 	編輯	c=1 d=0.168638 t=563
+bian ji qi 	編輯器	c=1 d=0.161218 t=563
+bian li 	便利	c=1 d=1 t=4307
+bian liang 	變量	c=15 d=2.10224 t=11397
+bian lun 	辯論	c=2 d=1.99501 t=14975
+bian ma 	編碼	c=3 d=1 t=11545
+bian ma 	變碼	c=1 d=0.494109 t=563
+bian xian 	變現	c=5 d=1.01505 t=15496
+bian xian an 	變現按	c=1 d=1 t=14698
+bian xian tu 	變現圖	c=1 d=1 t=14733
+bian xie 	編寫	c=1 d=1 t=7812
+bian yi 	編譯	c=35 d=1.1144 t=11681
+bian yi qi 	編譯器	c=1 d=0.160414 t=563
+bian yu 	便於	c=5 d=1.03613 t=11423
+bian zou 	邊走	c=1 d=1 t=3805
+biao 	標	c=1 d=1 t=948
+biao 	飆	c=1 d=1 t=15779
+biao da 	表達	c=2 d=1.81465 t=4837
+biao da shi 	表達式	c=4 d=2.99689 t=10704
+biao liang 	標量	c=4 d=1.11119 t=11392
+biao qian 	標籤	c=3 d=2.77922 t=8950
+biao ren 	彪人	c=1 d=1 t=947
+biao ren 	鏢人	c=1 d=1 t=949
+biao shi 	標識	c=1 d=1 t=10710
+biao ti 	標題	c=1 d=1 t=8786
+biao zhun 	標準	c=1 d=1 t=1229
+bie ming 	別名	c=1 d=1 t=11016
+bie qu 	憋屈	c=1 d=1 t=3019
+bie ren 	別人	c=1 d=1 t=6671
+bing 	並	c=7 d=1.34492 t=11685
+bing bu shi 	並不是	c=0 d=0.1 t=12441
+bing bu shi hen qiang 	並不是很強	c=1 d=1 t=12442
+bing fa bu 	併發布	c=1 d=1 t=9575
+bing mei yo 	並沒喲	c=1 d=1 t=12978
+bing mo 	病魔	c=1 d=1 t=7969
+bing xiang 	冰箱	c=1 d=1 t=1732
+bing zai 	並在	c=1 d=1 t=9039
+bo 	博	c=2 d=1.99501 t=6805
+bo fang 	播放	c=2 d=1.50916 t=6729
+bo ke 	博客	c=23 d=1.67097 t=15216
+bo ke 	播客	c=2 d=1 t=15724
+bo ke zhan wu 	博客站務	c=1 d=1 t=8817
+bo zhu 	博主	c=3 d=2.48166 t=14291
+bu 	不	c=16 d=2.39683 t=14418
+bu 	布	c=2 d=1.81058 t=12745
+bu an 	不安	c=1 d=1 t=2412
+bu cha 	不差	c=1 d=1 t=7647
+bu chong 	補充	c=1 d=1 t=8584
+bu chou 	不愁	c=1 d=1 t=1314
+bu cun zai 	不存在	c=3 d=1.00003 t=11622
+bu cuo 	不錯	c=8 d=1.03597 t=15440
+bu da 	不大	c=1 d=1 t=2459
+bu dai 	不帶	c=1 d=1 t=4001
+bu dao 	不到	c=1 d=1 t=8083
+bu deng yu 	不等於	c=1 d=1 t=15511
+bu duan 	不斷	c=1 d=1 t=14011
+bu duo 	不多	c=0 d=0.1 t=7204
+bu er 	布爾	c=2 d=1.8311 t=12738
+bu gan 	不敢	c=2 d=1 t=11735
+bu gou 	不夠	c=2 d=1 t=13823
+bu guan 	不管	c=2 d=1 t=7655
+bu guo 	不過	c=6 d=3.67952 t=2697
+bu hao 	不好	c=6 d=1.00015 t=7084
+bu he 	不合	c=1 d=1 t=15718
+bu hui 	不會	c=2 d=1.956 t=10831
+bu jian 	不見	c=1 d=1 t=1717
+bu jian rong 	不兼容	c=1 d=1 t=10909
+bu jiao 	不叫	c=0 d=0.1 t=1206
+bu jiao shu xi 	不叫熟悉	c=1 d=1 t=1207
+bu jin 	不僅	c=1 d=1 t=12022
+bu jiu 	不久	c=1 d=1 t=2168
+bu jiu 	補救	c=1 d=1 t=13972
+bu ju 	佈局	c=1 d=1 t=13556
+bu kai 	不開	c=0 d=0.1 t=15098
+bu kai fang 	不開放	c=1 d=1 t=3742
+bu kan 	不堪	c=1 d=1 t=12049
+bu ling min 	不靈敏	c=1 d=1 t=6724
+bu luan 	不亂	c=1 d=1 t=4477
+bu mang 	不忙	c=2 d=1.99501 t=6994
+bu neng 	不能	c=7 d=1 t=15230
+bu ping fan 	不平凡	c=1 d=1 t=15090
+bu qi zuo yong 	不起作用	c=1 d=0.384812 t=563
+bu qian ming 	不簽名	c=1 d=1 t=11147
+bu que 	不缺	c=0 d=0.1 t=7696
+bu ran 	不然	c=1 d=1 t=3322
+bu rong yi 	不容易	c=1 d=1 t=6982
+bu shan 	不刪	c=0 d=0.1 t=15715
+bu shan shu ju 	不刪數據	c=1 d=1 t=15716
+bu shan yu 	不善於	c=1 d=1 t=5204
+bu shang ban 	不上班	c=1 d=1 t=8180
+bu shao 	不少	c=1 d=1 t=3409
+bu sheng xiao 	不生效	c=1 d=1 t=6819
+bu shi 	不是	c=6 d=1.00013 t=15600
+bu shi he 	不適合	c=3 d=1 t=13916
+bu shi shi 	不實施	c=1 d=1 t=13809
+bu shi yong 	不使用	c=1 d=1 t=6407
+bu shou 	不受	c=1 d=1 t=6860
+bu shou 	不收	c=1 d=1 t=1806
+bu shu 	部署	c=8 d=2.47116 t=11553
+bu tai 	不太	c=1 d=1 t=5190
+bu tai shu fu 	不太舒服	c=1 d=1 t=3116
+bu tiao zhuan 	不跳轉	c=1 d=1 t=6342
+bu tong 	不同	c=12 d=1.00313 t=14756
+bu tong ping tai 	不同平臺	c=1 d=1 t=13553
+bu wang 	不忘	c=1 d=1 t=9813
+bu xi guan 	不習慣	c=1 d=1 t=2417
+bu xian 	不限	c=2 d=1.956 t=8875
+bu xian shi 	不顯示	c=7 d=1 t=8879
+bu xiang 	不想	c=1 d=1 t=1472
+bu xin 	不信	c=3 d=1.32407 t=7707
+bu xing 	不行	c=1 d=1 t=15458
+bu xu yao 	不需要	c=5 d=1.00001 t=13559
+bu yao 	不要	c=12 d=1.00469 t=14997
+bu yao yao 	不要咬	c=1 d=1 t=14995
+bu yi 	布衣	c=3 d=1.11891 t=12700
+bu yi ding 	不一定	c=1 d=1 t=4617
+bu yi nan er 	布衣男兒	c=1 d=1 t=5490
+bu yong 	不用	c=2 d=1 t=4414
+bu yu 	捕魚	c=1 d=1 t=3946
+bu zai 	不在	c=5 d=1.03562 t=13850
+bu zai hai zi dao 	不在孩子到	c=1 d=1 t=10225
+bu zhao 	不着	c=1 d=1 t=5038
+bu zhi 	不知	c=0 d=0.108543 t=7696
+bu zhi bu duo 	不知不多	c=1 d=1 t=7205
+bu zhi bu jue 	不知不覺	c=1 d=1 t=7698
+bu zhi bu que 	不知不缺	c=1 d=1 t=7697
+bu zhi chi 	不支持	c=6 d=1.44194 t=11025
+bu zhi dao 	不知道	c=8 d=1 t=10226
+bu zhi xing 	不執行	c=3 d=1.99507 t=11106
+bu zhi zu 	不知足	c=0 d=0.1 t=10501
+bu zhou 	步驟	c=1 d=1 t=14537
+bu zuo yi ci 	不做一次	c=1 d=1 t=14067
+ca han 	擦汗	c=0 d=0.1 t=10866
+ca han kan 	擦汗看	c=1 d=1 t=10867
+cai 	才	c=1 d=1 t=2672
+cai 	采	c=2 d=1.28365 t=8318
+cai dan 	菜單	c=5 d=1.00001 t=8756
+cai fu 	財富	c=1 d=1 t=15492
+cai ji 	採集	c=0 d=0.1 t=15756
+cai ji bao shi 	採集寶石	c=1 d=1 t=15757
+cai neng 	才能	c=10 d=1.00473 t=15507
+cai niao 	菜鳥	c=1 d=1 t=4294
+cai shi 	纔是	c=5 d=1.00032 t=15744
+cai xing 	才行	c=2 d=1 t=10866
+can bu ren du 	慘不忍睹	c=1 d=1 t=8533
+can dan 	慘淡	c=1 d=1 t=11871
+can jia 	參加	c=3 d=1 t=13478
+can jiao 	慘叫	c=1 d=1 t=3909
+can kao 	參考	c=6 d=1.50916 t=9287
+can shu 	參數	c=9 d=1.32569 t=11154
+cang 	藏	c=1 d=1 t=4098
+cang bai wu li 	蒼白無力	c=2 d=1 t=11849
+cang hai yi su 	滄海一粟	c=1 d=1 t=3881
+cao chang 	操場	c=1 d=1 t=8277
+cao cong 	草叢	c=2 d=1.93239 t=3908
+cao mei 	草莓	c=1 d=1 t=1746
+cao zuo 	操作	c=15 d=1.00001 t=13717
+ce 	測	c=1 d=0.244143 t=563
+ce hua 	策劃	c=0 d=0.1 t=11508
+ce mian 	側面	c=1 d=1 t=12938
+ce shi 	測試	c=63 d=1 t=15321
+ce shi bao 	測試包	c=1 d=1 t=11134
+ceng ci 	層次	c=1 d=1 t=7555
+ceng mian 	層面	c=6 d=1.00007 t=14147
+cha 	查	c=1 d=1 t=703
+cha 	茶	c=4 d=3.42917 t=2842
+cha bei 	茶杯	c=1 d=1 t=2705
+cha bu duo 	差不多	c=2 d=1 t=7090
+cha che 	叉車	c=2 d=1.99501 t=1498
+cha jian 	插件	c=17 d=1.12033 t=11673
+cha ju 	差距	c=1 d=1 t=12799
+cha kan 	查看	c=27 d=1.31391 t=11661
+cha ru 	插入	c=2 d=1.9802 t=10681
+cha xun 	查詢	c=11 d=1 t=10656
+cha ye 	茶葉	c=1 d=0.815338 t=2735
+cha yi 	茶藝	c=3 d=1 t=7794
+chai 	拆	c=0 d=0.1 t=3040
+chai fen 	拆分	c=1 d=1 t=6376
+chai wei ji yong 	拆爲己用	c=11 d=1.50853 t=15140
+chan 	饞	c=1 d=1 t=2288
+chan chu 	產出	c=5 d=2.61861 t=14695
+chan dao 	禪道	c=2 d=1.92774 t=9184
+chan pin 	產品	c=3 d=1.00099 t=11060
+chan sheng 	產生	c=1 d=1 t=13422
+chang 	常	c=1 d=1 t=801
+chang 	長	c=1 d=1 t=4356
+chang deng 	長凳	c=1 d=1 t=8344
+chang jing 	場景	c=4 d=1 t=7796
+chang jiu 	長久	c=1 d=1 t=7679
+chang qi 	長期	c=5 d=1 t=14234
+chang sheng 	昌盛	c=1 d=0.315058 t=563
+chang sheng 	長生	c=1 d=0.313486 t=563
+chang shi 	嘗試	c=9 d=2.39565 t=15526
+chang tong 	暢通	c=1 d=1 t=4444
+chang wei 	腸胃	c=1 d=1 t=3114
+chang xiang 	唱響	c=1 d=1 t=8566
+chang yong 	常用	c=1 d=1 t=7897
+chang yuan 	長遠	c=1 d=1 t=5141
+chao di 	抄底	c=1 d=1 t=2932
+che 	車	c=2 d=1.96561 t=3617
+che di 	徹底	c=3 d=1.85642 t=13956
+che di jie fang 	徹底解放	c=1 d=1 t=1711
+che ji 	車技	c=2 d=1.00185 t=3507
+che kuang 	車況	c=1 d=1 t=3458
+chen jin 	沉浸	c=1 d=1 t=14096
+chen zhu qi 	沉住氣	c=1 d=1 t=4888
+chen zui 	沉醉	c=1 d=1 t=13038
+cheng 	成	c=8 d=1.05725 t=13587
+cheng 	稱	c=2 d=1.86502 t=2709
+cheng bai 	成敗	c=1 d=1 t=2535
+cheng du 	成都	c=1 d=1 t=12574
+cheng du 	程度	c=1 d=1 t=12575
+cheng gong 	成功	c=14 d=1.81873 t=15519
+cheng guo 	成果	c=1 d=1 t=14433
+cheng jiu 	成就	c=6 d=1 t=14105
+cheng le 	成了	c=1 d=1 t=7227
+cheng nuo 	承諾	c=2 d=1.90937 t=5946
+cheng ren 	成人	c=1 d=0.951229 t=563
+cheng se 	成色	c=1 d=1 t=2843
+cheng shi 	城市	c=1 d=1 t=2491
+cheng shi 	成事	c=1 d=1 t=1724
+cheng shou bu qi 	承受不起	c=1 d=1 t=8148
+cheng shu 	成熟	c=1 d=1 t=11762
+cheng shu du 	成熟度	c=1 d=1 t=1962
+cheng wei 	成爲	c=4 d=1.95709 t=9343
+cheng xin 	誠信	c=3 d=1 t=5230
+cheng xu 	程序	c=3 d=1.07692 t=9247
+cheng xu yuan 	程序員	c=3 d=0.18046 t=12642
+cheng xu yuan ke zhan 	程序員客棧	c=1 d=1 t=12643
+cheng zhang 	成長	c=2 d=1 t=14424
+cheng zhu zai xiong 	成竹在胸	c=1 d=1 t=1709
+chi bu xiao 	喫不消	c=1 d=1 t=8132
+chi guo 	喫過	c=1 d=1 t=2280
+chi he 	喫喝	c=1 d=1 t=5315
+chi jiu 	持久	c=1 d=1 t=7672
+chi kuang 	癡狂	c=1 d=1 t=1727
+chi mi 	癡迷	c=2 d=1.00207 t=4516
+chi tou 	喫透	c=1 d=1 t=13926
+chi zi 	赤字	c=1 d=1 t=15278
+chong 	重	c=1 d=1 t=10493
+chong ci 	衝刺	c=1 d=1 t=3261
+chong fen 	充分	c=8 d=1.10897 t=14795
+chong fu 	重複	c=1 d=1 t=15767
+chong gou 	重構	c=1 d=1 t=8545
+chong qi 	重啓	c=2 d=1 t=12817
+chong xin 	重新	c=8 d=1.00104 t=15250
+chong yu 	充裕	c=1 d=1 t=6605
+chou ti 	抽屜	c=0 d=0.170117 t=11063
+chu 	出	c=11 d=1.16632 t=15149
+chu 	初	c=1 d=1 t=7835
+chu 	除	c=1 d=1 t=4646
+chu bu liao 	出不了	c=0 d=0.1 t=5305
+chu bu liao men 	出不了門	c=1 d=1 t=5306
+chu chai 	出差	c=2 d=1.41686 t=625
+chu cuo 	出錯	c=1 d=1 t=15606
+chu fa 	出發	c=2 d=1.0052 t=13385
+chu fa 	觸發	c=2 d=1 t=12332
+chu hai 	出海	c=5 d=1.46022 t=4351
+chu lai 	出來	c=7 d=1.00029 t=15146
+chu le 	出了	c=1 d=1 t=11339
+chu li 	處理	c=9 d=1 t=14603
+chu lia 	出倆	c=2 d=1.00058 t=15145
+chu lu 	出路	c=1 d=1 t=7017
+chu qu 	出去	c=3 d=1.54438 t=3479
+chu ru 	出入	c=1 d=1 t=4648
+chu shi 	初始	c=2 d=1.41066 t=11596
+chu shi hua 	初始化	c=3 d=1 t=6886
+chu wen ti 	出問題	c=1 d=1 t=8108
+chu xian 	出現	c=16 d=2.49063 t=15414
+chu xin 	初心	c=3 d=1.01133 t=13881
+chu yi fen 	出一份	c=1 d=1.07531 t=3590
+chu yu 	處於	c=1 d=1 t=6768
+chu zai 	處在	c=1 d=1 t=14623
+chua 	欻	c=1 d=1 t=11539
+chuan 	船	c=3 d=1 t=14980
+chuan bang 	船幫	c=1 d=1 t=3709
+chuan yue 	穿越	c=1 d=1 t=1957
+chuang 	牀	c=2 d=1.00119 t=14276
+chuang jia 	牀架	c=1 d=1 t=11541
+chuang jian 	創建	c=16 d=3.0976 t=11542
+chuang kou 	窗口	c=1 d=1 t=697
+chuang ye 	創業	c=6 d=1.00078 t=14178
+chuang zao 	創造	c=22 d=2.53617 t=14807
+chuang zuo 	創作	c=3 d=1.53794 t=13606
+chun shu 	純屬	c=1 d=1 t=4309
+chun tian ran 	純天然	c=1 d=1 t=5280
+chuo 	戳	c=1 d=1 t=8859
+ci 	次	c=1 d=0.1 t=13377
+ci 	此	c=1 d=1 t=2029
+ci 	詞	c=2 d=0.462624 t=563
+ci dian 	詞典	c=7 d=5.40776 t=6462
+ci ku 	詞庫	c=4 d=1.0003 t=1863
+ci pan 	磁盤	c=1 d=1 t=15700
+ci tiao 	詞條	c=1 d=1 t=15337
+cong 	從	c=37 d=1.09085 t=15590
+cong bei jing 	從北京	c=1 d=1 t=3547
+cong ci 	從此	c=2 d=1 t=8294
+cong neng 	從能	c=1 d=1 t=13382
+cong shi bai 	從失敗	c=1 d=1 t=6938
+cong ta 	從她	c=1 d=1 t=8041
+cong xiao 	從小	c=2 d=1.92774 t=7639
+cong xie zuo 	從寫作	c=1 d=1 t=12986
+cong xin 	從新	c=2 d=1.99501 t=11270
+cou ge 	湊個	c=1 d=1 t=7144
+cou zhe 	湊着	c=1 d=0.160205 t=7165
+cou zhe ji tian 	湊着幾天	c=1 d=1 t=7166
+cu 	粗	c=0 d=0.1 t=10925
+cu kuang 	粗狂	c=1 d=1 t=5036
+cu lu 	粗魯	c=0 d=0.1 t=15740
+cu xiao 	促銷	c=1 d=1 t=4942
+cun 	村	c=1 d=1 t=12712
+cun chu 	存儲	c=1 d=1 t=6737
+cun fang wei zhi 	存放位置	c=1 d=1 t=9375
+cun li 	村裏	c=1 d=1 t=7325
+cun zai 	存在	c=1 d=1 t=1593
+cuo 	錯	c=1 d=1 t=5295
+cuo le 	錯了	c=1 d=1 t=3640
+cuo luan 	錯亂	c=2 d=1.84789 t=15280
+cuo lun 	錯論	c=1 d=1 t=15246
+cuo wu 	錯誤	c=8 d=1.98166 t=11121
+da 	大	c=6 d=1.0319 t=14873
+da 	打	c=1 d=1 t=5206
+da bai 	打敗	c=1 d=1 t=15788
+da bao 	打包	c=6 d=2.49253 t=11140
+da bian 	答辯	c=1 d=1 t=14973
+da bu kai 	打不開	c=1 d=1 t=5198
+da chang 	大廠	c=2 d=1.94649 t=2398
+da da 	打打	c=0 d=0.1 t=3187
+da da qiu 	打打球	c=1 d=1 t=3188
+da dao 	打到	c=1 d=1 t=9807
+da dao 	達到	c=1 d=1 t=9808
+da die 	大跌	c=1 d=1 t=2870
+da gai 	大概	c=1 d=1 t=5093
+da hai shang 	大海上	c=1 d=1 t=3728
+da hao he shan 	大好河山	c=1 d=1 t=679
+da hua 	大話	c=2 d=0.106965 t=13230
+da hua she ji mo shi 	大話設計模式	c=1 d=1 t=13231
+da ji 	打擊	c=1 d=1 t=15178
+da jia 	大家	c=7 d=1.04698 t=14322
+da jian 	搭建	c=9 d=1.58221 t=13504
+da kai 	打開	c=6 d=1 t=9594
+da kao 	大考	c=1 d=1 t=7305
+da kou da kou 	大口大口	c=0 d=0.1 t=6754
+da kou da kou de kan dao da de lai dao le da jia de ju da de 	大口大口的看到大的來到了大家的巨大的	c=1 d=1 t=6755
+da lang 	大浪	c=1 d=1 t=3836
+da li 	打理	c=1 d=1 t=8363
+da lian 	打臉	c=1 d=1 t=1786
+da liang 	大量	c=2 d=1 t=15616
+da luan 	打亂	c=1 d=1 t=4241
+da mi 	大米	c=0 d=0.1 t=7773
+da mi a 	大米啊	c=1 d=1 t=7774
+da nao 	大腦	c=4 d=1.02647 t=6496
+da niu 	大牛	c=1 d=1 t=14388
+da qiao 	大橋	c=1 d=1 t=4079
+da qiu 	打球	c=2 d=1.22425 t=2903
+da ren 	達人	c=1 d=1 t=3163
+da shang 	打賞	c=2 d=1.97531 t=15646
+da shen me qiu 	打什麼球	c=1 d=1 t=3194
+da shi 	大師	c=1 d=1 t=7370
+da shi jian 	大事件	c=1 d=1 t=5576
+da suan 	打算	c=0 d=0.0774916 t=563
+da suan te 	打算特	c=1 d=0.778801 t=563
+da te 	達特	c=5 d=3.35171 t=563
+da tui 	大腿	c=2 d=1 t=3835
+da wan shang 	大晚上	c=1 d=1 t=5013
+da xian 	大仙	c=1 d=1 t=7326
+da xiao 	大小	c=3 d=1 t=9945
+da xiao xie 	大小寫	c=1 d=1 t=1846
+da xue 	大學	c=2 d=1.00001 t=7360
+da yang 	打烊	c=1 d=1 t=4104
+da yin 	打印	c=6 d=1.08125 t=11109
+da you shi 	打油詩	c=1 d=1 t=1795
+da zhan 	大戰	c=1 d=1 t=3896
+dai 	帶	c=2 d=0.100083 t=12215
+dai 	待	c=1 d=0.185444 t=563
+dai dong 	帶動	c=1 d=1 t=13203
+dai lai 	帶來	c=2 d=1 t=14056
+dai le 	待了	c=1 d=1 t=2432
+dai li 	代理	c=1 d=1 t=1645
+dai ma 	代碼	c=12 d=1.10561 t=10812
+dai ma ma 	代碼嗎	c=1 d=1 t=8546
+dai shi wu 	帶食物	c=1 d=1 t=3704
+dai ti 	代替	c=1 d=1 t=6828
+dai xiang mu 	帶項目	c=1 d=1 t=12216
+dai xuan 	待選	c=3 d=0.620458 t=563
+dai yu 	待遇	c=2 d=1.2466 t=1567
+dai yu hao 	待遇好	c=1 d=1 t=1311
+dai zhe 	帶着	c=1 d=1 t=4154
+dai zhong 	袋中	c=1 d=1 t=8959
+dan 	單	c=3 d=1.04545 t=11268
+dan dan de dao 	淡淡的道	c=2 d=1.99501 t=6753
+dan ding 	淡定	c=1 d=1 t=13825
+dan du 	單獨	c=2 d=1.05698 t=10129
+dan hang 	單行	c=2 d=1 t=8884
+dan shi 	但是	c=38 d=1.70226 t=15533
+dan shui 	淡水	c=1 d=1 t=1749
+dan wen jian 	單文件	c=1 d=1 t=9214
+dan xi huo fu 	旦夕禍福	c=1 d=1 t=7138
+dan xiao gui 	膽小鬼	c=1 d=1 t=6728
+dan xin 	擔心	c=2 d=1.00002 t=4415
+dan yuan 	單元	c=8 d=2.33051 t=9597
+dan yuan ce shi 	單元測試	c=6 d=1.24414 t=11037
+dang 	檔	c=1 d=1 t=9643
+dang 	當	c=1 d=1 t=3244
+dang chu 	當初	c=1 d=1 t=12982
+dang nian 	當年	c=1 d=1 t=8185
+dang qian 	當前	c=6 d=2.16116 t=11648
+dang qian wei 	當前爲	c=1 d=1 t=10032
+dang qian wei zhi 	當前位置	c=1 d=1 t=11653
+dang shi 	當時	c=5 d=1.88248 t=8469
+dang tian 	當天	c=1 d=1 t=3877
+dang zuo 	當作	c=1 d=1 t=6524
+dao 	到	c=80 d=1.85611 t=14710
+dao 	島	c=1 d=1.05741 t=3849
+dao bi 	倒閉	c=2 d=1.98511 t=3467
+dao che 	倒車	c=2 d=1.96079 t=2258
+dao chu 	到處	c=1 d=1 t=1139
+dao de 	道德	c=1 d=1 t=7548
+dao di 	到底	c=2 d=1 t=14054
+dao hang 	導航	c=1 d=1 t=9790
+dao le 	到了	c=1 d=1 t=8010
+dao ni na 	到你那	c=2 d=1.96079 t=2370
+dao qi 	到期	c=2 d=1.99005 t=5359
+dao ru 	導入	c=5 d=2.80233 t=1616
+dao tu shu guan 	到圖書館	c=1 d=1 t=13900
+dao xian zai 	到現在	c=2 d=1.00002 t=14076
+dao you 	導遊	c=1 d=1 t=3140
+dao zhe bian 	到這邊	c=1 d=1 t=8354
+dao zhi 	導致	c=10 d=2.29733 t=15399
+dao zui hou 	到最後	c=2 d=1.00933 t=12768
+de 	的	c=1110 d=22.9713 t=15761
+de chu 	得出	c=1 d=1 t=14270
+de dao 	得到	c=3 d=1.61263 t=13785
+de duo 	得多	c=1 d=1 t=1381
+de e 	德俄	c=6 d=1 t=13876
+de jiao du 	的角度	c=1 d=1 t=7509
+de mo 	的膜	c=3 d=2.78062 t=9424
+deng 	燈	c=1 d=1 t=3864
+deng 	等	c=24 d=1.05097 t=14613
+deng lu 	登錄	c=5 d=1.93239 t=11593
+deng yu 	等於	c=1 d=1 t=4310
+di 	低	c=2 d=1.99005 t=6205
+di 	地	c=1 d=1 t=3876
+di 	第	c=1 d=1 t=6442
+di bu 	地步	c=2 d=1.97531 t=14197
+di ceng 	底層	c=2 d=1 t=15473
+di da 	滴答	c=6 d=3.36075 t=6549
+di dan 	帝丹	c=1 d=1 t=6427
+di er tian 	第二天	c=1 d=1 t=3917
+di fang 	地方	c=9 d=1 t=15067
+di fang shi 	地方時	c=1 d=1 t=14201
+di san fang 	第三方	c=2 d=1 t=5489
+di shi 	地勢	c=2 d=1.80654 t=3292
+di tang 	低糖	c=0 d=0.1 t=15467
+di tang ke 	低糖可	c=1 d=1 t=15468
+di tie 	地鐵	c=1 d=1 t=4442
+di yi 	第一	c=3 d=1.00152 t=5338
+di yi bu 	第一步	c=1 d=1 t=9624
+di yi ci 	第一次	c=9 d=1.65436 t=10597
+di yi ge 	第一個	c=2 d=1 t=7531
+di yi shi jian 	第一時間	c=1 d=1 t=2198
+di yi tang 	第一堂	c=2 d=1.79852 t=15469
+di yi xiang 	第一項	c=1 d=1 t=6384
+di zhi 	地址	c=2 d=1 t=8973
+dian 	店	c=6 d=3.44331 t=12830
+dian 	點	c=6 d=1.41066 t=14440
+dian che 	電車	c=1 d=1 t=3462
+dian hua 	電話	c=1 d=1 t=12778
+dian ji 	點擊	c=2 d=1.89137 t=1477
+dian nao 	電腦	c=11 d=1 t=14101
+dian qing 	點清	c=1 d=1 t=706
+dian yao 	電邀	c=1 d=1 t=11032
+dian ying 	電影	c=5 d=4.94411 t=718
+dian zhe jiao 	踮着腳	c=1 d=1 t=8338
+dian zi 	電子	c=3 d=2.44307 t=4661
+diao dong 	調動	c=0 d=0.1 t=13486
+diao dong qi 	調動起	c=1 d=1 t=13487
+diao du 	調度	c=2 d=1.99501 t=5656
+diao yo 	吊喲	c=1 d=1 t=9413
+diao yong 	調用	c=13 d=2.29149 t=10496
+diao yong yong 	調用用	c=1 d=1 t=5639
+ding 	定	c=4 d=1.00006 t=13359
+ding li 	定力	c=1 d=1 t=1941
+ding wei 	定位	c=1 d=1 t=5787
+ding xing 	定性	c=1 d=1 t=7591
+ding yi 	定義	c=3 d=1 t=6839
+ding yue 	訂閱	c=1 d=1 t=1640
+ding zhi 	定製	c=2 d=1 t=11404
+ding zhu ya li 	頂住壓力	c=1 d=1 t=2953
+dong 	動	c=3 d=1.98511 t=15189
+dong ao hui 	冬奧會	c=1 d=1 t=963
+dong li 	動力	c=2 d=1.01455 t=13287
+dong shou 	動手	c=1 d=1 t=11728
+dong tai 	動態	c=1 d=1 t=1085
+dong tai ku 	動態庫	c=1 d=1 t=734
+dong xi 	東西	c=8 d=1.39468 t=15190
+dong zuo 	動作	c=1 d=1 t=5002
+dou 	抖	c=4 d=2.77696 t=12829
+dou 	都	c=34 d=0.359016 t=14110
+dou bi jiao 	都比較	c=1 d=1 t=3824
+dou bu zhi dao 	都不知道	c=1 d=1 t=1402
+dou cheng 	都成	c=0 d=0.1 t=11285
+dou cheng ke ren 	都成客人	c=1 d=1 t=11286
+dou dian 	抖店	c=1 d=1 t=13583
+dou dian 	逗點	c=2 d=1.99501 t=12828
+dou fei chang 	都非常	c=1 d=1 t=8088
+dou fu zhu 	都輔助	c=1 d=1 t=13091
+dou guo qu 	都過去	c=1 d=1 t=14111
+dou hong 	都紅	c=1 d=1 t=8375
+dou hui 	都會	c=1 d=1 t=8122
+dou ke yi 	都可以	c=3 d=1 t=13667
+dou mei you 	都沒有	c=2 d=1 t=12147
+dou neng 	都能	c=1 d=1 t=3963
+dou qiao 	陡峭	c=1 d=1 t=3254
+dou qu na le 	都去哪了	c=1 d=1 t=5973
+dou ruan 	都軟	c=1 d=1 t=3841
+dou shi 	都是	c=17 d=1.3606 t=14614
+dou xing 	都行	c=2 d=1.97531 t=1324
+dou yao 	都要	c=3 d=1.00003 t=12495
+dou yin 	抖音	c=6 d=3.57753 t=12721
+dou ying gai 	都應該	c=1 d=1 t=15127
+dou yong 	都用	c=1 d=1 t=4680
+dou you 	都有	c=2 d=1.00306 t=5219
+dou zai 	都在	c=5 d=1.00001 t=7187
+dou zhi 	鬥志	c=1 d=1 t=7691
+du 	獨	c=1 d=1 t=563
+du 	讀	c=10 d=1.0696 t=14823
+du chu 	獨處	c=2 d=1 t=8078
+du fa 	讀法	c=1 d=1 t=1953
+du guo 	度過	c=1 d=1 t=8008
+du le 	讀了	c=1 d=1 t=7558
+du li 	獨立	c=3 d=1 t=8023
+du qi lai 	讀起來	c=1 d=1 t=6631
+du shu 	讀書	c=2 d=1 t=15210
+du xiao shuo 	讀小說	c=1 d=1 t=6714
+du xing 	獨行	c=1 d=1 t=6726
+du zi 	獨自	c=1 d=1 t=3586
+duan 	短	c=1 d=1 t=4183
+duan 	端	c=8 d=1.16914 t=14578
+duan ban 	短板	c=1 d=1 t=8586
+duan duan 	短短	c=1 d=1 t=9370
+duan kou 	端口	c=2 d=1 t=11662
+duan kou hao 	端口號	c=1 d=1 t=1840
+duan lian 	鍛鍊	c=2 d=1 t=13511
+duan lian jie 	短連接	c=1 d=1 t=9443
+duan pian 	短片	c=1 d=1 t=13743
+duan shi jian 	短時間	c=1 d=1 t=12463
+duan shi pin 	短視頻	c=3 d=1 t=13600
+dui 	對	c=25 d=1.72616 t=15603
+dui bi 	對比	c=6 d=1 t=14669
+dui cha 	對茶	c=1 d=1 t=2701
+dui dui 	對對	c=1 d=1 t=13577
+dui fang 	對方	c=8 d=5.83768 t=8142
+dui ni 	對你	c=6 d=3.43004 t=7490
+dui wai 	對外	c=1 d=1 t=3741
+dui wo 	對我	c=1 d=1 t=8408
+dui xiao 	堆笑	c=1 d=0.0614212 t=563
+dui xue ren 	堆雪人	c=1 d=1 t=619
+dui ying 	對應	c=1 d=1 t=1971
+dui yu 	對於	c=3 d=1.11361 t=10836
+dui zi ji 	對自己	c=1 d=1 t=2599
+duo 	多	c=16 d=2.53939 t=14830
+duo dao 	躲到	c=1 d=1 t=2617
+duo de duo 	多得多	c=1 d=1 t=6751
+duo du shu 	多讀書	c=1 d=1 t=14712
+duo ge 	多個	c=5 d=1.71679 t=11628
+duo hang 	多行	c=2 d=1.00031 t=11078
+duo he 	多喝	c=1 d=1 t=5290
+duo kan kan 	多看看	c=1 d=1 t=12180
+duo le 	多了	c=3 d=1.09005 t=8291
+duo le yi fen 	多了一份	c=1 d=1 t=8292
+duo ma 	多嗎	c=2 d=1.0526 t=4877
+duo me 	多麼	c=1 d=1 t=2658
+duo shao 	多少	c=2 d=1.26185 t=14425
+duo shi jian 	多時間	c=1 d=1 t=14053
+duo shu chu 	多輸出	c=1 d=1 t=12820
+duo tui jian 	多推薦	c=1 d=1 t=1256
+duo xi tong 	多系統	c=1 d=1 t=10271
+duo zhao zhao 	多找找	c=1 d=1 t=1336
+e 	額	c=9 d=1.86665 t=15176
+e 	餓	c=1 d=1 t=7957
+e mi 	阿彌	c=0 d=0.1 t=12351
+e mi you 	阿彌有	c=1 d=1 t=12352
+e sha 	扼殺	c=1 d=1 t=7677
+e wai 	額外	c=1 d=1 t=11088
+e ye 	惡業	c=0 d=0.1 t=9608
+eh 	誒	c=0 d=0.1 t=14587
+ei 	誒	c=0 d=0.1 t=9608
+ei ei e ye 	誒誒惡業	c=1 d=1 t=9609
+ei ei ei ei e 	誒誒誒誒額	c=1 d=1 t=9610
+en 	嗯	c=45 d=1.86502 t=15408
+en 	恩	c=5 d=1.04045 t=11696
+en en 	嗯嗯	c=0 d=0.1 t=1931
+en ma cheng shi 	恩麻城市	c=1 d=1 t=976
+er 	二	c=2 d=1.00458 t=6347
+er 	兒	c=1 d=1 t=2615
+er 	而	c=2 d=1.99501 t=11752
+er 	耳	c=4 d=3.58841 t=12746
+er bo zi 	二撥子	c=3 d=1.84366 t=12749
+er ji 	耳機	c=5 d=3.96526 t=12134
+er jin zhi 	二進制	c=2 d=1 t=10210
+er lai 	而來	c=1 d=1 t=2069
+er mei you 	而沒有	c=1 d=1 t=3661
+er ru mu ran 	耳濡目染	c=1 d=1 t=5111
+er shi 	而是	c=1 d=1 t=13854
+er shua 	二刷	c=5 d=4.46601 t=1722
+er wei ma 	二維碼	c=1 d=1 t=11687
+er xiang 	二巷	c=0 d=0.1 t=1945
+er xiang 	二項	c=0 d=0.1 t=5248
+er xiang xian 	二巷限	c=2 d=1 t=4493
+er xiang xian 	二項限	c=7 d=1 t=14611
+fa 	法	c=9 d=1.00002 t=14610
+fa 	發	c=0 d=0.1 t=11189
+fa bu 	發佈	c=16 d=1.0084 t=14503
+fa bu dao 	發佈到	c=1 d=1 t=11684
+fa bu hou 	發佈後	c=1 d=1 t=8865
+fa bu zhi wei 	發佈職位	c=1 d=1 t=1258
+fa da 	發達	c=1 d=1 t=4306
+fa dong 	發動	c=1 d=1 t=1193
+fa fa 	發發	c=1 d=1 t=4951
+fa guan 	法官	c=2 d=1.956 t=1780
+fa guang 	發光	c=1 d=1 t=4036
+fa hui 	發揮	c=10 d=0.118726 t=15742
+fa hui xiang xiang li 	發揮想象力	c=1 d=1 t=15743
+fa lai 	發來	c=1 d=1 t=7143
+fa qi 	發起	c=1 d=1 t=15431
+fa sheng 	發生	c=4 d=0.302516 t=9132
+fa sheng di 	發生地	c=0 d=0.1 t=6255
+fa sheng ti lan er 	發生提籃兒	c=1 d=1 t=9133
+fa shi dao fang 	法師道昉	c=1 d=0.463013 t=563
+fa ting 	法庭	c=1 d=1 t=1689
+fa xian 	發現	c=10 d=1 t=15436
+fa xie 	發泄	c=1 d=1 t=4955
+fa yang 	發揚	c=1 d=1 t=13307
+fa ze 	法則	c=3 d=1.99005 t=14608
+fa zhan 	發展	c=3 d=1.53527 t=15596
+fan ben 	範本	c=1 d=1 t=9046
+fan cheng 	返程	c=2 d=1 t=3552
+fan er 	反而	c=2 d=1.70117 t=2480
+fan fan fu fu 	反反覆覆	c=1 d=1 t=7030
+fan hua 	繁華	c=1 d=1 t=2489
+fan hui 	返回	c=7 d=1.00101 t=12081
+fan kui 	反饋	c=2 d=1.956 t=15515
+fan nao 	煩惱	c=0 d=0.1 t=11351
+fan nao a gu shi 	煩惱啊故事	c=1 d=1 t=11352
+fan qian 	飯錢	c=1 d=1 t=9711
+fan qiang 	翻牆	c=1 d=1 t=9712
+fan qie 	番茄	c=0 d=0.1 t=6839
+fan qie zhong 	番茄鐘	c=1 d=1 t=6840
+fan ren 	凡人	c=1 d=1 t=4907
+fan si 	反思	c=12 d=3.02399 t=15136
+fan sui 	范雎	c=1 d=1 t=2852
+fan suo 	繁瑣	c=1 d=1.08607 t=2853
+fan wei 	範圍	c=2 d=1 t=15031
+fan xing 	反省	c=1 d=1 t=13839
+fan yi 	翻譯	c=4 d=1.09163 t=11666
+fan ying 	反應	c=1 d=1 t=3052
+fan zai 	凡在	c=1 d=1 t=1121
+fang 	放	c=3 d=1 t=12642
+fang 	方	c=2 d=1.98511 t=3080
+fang an 	方案	c=10 d=1.22845 t=10370
+fang an yi 	方案一	c=1 d=1 t=6341
+fang bian 	方便	c=2 d=1 t=9666
+fang dao 	放到	c=1 d=0.0668703 t=563
+fang di chan 	房地產	c=1 d=1 t=2635
+fang dong 	房東	c=2 d=1.99005 t=5289
+fang fa 	方法	c=18 d=1.11534 t=15664
+fang fa lun 	方法論	c=1 d=1 t=8484
+fang fan 	防範	c=1 d=1 t=10312
+fang ge 	放歌	c=2 d=0.929911 t=3082
+fang ge 	方格	c=3 d=1 t=14800
+fang ge bi ji 	放歌筆記	c=2 d=1 t=14798
+fang hui 	放回	c=1 d=1 t=5699
+fang jia 	放假	c=2 d=1.69768 t=5005
+fang jian nei 	房間內	c=1 d=1 t=15260
+fang kong 	放空	c=1 d=1 t=5621
+fang kong 	防控	c=2 d=1.10322 t=5627
+fang kong da nao 	防控大腦	c=1 d=1 t=5628
+fang mian 	方面	c=5 d=2.08111 t=13033
+fang qi 	放棄	c=2 d=1 t=4318
+fang shi 	方式	c=51 d=1.07929 t=15412
+fang shi yi 	方式一	c=1 d=0.839457 t=563
+fang si 	放肆	c=1 d=1 t=15132
+fang song 	放鬆	c=1 d=1 t=4939
+fang wen 	訪問	c=5 d=1 t=10817
+fang xiang 	方向	c=6 d=1.00001 t=15748
+fang zai 	放在	c=5 d=1 t=9398
+fang zhi 	防止	c=1 d=1 t=10330
+fang zi 	房子	c=1 d=1 t=2349
+fei 	費	c=1 d=1.1 t=11128
+fei chang 	非常	c=17 d=1.19739 t=14992
+fei pan 	飛盤	c=3 d=2.88391 t=3283
+fei qi 	廢棄	c=4 d=2.15704 t=6821
+fei qian ming 	費簽名	c=1 d=1 t=11129
+fen 	分	c=1 d=1.09851 t=6284
+fen bie 	分別	c=1 d=1 t=1970
+fen chang 	分廠	c=1 d=1 t=14647
+fen ge 	分割	c=1 d=1 t=8963
+fen jie 	分解	c=1 d=1 t=11936
+fen jie cheng 	分解成	c=1 d=1 t=11941
+fen kai 	分開	c=0 d=0.1 t=8650
+fen lei 	分類	c=2 d=1 t=14860
+fen xi 	分析	c=12 d=1.11229 t=15483
+fen xiang 	分享	c=7 d=1.72619 t=15430
+fen ye 	分頁	c=3 d=3.05078 t=1135
+fen ye luo ji 	分頁邏輯	c=1 d=1 t=1126
+fen zhi 	分支	c=3 d=1.97531 t=9327
+fen zhong 	分鐘	c=5 d=1 t=14865
+fen zhuang 	分裝	c=2 d=1.35345 t=10967
+fen zu 	分組	c=4 d=1 t=9138
+feng 	風	c=4 d=1 t=12446
+feng chang 	蜂場	c=1 d=1 t=9251
+feng fu 	豐富	c=4 d=1.55851 t=13705
+feng fu yue li 	豐富閱歷	c=1 d=1 t=8426
+feng hua 	風華	c=1 d=1 t=9281
+feng jing 	風景	c=2 d=1 t=8071
+feng kuang 	瘋狂	c=1 d=1.09094 t=3442
+feng mao 	風貌	c=0 d=0.1 t=1696
+feng shou 	豐收	c=1 d=1 t=4253
+feng xian 	風險	c=1 d=1 t=5061
+feng xiang 	風向	c=1 d=1 t=3366
+feng yi yang 	風一樣	c=1 d=1 t=2595
+feng zhuan 	風轉	c=2 d=1.00031 t=10668
+feng zhuang 	封裝	c=19 d=1.00228 t=12449
+feng zhuang dao 	封裝到	c=1 d=1 t=10765
+feng zhuang wei 	封裝爲	c=1 d=1 t=9026
+fo shan 	佛山	c=1 d=1 t=1151
+fou ze 	否則	c=2 d=1.21438 t=8863
+fu bei 	父輩	c=1 d=1 t=702
+fu chi 	扶持	c=1 d=1 t=3204
+fu chong 	俯衝	c=2 d=1.99005 t=3253
+fu chu 	付出	c=3 d=1.00013 t=13860
+fu fei 	付費	c=2 d=1 t=13290
+fu gai 	覆蓋	c=2 d=1 t=5771
+fu hao 	符號	c=2 d=1.99005 t=10711
+fu he 	符合	c=2 d=1 t=7313
+fu he shi 	複合式	c=0 d=0.1 t=6279
+fu he xing 	複合型	c=3 d=2.98506 t=9274
+fu jin 	附近	c=6 d=1.01832 t=4985
+fu li 	福利	c=3 d=1 t=6254
+fu mian 	負面	c=2 d=1.00002 t=5105
+fu pan 	覆盤	c=1 d=1 t=15331
+fu ren 	富人	c=2 d=1.00001 t=15627
+fu ren 	服人	c=0 d=0.1 t=1701
+fu shu 	服輸	c=1 d=1 t=11473
+fu ti 	附體	c=1 d=1 t=7334
+fu wu 	服務	c=13 d=3.50122 t=11436
+fu wu qi 	服務器	c=2 d=1.00004 t=11137
+fu xi 	複習	c=2 d=1 t=13413
+fu xian 	復現	c=1 d=1 t=15268
+fu xian 	浮現	c=1 d=1 t=15267
+fu yang 	阜陽	c=1 d=1 t=13240
+fu yao 	服藥	c=1 d=1 t=7996
+fu ye 	副業	c=22 d=1.05647 t=14306
+fu ye de 	副業的	c=1 d=1 t=12837
+fu yong 	服用	c=1 d=1 t=7999
+fu yuan 	復原	c=1 d=1 t=8895
+fu za 	複雜	c=2 d=1.01448 t=4304
+fu zhi 	複製	c=1 d=1 t=10688
+fu zhu 	輔助	c=2 d=1.00127 t=13963
+fu zhu xing dong 	付諸行動	c=1 d=1 t=8596
+gai 	改	c=2 d=1.03239 t=13780
+gai bian 	改變	c=8 d=1.30596 t=14195
+gai jin 	改進	c=2 d=1.99005 t=2070
+gai lai 	該來	c=1 d=1 t=939
+gai ming 	改命	c=1 d=1 t=7618
+gai nian 	概念	c=5 d=1.00009 t=13197
+gai ru he 	該如何	c=1 d=1 t=4803
+gai you 	該有	c=4 d=1.00026 t=14664
+gai zai na er me 	改在哪兒麼	c=1 d=1 t=13781
+gai zen me 	該怎麼	c=5 d=1.60412 t=15070
+gai zi 	改自	c=1 d=1 t=6363
+gan 	幹	c=2 d=1.97531 t=1323
+gan 	感	c=1 d=0.1 t=10622
+gan chu 	感觸	c=2 d=1.92312 t=6664
+gan dao 	趕到	c=1 d=1 t=3582
+gan dong 	感動	c=4 d=3.42498 t=8309
+gan gan gan gan 	幹幹幹幹	c=1 d=1 t=1822
+gan hai 	趕海	c=4 d=3.89287 t=4171
+gan ji 	趕集	c=2 d=1.58567 t=1277
+gan jue 	感覺	c=19 d=1.56681 t=7662
+gan nian 	感念	c=1 d=1 t=6707
+gan ran 	感染	c=1 d=1 t=5102
+gan rao 	干擾	c=1 d=1 t=6793
+gan shang 	趕上	c=2 d=1.00008 t=4430
+gan shou 	感受	c=2 d=1 t=10598
+gan shou dao 	感受到	c=3 d=1.05759 t=8433
+gan shou yi xia 	感受一下	c=1 d=1 t=4261
+gan tan 	感嘆	c=1 d=1 t=3809
+gan wu 	感悟	c=4 d=1 t=12144
+gan xing qu 	感興趣	c=5 d=1.0028 t=8591
+gan zhe 	乾着	c=1 d=1 t=4103
+gan zhe 	趕着	c=1 d=1 t=4108
+gang 	剛	c=5 d=1.01291 t=8329
+gang cai 	剛纔	c=2 d=1.02171 t=14477
+gang cai wei shen me 	剛纔爲什麼	c=1 d=1 t=1107
+gang cong 	剛從	c=3 d=1 t=7926
+gang jue 	剛絕	c=1 d=1 t=7024
+gang tie xia 	鋼鐵俠	c=1 d=1 t=984
+gang wei 	崗位	c=1 d=1 t=2525
+gang xing 	剛醒	c=1 d=1 t=4039
+gao 	高	c=3 d=2.73874 t=6228
+gao da 	高達	c=1 d=1 t=5387
+gao da shang 	高大上	c=1 d=1 t=4533
+gao dao 	搞到	c=1 d=1 t=5386
+gao de 	搞得	c=1 d=1 t=7147
+gao ding 	搞定	c=1 d=1 t=11866
+gao gao xing xing 	高高興興	c=1 d=1 t=643
+gao guan hou lu 	高官厚祿	c=1 d=1 t=1698
+gao ji 	高級	c=3 d=1.00251 t=11453
+gao pan bu qi 	高攀不起	c=1 d=1 t=2652
+gao shang 	高尚	c=1 d=1 t=5388
+gao shou 	高手	c=3 d=1.00102 t=4705
+gao su 	告訴	c=2 d=1 t=13911
+gao xiao 	高效	c=9 d=1.44709 t=14519
+gao xiao 	高校	c=7 d=1.44709 t=14517
+gao xiao ao 	高效奧	c=1 d=1 t=2976
+gao xiao neng 	高效能	c=2 d=1.94649 t=15579
+gao zhi liang 	高質量	c=1 d=1 t=14762
+ge 	個	c=9 d=1.91487 t=12305
+ge 	格	c=2 d=1.98511 t=3081
+ge bie 	個別	c=1 d=1 t=13966
+ge da 	各大	c=1 d=1 t=3216
+ge hang ru ge shan 	隔行如隔山	c=1 d=1 t=5194
+ge li 	隔離	c=1 d=0.380832 t=686
+ge qu 	歌曲	c=1 d=1 t=937
+ge ren 	個人	c=30 d=1.00183 t=15026
+ge shi 	格式	c=4 d=1.00004 t=8855
+ge si qi zhi 	各司其職	c=1 d=1 t=8653
+ge ti 	個體	c=1 d=1 t=12758
+ge wan ge de 	各玩各的	c=1 d=1 t=8075
+ge xiao shi 	個小時	c=1 d=1 t=5428
+ge xing hua 	個性化	c=1 d=1 t=1816
+ge zhong 	各種	c=11 d=1 t=15254
+ge zi 	各自	c=1 d=1 t=8090
+gei 	給	c=11 d=1.00875 t=10693
+gei chu 	給出	c=1 d=1 t=7565
+gei ding 	給定	c=1 d=1 t=9420
+gei ni 	給你	c=3 d=0.1 t=12151
+gei ta 	給她	c=1 d=1 t=1369
+gei wo 	給我	c=2 d=1 t=14055
+gen 	跟	c=0 d=0.1 t=9505
+gen ben 	根本	c=1 d=1 t=2871
+gen bu shang 	跟不上	c=1 d=1 t=2395
+gen ju 	根據	c=1 d=1 t=11215
+gen mu lu 	根目錄	c=1 d=1 t=10460
+gen mu xia 	跟目下	c=1 d=1 t=9506
+gen you 	根由	c=1 d=1 t=9217
+gen zhe 	跟着	c=2 d=1 t=4209
+geng 	更	c=8 d=1.00068 t=13590
+geng dao 	更到	c=1 d=1 t=13814
+geng de 	更得	c=1 d=1 t=12488
+geng duo 	更多	c=8 d=1.08161 t=13759
+geng duo de 	更多的	c=1 d=1 t=13762
+geng gao 	更高	c=1 d=1 t=9220
+geng gu bu bian 	亙古不變	c=1 d=1 t=7686
+geng hao 	更好	c=7 d=1 t=14887
+geng jia 	更加	c=6 d=1.00081 t=11451
+geng jiao 	更覺	c=1 d=1 t=9216
+geng ke pa 	更可怕	c=1 d=1 t=3830
+geng kuan 	更寬	c=0 d=0.1 t=15537
+geng quan mian de 	更全面的	c=1 d=1 t=9668
+geng shi he 	更適合	c=3 d=1.94649 t=10983
+geng xin 	更新	c=16 d=1.01419 t=12091
+geng you 	更有	c=1 d=1 t=6721
+geng you xiao 	更有效	c=1 d=1 t=9809
+geng zhong 	更重	c=1 d=1 t=11320
+geng zhuan zhu zu 	更專注組	c=1 d=1 t=12372
+gong 	共	c=1 d=1.00001 t=13484
+gong cheng 	工程	c=0 d=0.1 t=10289
+gong du 	共度	c=1 d=1 t=5326
+gong en na ge 	共恩那個	c=1 d=1 t=11516
+gong eng 	共嗯	c=1 d=1 t=11406
+gong gao 	公告	c=0 d=0.1 t=10065
+gong gao neng nai 	公告能耐	c=1 d=1 t=10066
+gong gong chang suo 	公共場所	c=1 d=1 t=4649
+gong gong jiao tong 	公共交通	c=1 d=1 t=4305
+gong ji 	攻擊	c=0 d=0.1 t=13960
+gong ji bian cheng 	攻擊編程	c=1 d=1 t=13961
+gong ju 	工具	c=42 d=1.00697 t=15222
+gong ju bao 	工具包	c=1 d=1 t=9365
+gong ju ku 	工具庫	c=2 d=1.57695 t=9342
+gong jue 	公爵	c=4 d=1 t=14005
+gong ke 	功課	c=1 d=1 t=3410
+gong lue 	攻略	c=3 d=1 t=12672
+gong neng 	功能	c=16 d=1.00061 t=15446
+gong neng ne 	功能呢	c=1 d=1 t=10411
+gong niu guan 	公牛棺	c=1 d=1 t=2130
+gong shang 	工商	c=5 d=1.02885 t=13731
+gong si 	公司	c=7 d=3.81905 t=1563
+gong si meng 	公司夢	c=1 d=1 t=1463
+gong si ming 	公司名	c=1 d=1 t=1464
+gong xian 	貢獻	c=1 d=1 t=12665
+gong xiang 	共享	c=5 d=1.94721 t=11517
+gong yao 	公鑰	c=2 d=1.96079 t=11577
+gong yong 	共用	c=1 d=1 t=796
+gong yuan 	公園	c=2 d=1.23931 t=8359
+gong yuan li 	公園裏	c=1 d=1 t=7947
+gong zhong 	公衆	c=1 d=1 t=1886
+gong zhong hao 	公衆號	c=5 d=1.00001 t=15577
+gong zuo 	工作	c=34 d=1.04355 t=15310
+gong zuo liu 	工作流	c=5 d=1.9958 t=10888
+gou 	狗	c=4 d=1.75461 t=11492
+gou gou 	狗狗	c=1 d=1 t=972
+gou jian 	構建	c=3 d=1.0009 t=14553
+gou tong 	溝通	c=3 d=1 t=14482
+gu bu 	骨部	c=1 d=1 t=12004
+gu dao 	孤島	c=1 d=1 t=3690
+gu ding 	固定	c=1 d=1 t=13189
+gu ge 	谷歌	c=3 d=2.95556 t=915
+gu ge pin yin 	谷歌拼音	c=1 d=1 t=908
+gu ji 	估計	c=11 d=1 t=15457
+gu ji 	顧及	c=1 d=1 t=12030
+gu li 	鼓勵	c=4 d=1.44264 t=13480
+gu mu 	古墓	c=1 d=1 t=7429
+gu shi 	故事	c=6 d=1.78663 t=15669
+gu wen 	古文	c=1 d=1 t=7469
+gu wu 	鼓舞	c=2 d=1.79453 t=14227
+gu yi 	故意	c=1 d=1.09501 t=15196
+gua 	掛	c=4 d=1.8009 t=12554
+gua gua jiao 	呱呱叫	c=1 d=1 t=1687
+gua li 	掛曆	c=1 d=1 t=12558
+gua xiao qi 	刮削器	c=1 d=1 t=715
+gua zai 	掛在	c=3 d=2.91238 t=11611
+guan 	觀	c=1 d=1 t=14814
+guan 	館	c=5 d=2.00099 t=13919
+guan bi 	關閉	c=2 d=0.1 t=10110
+guan bing 	官兵	c=1 d=1 t=1714
+guan cha 	觀察	c=1 d=1 t=5095
+guan chi 	關遲	c=1 d=1 t=9891
+guan dian 	觀點	c=3 d=1.73133 t=14339
+guan diao 	關掉	c=2 d=1.00297 t=10363
+guan fang 	官方	c=1 d=1 t=5676
+guan jian 	關鍵	c=1 d=1 t=14820
+guan jian zi 	關鍵字	c=2 d=1 t=9419
+guan li 	管理	c=66 d=1.94258 t=15328
+guan li ceng 	管理層	c=1 d=1 t=9967
+guan li xue 	管理學	c=1 d=1 t=9811
+guan lian 	關聯	c=2 d=1.00009 t=3006
+guan nian 	觀念	c=1 d=1 t=13371
+guan tou 	罐頭	c=1 d=1 t=8382
+guan wang 	觀望	c=1 d=1 t=5083
+guan xi 	關係	c=3 d=1.00004 t=11219
+guan zhu 	關注	c=5 d=1.34301 t=14442
+guan zhu quan 	關注圈	c=2 d=1.81465 t=5939
+guang 	光	c=1 d=1 t=1439
+guang 	逛	c=1 d=1 t=8082
+guang bo 	廣播	c=1 d=1 t=8727
+guang gao 	廣告	c=1 d=1 t=8728
+guang gong yuan 	逛公園	c=1 d=1 t=8061
+guang guang 	逛逛	c=1 d=1 t=6617
+guang jian 	光劍	c=1 d=1 t=1594
+guang kuo 	廣闊	c=1 d=1 t=3812
+guang ming 	光明	c=1 d=0.139557 t=14931
+gui 	貴	c=1 d=1 t=2689
+gui chui deng 	鬼吹燈	c=1 d=1 t=7426
+gui dang 	歸檔	c=1 d=1 t=689
+gui hua 	規劃	c=8 d=2.52213 t=15593
+gui lai 	歸來	c=1 d=1 t=14639
+gui lv 	規律	c=2 d=1.96561 t=15769
+gui mo 	規模	c=1 d=1 t=1430
+gui shu gan 	歸屬感	c=2 d=1.97045 t=2435
+guo 	國	c=1 d=0.272532 t=563
+guo 	果	c=2 d=1.82696 t=8374
+guo 	過	c=8 d=1 t=13586
+guo chen 	郭晨	c=2 d=1 t=14317
+guo cheng 	過程	c=34 d=1.81113 t=15114
+guo cheng zhong 	過程中	c=1 d=1 t=11260
+guo duan 	果斷	c=1 d=1 t=14134
+guo guang 	國光	c=1 d=1 t=1672
+guo hao 	過好	c=2 d=1 t=12481
+guo jia 	國家	c=4 d=1 t=3203
+guo jia ji 	國家級	c=1 d=1 t=1667
+guo lv 	過濾	c=1 d=1 t=6790
+guo nian 	過年	c=2 d=1.97045 t=645
+guo qi 	國旗	c=1 d=1 t=3341
+guo qing 	國慶	c=1 d=1 t=6586
+guo qu 	過去	c=1 d=0.1 t=14110
+guo sheng ri 	過生日	c=1 d=1 t=7317
+guo xue 	國學	c=2 d=1.93707 t=7369
+guo yin 	過癮	c=1 d=1 t=2905
+ha ha 	哈哈	c=13 d=1.00025 t=11099
+ha ha ha 	哈哈哈	c=2 d=1.04784 t=5481
+ha ha ha ha 	哈哈哈哈	c=0 d=0.192312 t=3104
+ha ha ha ha lai le 	哈哈哈哈來了	c=20 d=18.9351 t=3111
+ha ha ha hao le li fa hui hao hao hao le le 	哈哈哈好了立法會好好好了了	c=1 d=1 t=3090
+ha ha ha hao le li kai hao hao hao hao le li kai hao hao hao hao le li kai hao hao hao hao lai le 	哈哈哈好了離開好好好好了離開好好好好了離開好好好好來了	c=1 d=1 t=3106
+ha ha ha hao le li kai hao hao hao hao le li kai hao hao hao hao le li kai hao hao hao hao le li kai hao hao hao hao le lu he hao hao hao le lu he hao hao hao le lu he hao hao hao le liang hao hao hao hao le lu he hao hao hao le lu he hao hao hao le lu he hao hao hao le lu he hao hao hao le lu he hao hao hao lai la ha ha ha ha lai le 	哈哈哈好了離開好好好好了離開好好好好了離開好好好好了離開好好好好了六合好好好了六合好好好了六合好好好了良好好好好了六合好好好了六合好好好了六合好好好了六合好好好了六合好好好來啦哈哈哈哈來了	c=1 d=1 t=3105
+ha ha hao shu fu 	哈哈好舒服	c=1 d=0.484325 t=563
+hai 	海	c=7 d=1 t=14304
+hai 	還	c=9 d=0.123227 t=10793
+hai bian 	海邊	c=3 d=2.27229 t=3568
+hai bu zhi zu 	還不知足	c=1 d=1 t=10502
+hai diao 	海釣	c=1 d=1 t=3713
+hai fen xiang 	還分享	c=2 d=1.56553 t=8149
+hai feng 	海風	c=1 d=1 t=3866
+hai hao 	還好	c=3 d=1.52219 t=4996
+hai ke yi 	還可以	c=2 d=1 t=7729
+hai lang 	海浪	c=1 d=1 t=3869
+hai mei 	還沒	c=5 d=1 t=10154
+hai mei lai ji kan 	還沒來及看	c=1 d=1 t=7514
+hai mei you 	還沒有	c=3 d=1 t=10156
+hai neng 	還能	c=3 d=1 t=13309
+hai shi 	還是	c=24 d=1.00022 t=15008
+hai shi hen 	還是很	c=1 d=1 t=6307
+hai shui 	海水	c=1 d=1 t=3833
+hai shuo you 	還說有	c=1 d=1 t=13506
+hai xian 	海鮮	c=1 d=1.09704 t=2281
+hai xian zi you 	海鮮自由	c=1 d=1 t=2276
+hai xiang 	還想	c=2 d=1.45841 t=12033
+hai xing 	海星	c=3 d=1.79057 t=15666
+hai xing 	還行	c=1 d=1 t=808
+hai yao 	還要	c=2 d=1 t=15181
+hai you 	還有	c=25 d=1.63709 t=14597
+hai yu 	海域	c=1 d=1 t=7473
+hai za 	還扎	c=1 d=1 t=6995
+hai zai 	還在	c=3 d=1.00003 t=7015
+hai zei wang 	海賊王	c=2 d=1.98511 t=3979
+hai zhen 	還真	c=1 d=1 t=3236
+hai zhi chi 	還支持	c=1 d=1 t=10794
+hai zi 	孩子	c=0 d=0.1 t=14558
+han dong 	寒冬	c=1 d=1 t=2639
+han shu 	函數	c=5 d=3.45908 t=10687
+han zhe 	喊着	c=1 d=1 t=7964
+hang 	行	c=5 d=1 t=12197
+hang qing 	行情	c=5 d=1.00006 t=4878
+hang shu 	行書	c=1 d=1 t=10685
+hang xian 	航線	c=1 d=1 t=4355
+hang ye 	行業	c=6 d=1.18919 t=12514
+hao 	好	c=24 d=1 t=15433
+hao 	號	c=4 d=1 t=15389
+hao de 	好的	c=8 d=1.62767 t=15651
+hao dian 	好點	c=2 d=1 t=12808
+hao duo 	好多	c=1 d=1 t=4113
+hao feng mao 	好風貌	c=1 d=1 t=1697
+hao hao 	好好	c=9 d=1.91393 t=13699
+hao hao hao hao lai le qian hou hao hao hao le le 	好好好好來了前後好好好了了	c=1 d=1 t=3088
+hao hao he fu he shi 	好好和複合式	c=2 d=1.91851 t=6297
+hao hao kao shi 	好好考試	c=1 d=0.465334 t=563
+hao hao sheng huo 	好好生活	c=1 d=1 t=8486
+hao hen duo 	好很多	c=1 d=1 t=6711
+hao jie guo 	好結果	c=1 d=1 t=7743
+hao kan 	好看	c=1 d=1 t=6635
+hao ke 	好客	c=1 d=1 t=2312
+hao le 	好了	c=0 d=0.383206 t=3105
+hao lou 	號樓	c=1 d=1 t=12717
+hao shi 	好事	c=2 d=1 t=10531
+hao shu 	好書	c=2 d=1.99005 t=14968
+hao shu fu 	好舒服	c=5 d=4.75705 t=8815
+hao ting 	好聽	c=1 d=1 t=5037
+hao wan 	好玩	c=4 d=1.09865 t=3128
+hao xiang 	好像	c=14 d=1 t=14437
+hao xiang mu 	好項目	c=1 d=1 t=5170
+hao xiao 	好笑	c=1 d=1 t=3169
+hao xiao xi 	好消息	c=4 d=1.48225 t=3537
+hao yong 	好用	c=3 d=1.00197 t=4525
+hao you 	好友	c=1 d=1 t=4690
+he 	和	c=176 d=2.70273 t=15667
+he 	喝	c=2 d=1.95123 t=2740
+he bu cuo 	和不錯	c=1 d=1 t=8710
+he cha 	喝茶	c=4 d=2.97092 t=2780
+he chang 	合唱	c=1 d=1 t=14368
+he e 	和俄	c=1 d=1 t=12893
+he fei shi 	合肥市	c=1 d=1 t=6439
+he han shang fei hui 	河漢尚裴回	c=1 d=1 t=8791
+he he 	呵呵	c=0 d=0.189137 t=6307
+he he sa huang 	呵呵撒謊	c=2 d=1.95123 t=6295
+he hu 	呵護	c=0 d=0.1 t=13581
+he ji 	合計	c=1 d=1 t=4274
+he kou 	河口	c=1 d=1 t=2500
+he lao ban 	和老伴	c=1 d=1 t=8037
+he li 	合理	c=1 d=1 t=8599
+he li hua 	合理化	c=1 d=1 t=12013
+he nan 	河南	c=1 d=1 t=3209
+he nan sheng 	河南省	c=0 d=0.1 t=12707
+he nan sheng kai feng shi 	河南省開封市	c=1 d=1 t=12708
+he shi 	合適	c=1 d=1 t=5720
+he shui huo huo 	河水活活	c=1 d=1 t=6306
+he suan 	核酸	c=2 d=1 t=8356
+he wan 	喝完	c=1 d=1 t=2725
+he xia qu 	喝下去	c=1 d=1 t=2742
+he xin 	核心	c=4 d=1.27275 t=13354
+he xin qu 	核心區	c=1 d=1 t=8687
+he ying yong 	和應用	c=1 d=1 t=11456
+he zheng zhou 	和鄭州	c=1 d=1 t=5137
+he zuo 	合作	c=1 d=1 t=14348
+hei ban 	黑板	c=1 d=1 t=8726
+hei dong 	黑洞	c=1 d=1 t=12131
+hei shou 	黑手	c=2 d=1.98511 t=1797
+hen 	很	c=21 d=1 t=15650
+hen bu cuo 	很不錯	c=4 d=1 t=14615
+hen bu duo 	很不多	c=2 d=1.00657 t=13638
+hen bu o 	很不哦	c=1 d=1 t=7183
+hen da 	很大	c=6 d=1 t=15175
+hen duo 	很多	c=35 d=2.41702 t=14243
+hen fu he 	很符合	c=1 d=1 t=3250
+hen gao 	很高	c=1 d=1 t=7512
+hen gao xing 	很高興	c=2 d=1 t=4857
+hen guang 	很廣	c=1 d=1 t=5217
+hen hao 	很好	c=2 d=1.06266 t=13625
+hen hao de 	很好的	c=1 d=1 t=13623
+hen ji 	痕跡	c=1 d=1 t=8265
+hen jin 	很近	c=1 d=1 t=2372
+hen jiu 	很久	c=3 d=1.49415 t=4750
+hen kuai 	很快	c=1 d=1 t=13321
+hen kuang 	很狂	c=1 d=1 t=13320
+hen lei 	很累	c=1 d=1 t=4216
+hen li xiang 	很理想	c=1 d=1 t=3301
+hen liu xing 	很流行	c=2 d=1.95123 t=3273
+hen nan 	很難	c=1 d=1 t=12461
+hen qiang 	很強	c=2 d=0.100051 t=12441
+hen qiang dan 	很強單	c=1 d=1 t=10924
+hen shao 	很少	c=5 d=1.33176 t=3469
+hen xiang 	很像	c=1 d=1 t=14930
+hen xiang 	很想	c=1 d=1 t=14933
+hen xiang wang 	很嚮往	c=1 d=1 t=5176
+hen you 	很有	c=6 d=1.00001 t=7398
+hen you xian 	很悠閒	c=1 d=1 t=6615
+hen zheng 	很正	c=1 d=1 t=7568
+hen zhong yao 	很重要	c=1 d=1 t=5764
+hen zhun 	很準	c=3 d=1 t=11711
+hen zi you 	恨自由	c=1 d=1 t=3491
+heng fu 	橫幅	c=0 d=0.1 t=2806
+heng pai 	橫排	c=1 d=0.217621 t=563
+hong 	宏	c=8 d=6.02698 t=5630
+hong 	紅	c=5 d=1.99005 t=8332
+hong cha 	紅茶	c=1 d=1 t=2760
+hong li 	紅利	c=1 d=1 t=4482
+hong ming ling 	宏命令	c=1 d=1 t=5523
+hong shu 	紅薯	c=0 d=0.1 t=4259
+hong tou 	紅頭	c=1 d=1 t=8331
+hou 	後	c=4 d=1 t=13434
+hou ban cheng 	後半程	c=1 d=1 t=3813
+hou hui 	後悔	c=2 d=1.00001 t=14079
+hou jin 	後勁	c=1 d=1 t=5297
+hou lai 	後來	c=2 d=1.23575 t=8280
+hou xu 	後續	c=5 d=1.05831 t=11608
+hou xu cu 	後續粗	c=1 d=1 t=10926
+hou xuan 	候選	c=2 d=1 t=14987
+hou zi 	猴子	c=1 d=1 t=14607
+hu 	戶	c=1 d=1 t=11671
+hu chi 	互斥	c=1 d=0.814647 t=563
+hu die 	蝴蝶	c=1 d=1 t=15774
+hu dong 	互動	c=1 d=1 t=14325
+hu ge 	胡歌	c=0 d=0.1 t=9081
+hu ge na 	胡歌那	c=1 d=1 t=9082
+hu hu sheng feng 	虎虎生風	c=4 d=1.00001 t=8828
+hu shi 	忽視	c=1 d=1 t=8526
+hu shi hu fei 	忽是忽非	c=2 d=1.99005 t=6300
+hu tong 	衚衕	c=1 d=1 t=14323
+hu wai 	戶外	c=6 d=1 t=15556
+hu you 	忽悠	c=1 d=1 t=2767
+hua 	話	c=7 d=1.99005 t=11421
+hua ban 	畫板	c=1 d=1 t=4605
+hua bian 	譁變	c=1 d=1 t=1761
+hua cha 	花茶	c=1 d=1 t=2757
+hua fei 	花費	c=1 d=1 t=13983
+hua fei 	話費	c=1 d=1 t=13981
+hua jia 	花甲	c=1 d=1 t=1772
+hua ju 	話劇	c=1 d=1 t=1676
+hua le 	化了	c=1 d=1 t=7078
+hua ning 	華寧	c=1 d=1 t=11001
+hua ti 	話題	c=1 d=1 t=5197
+huan 	換	c=2 d=1.66365 t=11478
+huan cheng 	環城	c=1 d=1 t=4365
+huan cun 	緩存	c=3 d=1.27472 t=10096
+huan dao 	環島	c=1 d=1 t=3775
+huan fa 	煥發	c=1 d=1 t=8540
+huan ji 	換季	c=1 d=1 t=3113
+huan jie 	緩解	c=2 d=1 t=12652
+huan jing 	環境	c=42 d=2.23488 t=12242
+huan jing de 	環境的	c=1 d=1 t=11373
+huan jing shi 	環境時	c=1 d=1 t=11378
+huan jing xia 	環境下	c=2 d=1 t=8167
+huan ning 	緩凝	c=2 d=1.00417 t=10273
+huan xing 	喚醒	c=1 d=1 t=4492
+huan ying 	歡迎	c=2 d=1.99005 t=11635
+huang bo 	黃渤	c=2 d=1.99501 t=15319
+hui 	回	c=1 d=0.501576 t=563
+hui 	會	c=11 d=1.00179 t=11261
+hui bu hui 	會不會	c=3 d=1.03862 t=4215
+hui dao 	回到	c=1 d=1 t=10739
+hui dao zhi 	會導致	c=1 d=1 t=8864
+hui diao 	回調	c=1 d=1 t=5670
+hui fu 	恢復	c=4 d=2.5031 t=10245
+hui gu 	回顧	c=8 d=1 t=14863
+hui gui 	回歸	c=1 d=1 t=9423
+hui jia 	回家	c=4 d=1 t=8380
+hui jing 	回京	c=3 d=1.97768 t=4633
+hui lai 	回來	c=3 d=1 t=7928
+hui long guan 	回龍觀	c=9 d=3.80066 t=12723
+hui qu 	回去	c=3 d=1 t=5168
+hui shi 	會是	c=1 d=0.228779 t=563
+hui xiang 	回想	c=1 d=1 t=14049
+hui xie 	回血	c=4 d=3.79946 t=15228
+hui yi 	會議	c=6 d=3.23271 t=15553
+hui yi li 	會議裏	c=1 d=1 t=15405
+hui you 	會有	c=1 d=1 t=5001
+hun he 	混合	c=1 d=1 t=9449
+huo 	或	c=1 d=1 t=9388
+huo 	活	c=1 d=1 t=1316
+huo 	霍	c=0 d=0.1 t=4852
+huo che 	火車	c=2 d=1.07577 t=4093
+huo che piao 	火車票	c=1 d=1 t=3554
+huo che zhan 	火車站	c=2 d=1.0018 t=3625
+huo cheng 	活成	c=1 d=1 t=15115
+huo de 	獲得	c=1 d=1 t=12596
+huo dong 	活動	c=5 d=1 t=13485
+huo duo 	活多	c=1 d=1 t=1321
+huo qu 	獲取	c=15 d=1 t=13252
+huo sheng sheng 	活生生	c=2 d=1.95123 t=8500
+huo shu guang 	或曙光	c=3 d=2.98506 t=673
+huo shu guang 	霍曙光	c=5 d=1.98511 t=15558
+huo zhai 	霍寨	c=1 d=1 t=12711
+huo zhe 	或者	c=1 d=1 t=3434
+ji 	即	c=5 d=1.00001 t=13288
+ji 	機	c=3 d=1.00001 t=13897
+ji bei 	幾杯	c=1 d=1 t=5292
+ji ben 	基本	c=2 d=1 t=7813
+ji biao wan 	機標萬	c=1 d=1 t=14872
+ji chang 	機場	c=1 d=1 t=4087
+ji cheng 	集成	c=17 d=1.0319 t=10558
+ji chu 	基礎	c=8 d=1.35363 t=12859
+ji dai 	亟待	c=1 d=1 t=13517
+ji de 	記得	c=1 d=1 t=3208
+ji dian 	幾點	c=1 d=1 t=14479
+ji fa 	激發	c=5 d=3.36313 t=7689
+ji fen 	積分	c=0 d=0.1 t=6260
+ji ge 	幾個	c=12 d=1.00003 t=15685
+ji ge xiao shi 	幾個小時	c=1 d=1 t=4123
+ji gou 	機構	c=1 d=1 t=12454
+ji guo 	記過	c=1 d=1 t=10706
+ji hang 	幾行	c=1 d=1 t=11566
+ji hua 	計劃	c=23 d=1.44789 t=14835
+ji hua shu fa jia 	計劃書法家	c=1 d=1 t=6294
+ji huang 	饑荒	c=1 d=1 t=8385
+ji hui 	機會	c=1 d=1 t=2458
+ji huo 	激活	c=11 d=1 t=14265
+ji ji 	幾集	c=1 d=1 t=7368
+ji ji 	積極	c=3 d=1 t=14204
+ji ji ji ji ji 	季姬擊雞記	c=2 d=1.77106 t=6303
+ji ji ji ji ji jie jing 	季姬擊雞記捷徑	c=1 d=1 t=6304
+ji ji shen jia 	積極參加	c=3 d=2.17708 t=6283
+ji ji shen jia fen 	積極參加分	c=1 d=1 t=6282
+ji ji shen jia ji fen 	積極參加積分	c=1 d=1 t=6261
+ji ji zhu dong 	積極主動	c=2 d=1.55711 t=7650
+ji jia 	幾家	c=1 d=1 t=1225
+ji jian 	幾件	c=1 d=1 t=4106
+ji jiang kai shi 	即將開始	c=1 d=0.316637 t=563
+ji jie 	季節	c=2 d=1.00263 t=3935
+ji jue 	繼絕	c=1 d=1 t=15240
+ji ke 	即可	c=6 d=1 t=13557
+ji ke 	極客	c=2 d=1.99501 t=14978
+ji kuai kui 	姬蒯聵	c=1 d=1 t=9589
+ji kuai qian 	幾塊錢	c=1 d=1 t=15644
+ji lei 	積累	c=1 d=0.1 t=12597
+ji lei he 	積累和	c=1 d=1 t=12598
+ji li 	幾例	c=1 d=1 t=5055
+ji lu 	記錄	c=13 d=1 t=15402
+ji neng 	技能	c=3 d=1 t=12865
+ji nian 	幾年	c=2 d=1.31982 t=2470
+ji nian qian 	幾年前	c=1 d=1 t=3699
+ji qi 	極其	c=1 d=1 t=7367
+ji qiao 	技巧	c=17 d=1.21492 t=15187
+ji shi 	即使	c=1 d=1 t=8118
+ji shi 	幾十	c=0 d=0.1 t=2710
+ji shi ke 	幾十克	c=1 d=1 t=2711
+ji shu 	技術	c=12 d=1.03813 t=13851
+ji tian 	幾天	c=4 d=1.00056 t=13840
+ji tian ban 	幾天班	c=1 d=1 t=7007
+ji xiang 	跡象	c=1 d=1 t=3765
+ji xing 	機型	c=1 d=1 t=14451
+ji xu 	急須	c=2 d=1 t=14459
+ji xu 	繼續	c=3 d=1.61826 t=15010
+ji yi 	記憶	c=1 d=1 t=5413
+ji yi you xin 	記憶猶新	c=1 d=1 t=3931
+ji yu 	基於	c=5 d=1.00001 t=13684
+ji yu 	急於	c=1 d=1 t=13686
+ji zhi 	機制	c=10 d=3.02202 t=10194
+ji zhong 	集中	c=1 d=1 t=13524
+ji zhong nan fan 	積重難返	c=1 d=1 t=7065
+ji zhua zi 	雞爪子	c=1 d=1 t=9800
+ji zhuan 	急轉	c=1 d=1 t=4347
+jia 	加	c=2 d=1 t=4827
+jia 	家	c=7 d=2.23646 t=14720
+jia ban 	加班	c=3 d=2.71285 t=2408
+jia gou 	架構	c=4 d=1.00089 t=14552
+jia jie 	佳節	c=1 d=1 t=5327
+jia qi 	假期	c=1 d=1 t=6612
+jia ren 	佳人	c=1 d=1 t=2551
+jia ru 	加入	c=2 d=1 t=15373
+jia shen 	加深	c=1 d=1 t=5837
+jia suo 	加鎖	c=1 d=1 t=6934
+jia ting 	家庭	c=2 d=1.97045 t=6661
+jia wei xin 	加微信	c=1 d=1 t=15632
+jia you 	加油	c=1 d=1 t=14667
+jia yuan 	家園	c=1 d=1 t=4099
+jia zai 	加載	c=15 d=1 t=8749
+jia zhao zi 	假招子	c=2 d=1.58567 t=14812
+jia zhi 	價值	c=10 d=1.71151 t=14813
+jia zhi guan 	價值觀	c=10 d=1.00449 t=14407
+jian 	見	c=0 d=0.1 t=8713
+jian 	鍵	c=5 d=1 t=10908
+jian cha 	檢查	c=4 d=1 t=9491
+jian chi 	堅持	c=5 d=1.55433 t=11973
+jian dan 	簡單	c=4 d=1 t=15486
+jian ding 	堅定	c=2 d=1.00374 t=13455
+jian du 	監督	c=3 d=1.01832 t=13079
+jian duan 	簡短	c=1 d=1 t=13744
+jian fei 	減肥	c=1 d=1 t=2786
+jian hua 	簡化	c=1 d=1 t=6368
+jian ji 	剪輯	c=3 d=2.78275 t=945
+jian ji ji 	殲擊機	c=5 d=1 t=8785
+jian ji ji jie jue jing ji kai fa jian she kan 	殲擊機解決經濟開發建設看	c=1 d=0.257947 t=563
+jian ji ji liao jie 	殲擊機瞭解	c=1 d=1 t=6287
+jian ji shi 	剪輯師	c=1 d=1 t=919
+jian jian kang kang 	健健康康	c=0 d=0.1 t=6262
+jian jian kang kang kan kan 	健健康康看看	c=1 d=1 t=6263
+jian jie 	簡介	c=1 d=1 t=8787
+jian kang 	健康	c=0 d=0.0255381 t=563
+jian kang ke jia ke jian kong jian 	健康可加可減空間	c=1 d=0.256661 t=563
+jian li 	建立	c=1 d=1 t=15649
+jian mo 	建模	c=1 d=1 t=954
+jian pan 	鍵盤	c=10 d=1.2288 t=15279
+jian pan xia 	鍵盤俠	c=1 d=1 t=1788
+jian qie ban 	剪切板	c=2 d=1.97045 t=5644
+jian rong 	兼容	c=7 d=1.0013 t=10269
+jian rong guo cheng 	兼容過程	c=1 d=1 t=9008
+jian she 	建設	c=1 d=1 t=15532
+jian shen 	健身	c=3 d=1 t=8771
+jian shi 	件事	c=0 d=0.1 t=11929
+jian shi hui 	監事會	c=0 d=0.1 t=6307
+jian shi hui hui fu he he 	監事會恢復呵呵	c=1 d=1 t=6308
+jian suo 	檢索	c=0 d=0.1 t=9697
+jian yi 	建議	c=1 d=1 t=4223
+jian zhang 	艦長	c=1 d=1 t=1773
+jian zhi 	兼職	c=2 d=1.51685 t=12637
+jian zhi ru fei 	鍵指如飛	c=2 d=1.99501 t=6581
+jiang 	將	c=7 d=1.00035 t=10763
+jiang 	江	c=1 d=1 t=1839
+jiang 	講	c=7 d=1.32215 t=8002
+jiang 	降	c=1 d=1 t=3340
+jiang de 	講得	c=1 d=1 t=7412
+jiang ge 	講個	c=1 d=1 t=8194
+jiang jiang 	講講	c=1 d=1 t=3698
+jiang jin jiu jiang jin jiu 	將進酒將進酒	c=1 d=1 t=6269
+jiang jiu 	講究	c=1 d=1 t=2846
+jiang lai 	將來	c=1 d=1 t=14281
+jiang li 	獎勵	c=1 d=1 t=4810
+jiang shu 	講述	c=3 d=2.92218 t=5839
+jiang zhi 	將至	c=1 d=1 t=2640
+jiao 	叫	c=4 d=1 t=14822
+jiao 	教	c=1 d=1 t=7981
+jiao ao 	驕傲	c=1 d=1 t=7989
+jiao ben 	腳本	c=17 d=1.05058 t=11617
+jiao ben ni 	腳本你	c=1 d=1 t=739
+jiao cheng 	教程	c=3 d=1.54064 t=15687
+jiao dong 	膠東	c=1 d=1 t=4086
+jiao du 	角度	c=0 d=0.1 t=7508
+jiao hu 	交互	c=13 d=3.88413 t=10956
+jiao liu 	交流	c=8 d=1.79872 t=14827
+jiao lv 	焦慮	c=1 d=1 t=12653
+jiao nang 	膠囊	c=2 d=1.95123 t=6482
+jiao qing 	矯情	c=1 d=1 t=15601
+jiao sha 	叫啥	c=1 d=1 t=1460
+jiao shi 	教師	c=3 d=1.43091 t=8268
+jiao shi jie 	教師節	c=1 d=1 t=8155
+jiao tan 	交談	c=1 d=1 t=5205
+jiao tong gong ju 	交通工具	c=1 d=1 t=3245
+jiao wai 	郊外	c=1 d=1 t=3454
+jiao wang 	交往	c=1 d=1 t=15623
+jiao xun 	教訓	c=3 d=1.40633 t=14115
+jiao yan 	校驗	c=1 d=1 t=9202
+jiao yi 	交易	c=1 d=1 t=4875
+jiao zhou wan 	膠州灣	c=1 d=1 t=4078
+jie 	接	c=3 d=1.56392 t=14529
+jie 	解	c=0 d=0.1 t=14379
+jie chu 	接觸	c=6 d=1 t=14384
+jie chu guo 	接觸過	c=1 d=1 t=1154
+jie dian 	節點	c=2 d=1.00127 t=2970
+jie duan 	階段	c=1 d=1 t=13934
+jie feng 	解封	c=2 d=1 t=5330
+jie gou 	結構	c=4 d=1.25376 t=10594
+jie guo 	結果	c=17 d=1.00246 t=15138
+jie he 	結合	c=2 d=1.99005 t=12535
+jie hou yu sheng 	劫後餘生	c=1 d=1 t=3915
+jie jie 	姐姐	c=0 d=0.1 t=14988
+jie jie kan 	借借看	c=3 d=0.67557 t=563
+jie jie kan shi fou 	借借看是否	c=1 d=0.453845 t=563
+jie jing 	捷徑	c=9 d=1.06368 t=9303
+jie jue 	解決	c=17 d=2.70537 t=15242
+jie jue jing ji ke jia ke jian ji ke 	解決經濟可加可減即可	c=1 d=0.238115 t=563
+jie ke 	節課	c=1 d=1 t=15560
+jie lu 	揭露	c=1 d=1 t=10514
+jie lun 	結論	c=2 d=0.101171 t=15128
+jie lun de 	結論的	c=1 d=1 t=15129
+jie mian 	界面	c=2 d=1.13601 t=11585
+jie shao 	介紹	c=2 d=1 t=15723
+jie shou 	接受	c=1 d=1 t=7823
+jie shu 	結束	c=1 d=1 t=9442
+jie si huo 	解私活	c=1 d=1 t=14380
+jie tu 	截圖	c=1 d=1 t=15450
+jie xi 	解析	c=1 d=1 t=7818
+jie xia 	接洽	c=1 d=1 t=13277
+jie xia lai 	接下來	c=3 d=1.26603 t=14953
+jie xiang mu 	接項目	c=1 d=1 t=14395
+jie yi xie 	接一些	c=1 d=1 t=12650
+jie zhe 	接着	c=1 d=1 t=12200
+jie zhu 	藉助	c=3 d=1.19498 t=14715
+jin 	勁	c=1 d=1 t=2614
+jin 	近	c=1 d=1 t=3631
+jin 	進	c=0 d=0.1 t=8963
+jin 	金	c=1 d=1 t=15484
+jin bu 	進步	c=1 d=1 t=13864
+jin chu li 	進處理	c=1 d=1 t=8964
+jin du 	進度	c=3 d=1 t=14457
+jin ji 	緊急	c=2 d=1 t=13967
+jin jin 	僅僅	c=1 d=1 t=13184
+jin jin ji jiao 	斤斤計較	c=2 d=2.01468 t=6292
+jin jin ji jiao kan 	斤斤計較看	c=1 d=0.26054 t=563
+jin jin ji jiao kan kan 	斤斤計較看看	c=1 d=1 t=6265
+jin lai 	近來	c=1 d=1 t=14739
+jin li 	勁力	c=1 d=1 t=14293
+jin neng 	僅能	c=1 d=1 t=6124
+jin nian 	今年	c=1 d=1 t=4943
+jin ping 	僅憑	c=1 d=1 t=1769
+jin ping mei 	金瓶梅	c=1 d=1 t=983
+jin po 	緊迫	c=2 d=1.99501 t=2065
+jin qi 	近期	c=1 d=1 t=5906
+jin qing 	盡情	c=1 d=1 t=6475
+jin ri 	今日	c=4 d=1.48607 t=6396
+jin ru 	進入	c=4 d=1.83527 t=15413
+jin sha tan 	金沙灘	c=1 d=1 t=3307
+jin sheng 	今生	c=1 d=1 t=684
+jin shou zhi 	金手指	c=1 d=1 t=1881
+jin shu 	金屬	c=1 d=1 t=12683
+jin ti nei 	金體內	c=1 d=1 t=12143
+jin tian 	今天	c=28 d=1.34742 t=15238
+jin xing 	進行	c=10 d=1.25828 t=15237
+jin xing xia qu 	進行下去	c=1 d=1 t=9248
+jin yi bu 	進一步	c=1 d=1 t=13112
+jin zai 	僅在	c=1 d=1 t=10283
+jin zhi chi 	僅支持	c=4 d=1.85214 t=9001
+jin zu 	禁足	c=1 d=1 t=4643
+jing 	景	c=2 d=1 t=14963
+jing ce shi 	經測試	c=1 d=1 t=6137
+jing chang 	經常	c=3 d=1.00316 t=4920
+jing dai 	驚呆	c=1 d=1 t=4019
+jing dian 	景點	c=5 d=1.47838 t=4286
+jing dian 	經典	c=1 d=1 t=14617
+jing dian 	靜電	c=1 d=1 t=10331
+jing dong 	驚動	c=1 d=1 t=5016
+jing guo 	經過	c=7 d=1.00282 t=15503
+jing ji 	經濟	c=0 d=0.0493589 t=563
+jing ji ji hua 	經濟計劃	c=2 d=0.1 t=14981
+jing ji ji hua kai shi fa hui jiu shi 	經濟計劃開始發揮就是	c=1 d=1 t=14982
+jing ji jian she 	經濟建設	c=1 d=1 t=6253
+jing ji jian she fen 	經濟建設分	c=1 d=1 t=1837
+jing jing 	靜靜	c=1 d=1 t=3185
+jing ke ke ji 	晶科科技	c=1 d=0.267135 t=563
+jing li 	精力	c=6 d=1.52957 t=14294
+jing li 	經歷	c=8 d=1.00067 t=14256
+jing li guo 	經歷過	c=1 d=1 t=3692
+jing ran 	竟然	c=1 d=1 t=3020
+jing se 	景色	c=1 d=1 t=609
+jing shen 	精神	c=6 d=2.56954 t=12031
+jing xi 	驚喜	c=1 d=1 t=4071
+jing xiang 	鏡像	c=10 d=3.67488 t=11660
+jing xing 	驚醒	c=1 d=1 t=14949
+jing yan 	經驗	c=14 d=1.49666 t=14496
+jing ying 	經營	c=1 d=1 t=12254
+jing zheng 	競爭	c=4 d=1 t=13356
+jing zheng li 	競爭力	c=2 d=1.03782 t=13615
+jiong fa 	窘乏	c=1 d=0.07502 t=563
+jiong kun 	窘困	c=1 d=0.075774 t=563
+jiu 	就	c=29 d=1.2201 t=15771
+jiu bei 	就被	c=1 d=1 t=2766
+jiu cha 	就差	c=2 d=1.99501 t=11858
+jiu cong 	就從	c=1 d=1 t=13021
+jiu duo nu li 	就多努力	c=1 d=1 t=8593
+jiu hao 	就好	c=1 d=1 t=3190
+jiu hen hao 	就很好	c=1 d=1 t=2454
+jiu heng si 	九橫死	c=1 d=1 t=12973
+jiu jie 	九節	c=1 d=1 t=13944
+jiu jie 	糾結	c=1 d=1 t=13945
+jiu kan jian 	就看見	c=2 d=0.556103 t=563
+jiu ke yi 	就可以	c=2 d=1.00372 t=14500
+jiu ming dao cao 	救命稻草	c=1 d=1 t=7742
+jiu na zhe 	就拿着	c=1 d=1 t=9880
+jiu pa 	就怕	c=1 d=1 t=4181
+jiu she 	僦舍	c=1 d=1 t=14961
+jiu shi 	就是	c=27 d=0.536087 t=14981
+jiu shi ge 	就是個	c=1 d=1 t=2295
+jiu ti gao 	就提高	c=1 d=1 t=14370
+jiu wu fa 	就無法	c=1 d=1 t=6532
+jiu xi huan 	就喜歡	c=1 d=1 t=7243
+jiu xiang 	就像	c=8 d=1.00507 t=15453
+jiu xing 	就行	c=1 d=1 t=1470
+jiu xu yao 	就需要	c=1 d=1 t=6537
+jiu yao 	就要	c=7 d=1.91054 t=15093
+jiu you 	就有	c=2 d=1 t=14363
+jiu zai 	就在	c=4 d=1.00068 t=4141
+jiu zhe yang 	就這樣	c=1 d=1 t=6773
+jiu zhi dao 	就知道	c=1 d=1 t=1483
+jiu zhi zu 	就知足	c=1 d=1 t=2554
+ju 	劇	c=1 d=1 t=7497
+ju 	句	c=1 d=1 t=15485
+ju da 	巨大	c=0 d=0.1 t=6754
+ju guo 	舉國	c=1 d=1 t=3367
+ju ji 	劇集	c=2 d=1.99005 t=719
+ju ji shou 	狙擊手	c=1 d=1 t=6732
+ju shuo 	據說	c=3 d=1 t=7510
+ju shuo cha 	據說茶	c=1 d=1 t=2783
+ju ti 	具體	c=7 d=1.0087 t=13721
+ju xian 	侷限	c=2 d=1.00137 t=13218
+ju yu wang 	局域網	c=1 d=1 t=810
+ju zhu zheng 	居住證	c=7 d=6.12721 t=12770
+jue jue 	決絕	c=1 d=1 t=10222
+jue se 	角色	c=23 d=3.74834 t=13272
+jue se zhong 	角色中	c=1 d=1 t=13273
+jue xin 	決心	c=1 d=1 t=5885
+jun dui 	軍隊	c=1 d=1 t=3744
+jun ji 	軍紀	c=2 d=1.62814 t=1838
+jun shi 	軍事	c=1 d=1 t=1688
+ka dun 	卡頓	c=1 d=1 t=6174
+ka fa 	卡法	c=1 d=1 t=9543
+ka fei hu 	咖啡壺	c=1 d=1 t=1733
+ka hao 	卡號	c=0 d=0.1 t=13829
+ka hao si 	卡號死	c=1 d=1 t=13830
+ka nai ji 	卡耐基	c=1 d=1 t=15695
+ka pian 	卡片	c=6 d=1 t=13411
+kai 	開	c=3 d=1 t=12317
+kai ban 	開辦	c=2 d=1.96561 t=12766
+kai che 	開車	c=2 d=1 t=8353
+kai dian 	開店	c=7 d=3.15137 t=13737
+kai dong 	開動	c=1 d=1 t=6495
+kai en 	凱恩	c=0 d=0.1 t=1711
+kai en hao 	凱恩號	c=1 d=1 t=1712
+kai fa 	開發	c=42 d=1.22465 t=15529
+kai fa ban 	開發版	c=1 d=1 t=15726
+kai fa jian she 	開發建設	c=0 d=0.0256661 t=563
+kai fa zhe 	開發者	c=2 d=1 t=15263
+kai fang 	開放	c=2 d=1.00004 t=3933
+kai feng 	開封	c=1 d=1 t=1821
+kai feng shi 	開封市	c=0 d=0.1 t=12707
+kai hai 	開海	c=2 d=1.00003 t=4359
+kai lang 	開朗	c=1 d=1 t=13884
+kai mu 	開幕	c=1 d=1 t=964
+kai qi 	開啓	c=2 d=1.34819 t=10278
+kai shi 	開始	c=31 d=1.08524 t=15525
+kai xue 	開學	c=1 d=1 t=5056
+kai xue ji 	開學季	c=1 d=1 t=5060
+kan 	看	c=38 d=1.39852 t=15591
+kan bu dao 	看不到	c=2 d=1.01553 t=8914
+kan dao 	看到	c=13 d=1.00169 t=15448
+kan de geng kuan 	看的更寬	c=1 d=1 t=15538
+kan feng jing 	看風景	c=1 d=1 t=3807
+kan feng shui 	看風水	c=1 d=1 t=7428
+kan guo 	看過	c=2 d=1 t=7359
+kan kan 	看看	c=17 d=1.12246 t=15758
+kan kan ke ke 	坎坎坷坷	c=2 d=2.0792 t=6259
+kan kan ke ke kua 	坎坎坷坷跨	c=1 d=1.06561 t=6265
+kan kan ke ke kua kan kan 	坎坎坷坷跨看看	c=1 d=1 t=6266
+kan kan qing kuang 	看看情況	c=1 d=1 t=5477
+kan lai 	看來	c=10 d=1.93244 t=11709
+kan le 	看了	c=7 d=1.00083 t=12193
+kan qi ta 	看其他	c=1 d=1 t=1562
+kan qing kuang 	看情況	c=1 d=1 t=3563
+kan ri chu 	看日出	c=2 d=1.83946 t=3396
+kan shu 	看書	c=1 d=1 t=5343
+kan wen dang 	看文檔	c=1 d=1 t=9784
+kan wo 	看我	c=2 d=1 t=8178
+kan yi hui 	看一會	c=1 d=1 t=7467
+kan you 	看有	c=1 d=1 t=3429
+kan zhe 	看着	c=4 d=1.46112 t=4406
+kan zi ji 	看自己	c=1 d=1 t=15082
+kan zuo 	看作	c=1 d=1 t=12875
+kang zheng 	抗爭	c=1 d=1 t=7970
+kao 	靠	c=1 d=1 t=1700
+kao bei 	拷貝	c=7 d=1 t=11644
+kao lv 	考慮	c=3 d=1 t=11047
+kao pu 	靠譜	c=3 d=1 t=11280
+kao yan 	考驗	c=1 d=1 t=3379
+ke 	克	c=2 d=1.06721 t=11065
+ke 	可	c=4 d=1.0667 t=15548
+ke cheng 	課程	c=5 d=1.14884 t=15357
+ke hao 	可好	c=2 d=1.00003 t=4773
+ke hu 	客戶	c=4 d=2.90057 t=5064
+ke hu duan 	客戶端	c=1 d=1 t=1009
+ke jia ke jian 	可加可減	c=0 d=0.0492308 t=563
+ke neng 	可能	c=1 d=1 t=5167
+ke pu 	科普	c=1 d=1.04649 t=7415
+ke pu xia 	科普下	c=1 d=1 t=7416
+ke ren 	客人	c=0 d=0.1 t=11285
+ke tang 	課堂	c=1 d=1 t=15461
+ke xing 	可行	c=2 d=1 t=12573
+ke xuan 	可選	c=1 d=1 t=10788
+ke yi 	可以	c=99 d=2.4392 t=15763
+ke yi le 	可以了	c=1 d=1 t=989
+ke yong 	可用	c=1 d=0.0889216 t=563
+ke yu 	可與	c=1 d=1 t=15221
+ke zhan 	客棧	c=1 d=0.180863 t=12642
+ke zhi xing 	可執行	c=4 d=1.00341 t=11938
+ke zhi xing wen 	可執行問	c=1 d=1 t=9431
+ken 	啃	c=1 d=1 t=6715
+ken 	肯	c=0 d=0.1 t=6705
+ken ding 	肯定	c=1 d=1 t=14881
+ken yi xie 	肯一些	c=1 d=1 t=6706
+kong 	空	c=2 d=1 t=8961
+kong bu 	恐怖	c=1 d=1 t=3903
+kong ge 	空格	c=1 d=0.19205 t=563
+kong huang 	恐慌	c=1 d=1 t=636
+kong jian 	空間	c=6 d=2.00309 t=12471
+kong ming deng 	孔明燈	c=1 d=1 t=3861
+kong pa 	恐怕	c=1 d=1 t=2263
+kong yu san 	空雨傘	c=2 d=1.00002 t=5251
+kong zhi 	控制	c=1 d=1 t=8845
+kou 	口	c=1 d=1 t=2290
+kou hao 	口號	c=1 d=1 t=8279
+kou wei 	口味	c=2 d=1.10228 t=5300
+ku 	庫	c=24 d=1 t=15736
+ku gou 	酷狗	c=1 d=1 t=944
+ku nan 	苦難	c=1 d=1 t=8259
+ku yuan ma 	庫源碼	c=1 d=0.65377 t=563
+ku zao 	枯燥	c=1 d=1 t=6716
+ku zhong 	庫中	c=1 d=1 t=9523
+ku zhong 	苦衷	c=4 d=3.36023 t=9522
+kua 	跨	c=2 d=1.40219 t=6257
+kua zhe 	挎着	c=1 d=1 t=8273
+kuai 	塊	c=4 d=1 t=13492
+kuai cheng 	快成	c=1 d=1 t=7216
+kuai dao 	快到	c=1 d=1 t=3937
+kuai jie 	快捷	c=5 d=1 t=10907
+kuai jie jian 	快捷鍵	c=5 d=1.99005 t=6579
+kuai le 	快樂	c=1 d=1 t=6587
+kuai le de sheng huo 	快樂的生活	c=1 d=0.060205 t=563
+kuai su 	快速	c=15 d=1.00029 t=14804
+kuan du 	寬度	c=1 d=1 t=6861
+kuang 	狂	c=1 d=1 t=2102
+kuang biao 	狂飆	c=5 d=4.88674 t=15786
+kuang dao 	狂倒	c=1 d=1 t=3936
+kuang jia 	框架	c=8 d=1.03877 t=8513
+kuang jie 	況姐	c=1 d=1 t=10906
+kun jing 	困境	c=1 d=1 t=15105
+kun zai 	困在	c=3 d=1 t=15056
+kuo 	闊	c=3 d=1 t=14816
+kuo da 	擴大	c=9 d=1.64689 t=14817
+kuo zhan 	擴展	c=2 d=1.00016 t=12316
+la 	啦	c=1 d=1 t=3304
+la 	拉	c=1 d=1.00833 t=3303
+la fei 	拉肥	c=1 d=1 t=2991
+la heng fu 	拉橫幅	c=1 d=1 t=2807
+la man 	拉滿	c=1 d=1 t=3901
+la zhe 	拉着	c=1 d=1 t=7950
+lai 	來	c=11 d=1.00603 t=14894
+lai dao 	來到	c=0 d=0.1 t=6754
+lai jian suo 	來檢索	c=1 d=1 t=9698
+lai kai fa 	來開發	c=1 d=1 t=12309
+lai la 	來啦	c=0 d=0.1 t=3104
+lai le 	來了	c=0 d=0.382746 t=3105
+lai li 	來歷	c=1 d=1 t=7273
+lai yi chang 	來一場	c=1 d=1 t=3421
+lai yi ci 	來一次	c=1 d=1 t=3435
+lai yuan 	來源	c=1 d=1 t=1671
+lan wei 	爛尾	c=1 d=1.0802 t=5124
+lan wei zheng 	爛尾鄭	c=1 d=1 t=5125
+lan ya 	藍牙	c=3 d=1 t=6447
+lang 	浪	c=1 d=1 t=3962
+lang fei 	浪費	c=2 d=1 t=15198
+lao ban 	老伴	c=2 d=1.18825 t=8352
+lao ban 	老闆	c=2 d=1 t=5279
+lao ban niang 	老闆娘	c=2 d=1.88692 t=1423
+lao dong 	勞動	c=1 d=1 t=5384
+lao ji 	牢記	c=4 d=1.91474 t=14678
+lao jia 	老家	c=1 d=1 t=4258
+lao lao 	老老	c=1 d=1 t=3426
+lao ren 	老人	c=1 d=1 t=8109
+lao sao 	牢騷	c=1 d=1 t=4952
+lao shan 	嶗山	c=2 d=1.5975 t=4387
+lao shu 	老鼠	c=0 d=0.1 t=13233
+lao shu sai pao 	老鼠賽跑	c=1 d=1 t=13234
+lao xiang 	老鄉	c=1 d=1 t=2811
+le 	了	c=227 d=1.95207 t=15773
+le e 	了哦	c=1 d=1 t=11902
+le yi dian 	了一點	c=1 d=1 t=8313
+lei 	淚	c=2 d=1.99005 t=1792
+lei 	類	c=8 d=1.00133 t=14561
+lei si 	類似	c=3 d=1.29376 t=10963
+leng leng qing qing 	冷冷清清	c=1 d=1 t=4990
+li 	力	c=5 d=1.00078 t=14787
+li 	理	c=0 d=0.1 t=1701
+li 	立	c=1 d=1 t=1725
+li 	裏	c=16 d=0.100378 t=15404
+li 	離	c=3 d=1.61187 t=3786
+li bai ri 	禮拜日	c=0 d=0.0357007 t=563
+li bai ri me 	禮拜日麼	c=1 d=0.358796 t=563
+li bie 	離別	c=1 d=1 t=7505
+li bu cong xin 	力不從心	c=1 d=1 t=2461
+li cai 	理財	c=4 d=1 t=13235
+li cang 	李滄	c=8 d=1.96725 t=3404
+li cang qu 	李滄區	c=2 d=1.01878 t=3164
+li ce 	蠡測	c=1 d=1 t=5598
+li cheng 	歷程	c=1 d=1 t=14179
+li cheng bei 	里程碑	c=10 d=8.1167 t=5603
+li dao 	力道	c=1 d=1 t=13872
+li fa hui 	立法會	c=0 d=0.1 t=3089
+li fu ren 	理服人	c=1 d=1 t=1702
+li gui ju 	立規矩	c=1 d=1 t=1738
+li hai 	厲害	c=7 d=1 t=14650
+li hai de 	厲害的	c=2 d=1 t=14648
+li huan 	李煥	c=0 d=0.1 t=6829
+li huan ying 	李煥英	c=1 d=1 t=6830
+li ji 	立即	c=2 d=1 t=14866
+li kai 	離開	c=0 d=0.199501 t=3105
+li lai 	歷來	c=1 d=1 t=13908
+li liang 	力量	c=2 d=1.98511 t=15694
+li ni 	離你	c=1 d=1 t=3423
+li nian 	理念	c=2 d=1 t=13370
+li ru 	例如	c=7 d=1.00009 t=13229
+li shi 	歷史	c=9 d=2.95556 t=15404
+li suo neng ji 	力所能及	c=1 d=1 t=11814
+li wu 	禮物	c=4 d=3.71621 t=4815
+li xia 	籬下	c=1 d=1 t=10056
+li xian 	歷險	c=1 d=1.00081 t=10650
+li xian 	離線	c=2 d=1.00823 t=10651
+li xian wen dang 	歷險文檔	c=1 d=1 t=9689
+li xiang 	理想	c=3 d=1.68386 t=11957
+li xiang 	立項	c=2 d=1 t=14838
+li yong 	利用	c=4 d=1.05861 t=14100
+li zhi 	離職	c=1 d=1 t=12724
+li zi 	例子	c=1 d=1 t=10352
+lia 	倆	c=1 d=1 t=10698
+lian 	練	c=3 d=1.00012 t=10933
+lian jie 	鏈接	c=10 d=1 t=15522
+lian lia nie 	臉倆捏	c=1 d=1 t=10213
+lian lian 	練練	c=1 d=1 t=3506
+lian shang 	連上	c=1 d=1 t=7006
+lian suo ji tuan 	連鎖集團	c=1 d=1 t=1134
+lian wang 	聯網	c=1 d=1 t=874
+lian xi 	練習	c=7 d=1.36788 t=12831
+lian xian 	連線	c=1 d=1 t=9755
+lian xiang 	聯想	c=2 d=0.670067 t=563
+lian xiang ci 	聯想詞	c=2 d=1.00059 t=1857
+lian yi lian 	練一練	c=1 d=1 t=3437
+liang 	兩	c=0 d=0.0904837 t=563
+liang ci 	兩次	c=3 d=2.4873 t=5375
+liang dian 	兩點	c=1 d=1 t=4385
+liang fang 	良方	c=1 d=1 t=7714
+liang fang shi 	兩方式	c=1 d=0.909373 t=563
+liang fen zhong 	兩分鐘	c=1 d=1 t=14605
+liang ge 	兩個	c=9 d=1.79141 t=14089
+liang ge ren 	兩個人	c=1 d=1 t=8146
+liang ge xiao shi 	兩個小時	c=2 d=1.00012 t=14471
+liang hao 	良好	c=0 d=0.1 t=12403
+liang hao hao 	良好好	c=1 d=1 t=12404
+liang liang xiang wang 	兩兩相望	c=1 d=1 t=1648
+liang pian 	兩篇	c=1 d=1 t=13716
+liang ping 	兩瓶	c=1 d=1 t=5285
+liang san 	兩三	c=0 d=0.1 t=11929
+liang san jian shi 	兩三件事	c=1 d=1 t=11930
+liang wan 	兩晚	c=1 d=1 t=3543
+liang xin 	良心	c=1 d=1 t=4225
+liang zhe 	兩者	c=1 d=1 t=10553
+liang zhi 	兩隻	c=1 d=1 t=3051
+liang zhong 	兩種	c=3 d=1.00059 t=9238
+liao 	聊	c=5 d=2.7108 t=8255
+liao jie 	瞭解	c=10 d=1.00221 t=12486
+liao jie dao 	瞭解到	c=3 d=1.00027 t=12238
+liao le 	聊了	c=1 d=1 t=7952
+liao qi 	聊起	c=1 d=1 t=8384
+liao tian 	聊天	c=3 d=1.03615 t=15634
+lie biao 	列表	c=8 d=1 t=15722
+lie jie 	裂解	c=1 d=1 t=10670
+lie ru 	列入	c=2 d=1 t=14247
+lin shi 	臨時	c=3 d=1 t=14600
+lin shi mu lu 	臨時目錄	c=1 d=1 t=6946
+lin zou 	臨走	c=1 d=1 t=8212
+ling 	另	c=1 d=1 t=13031
+ling 	零	c=2 d=1 t=13023
+ling chen 	凌晨	c=1 d=1 t=3390
+ling dao 	領導	c=4 d=1.05211 t=5835
+ling dui 	領隊	c=1 d=1 t=15557
+ling gan 	靈感	c=14 d=1.95636 t=14849
+ling ge 	零個	c=2 d=1.00307 t=14543
+ling ren 	令人	c=1 d=1 t=4006
+ling shi 	零食	c=1 d=1 t=14599
+ling wu 	領悟	c=1 d=1 t=14244
+ling yi ge 	另一個	c=5 d=1.03727 t=15202
+ling yi ge wen ti 	另一个问题	c=1 d=1 t=15285
+liu 	六	c=1 d=1 t=7836
+liu 	流	c=3 d=1.0004 t=11319
+liu bu zhu 	留不住	c=1 d=1 t=2878
+liu chang 	流暢	c=1 d=1 t=9714
+liu cheng 	流程	c=8 d=2.75853 t=14583
+liu da 	溜達	c=1 d=1 t=3567
+liu lan 	瀏覽	c=5 d=1 t=8938
+liu lan qi 	瀏覽器	c=6 d=1.92774 t=9592
+liu lang 	流浪	c=1 d=1 t=14086
+liu shi 	流失	c=1 d=1 t=2875
+liu xing 	流行	c=1 d=1 t=12606
+liu ying 	留影	c=1 d=1 t=3808
+lo ca 	咯嚓	c=0 d=0.1 t=987
+lo ca le 	咯嚓了	c=1 d=1 t=988
+lu 	路	c=2 d=1.9802 t=3823
+lu chong 	路衝	c=2 d=1.92312 t=3281
+lu he 	六合	c=0 d=0.1 t=3104
+lu jin 	路晋	c=1 d=1 t=9936
+lu jing 	路徑	c=17 d=1.0707 t=11096
+lu kuang 	路況	c=1 d=1.00484 t=4323
+lu ping 	錄屏	c=1 d=1 t=15320
+lu ru 	錄入	c=1 d=1 t=13551
+lu xian 	路線	c=2 d=1.60351 t=3589
+lu ying 	露營	c=3 d=1.98025 t=3875
+lu you 	路由	c=2 d=1 t=4380
+lu you qi shang 	路由器上	c=1 d=1 t=1574
+lu zhi 	錄製	c=1 d=1 t=15359
+luan ma 	亂碼	c=1 d=1 t=11582
+lun 	論	c=3 d=2.91202 t=7557
+lun ke 	論克	c=1 d=1 t=2679
+lun wen 	論文	c=1 d=1 t=15184
+luo 	落	c=1 d=1 t=8547
+luo ji 	羅技	c=1 d=1 t=1966
+luo ji 	邏輯	c=4 d=1.45841 t=15630
+lv 	律	c=1 d=1 t=1753
+lv cha 	綠茶	c=1 d=1 t=2761
+lv jing 	濾鏡	c=1 d=1 t=4002
+lv qing 	捋清	c=1 d=1 t=13747
+lv ying 	綠營	c=1 d=1 t=3311
+lv you 	旅遊	c=5 d=1.0314 t=4383
+lv you tuan 	旅遊團	c=1 d=1 t=3431
+ma 	嗎	c=91 d=2.36852 t=15785
+ma 	嘛	c=1 d=1 t=4893
+ma 	碼	c=2 d=1.02158 t=563
+ma cheng shi 	麻城市	c=0 d=0.1 t=975
+ma ma hu hu 	馬馬虎虎	c=1 d=1 t=3228
+ma yi 	螞蟻	c=2 d=1.99005 t=15299
+mai 	買	c=2 d=1.00001 t=5283
+mai dian 	賣點	c=1 d=1 t=4977
+mai fang 	買房	c=1 d=1 t=2666
+mai guo 	買過	c=2 d=1.86502 t=4546
+mai ken xi 	麥肯錫	c=1 d=1 t=2967
+mai le 	買了	c=4 d=1.00294 t=4105
+man chang 	漫長	c=1 d=1 t=8519
+man fen 	滿分	c=1 d=1 t=8428
+man man 	慢慢	c=2 d=1.00005 t=15147
+mang 	忙	c=1 d=1 t=12786
+mang de guo lai 	忙得過來	c=1 d=1 t=1338
+mang ma 	忙嗎	c=1 d=1 t=660
+mao ze dong 	毛澤東	c=1 d=1 t=3071
+me 	麼	c=1 d=0.1 t=13780
+mei 	沒	c=7 d=1.00002 t=7358
+mei 	美	c=1 d=1 t=4004
+mei ban fa 	沒辦法	c=3 d=1 t=15172
+mei bi yao 	沒必要	c=1 d=1 t=2994
+mei ci 	每次	c=3 d=1 t=15125
+mei fa 	沒法	c=2 d=1 t=15376
+mei ge 	每個	c=2 d=1.0876 t=11922
+mei guan xi 	沒關係	c=1 d=0.190139 t=563
+mei jing 	美景	c=1 d=1 t=4065
+mei jing li 	沒經歷	c=1 d=1 t=6679
+mei li 	魅力	c=1 d=1 t=7546
+mei mu 	眉目	c=1 d=1 t=15051
+mei neng 	沒能	c=1 d=0.13068 t=563
+mei qi se 	沒起色	c=1 d=1 t=2437
+mei ren 	沒人	c=2 d=1 t=8362
+mei ri 	每日	c=8 d=1.23108 t=14862
+mei ri li hui 	每日立會	c=1 d=1 t=6434
+mei ri tiao zheng 	每日調整	c=1 d=1 t=8682
+mei rong yang yan 	美容養顏	c=2 d=1.95123 t=2784
+mei tian 	每天	c=17 d=1.05533 t=12664
+mei tuan 	每團	c=1 d=1 t=3147
+mei tuan 	美團	c=1 d=1 t=3161
+mei xiao guo 	沒效果	c=1 d=0.156453 t=563
+mei yi tian 	每一天	c=1 d=1 t=4897
+mei yo 	沒喲	c=1 d=1 t=9685
+mei you 	沒有	c=52 d=5.52201 t=15406
+mei zhan wen 	沒站穩	c=1 d=1 t=4015
+mei zhou 	每週	c=8 d=1 t=11981
+mei zhou ji hua 	每週計劃	c=1 d=1 t=5801
+men 	們	c=2 d=1.00318 t=2414
+men 	門	c=0 d=0.1 t=5305
+men dia zhong 	門嗲中	c=1 d=1 t=1132
+meng 	夢	c=1 d=1 t=13793
+meng xiang 	夢想	c=3 d=1 t=12561
+mi ma 	密碼	c=3 d=1.91851 t=11597
+mi yao 	密鑰	c=6 d=2.22583 t=11643
+mian cong 	面從	c=0 d=0.1 t=7374
+mian cong xin sheng 	面從新生	c=1 d=1 t=7375
+mian da rao 	免打擾	c=5 d=1 t=14627
+mian du 	棉都	c=1 d=1 t=15077
+mian dui 	面對	c=6 d=1.00484 t=15099
+mian dui xiang 	面對想	c=1 d=1 t=15100
+mian fei 	免費	c=1 d=1 t=3218
+mian qian 	面前	c=1 d=1 t=8475
+mian shi 	面試	c=1 d=1 t=15559
+mian xiang 	面相	c=0 d=0.1 t=8214
+mian xiang dui xiang 	面向對象	c=1 d=1 t=12447
+mian zi 	面子	c=1 d=1 t=14082
+miao shu 	描述	c=3 d=1.00005 t=9820
+min nan 	閩南	c=0 d=0.1 t=10463
+min nan guan li 	閩南管理	c=1 d=1 t=10464
+min xin 	民心	c=1 d=1 t=5131
+ming 	名	c=5 d=1.02746 t=11624
+ming 	命	c=2 d=1.38481 t=7708
+ming cheng 	名稱	c=2 d=1 t=9887
+ming hang 	名行	c=1 d=0.1 t=11014
+ming lang 	明朗	c=1 d=1 t=13666
+ming li 	名利	c=6 d=1.68215 t=10731
+ming ling 	命令	c=76 d=2.70966 t=11574
+ming ling hang 	命令行	c=3 d=1.03561 t=11619
+ming ling na ge 	命令那個	c=1 d=1 t=9317
+ming ming 	命名	c=2 d=1.95123 t=9412
+ming ming bai bai 	明明白白	c=1 d=1 t=3486
+ming que 	明確	c=5 d=1 t=8692
+ming ri 	明日	c=1 d=1 t=6733
+ming sheng 	名聲	c=1 d=1 t=5128
+ming tian 	明天	c=8 d=1.66351 t=5039
+ming xiang 	冥想	c=1 d=1 t=6989
+ming yun 	命運	c=2 d=1.36059 t=7552
+ming zhong 	命中	c=1 d=1 t=7916
+ming zi 	名字	c=1 d=1 t=3843
+mo 	麼	c=1 d=1 t=2608
+mo ban 	模板	c=14 d=1 t=15143
+mo ban shi 	模板是	c=1 d=1 t=10783
+mo du 	默讀	c=0 d=0.0860708 t=563
+mo du le 	默讀了	c=1 d=0.865022 t=563
+mo he 	磨合	c=1 d=1 t=15257
+mo kuai 	模塊	c=9 d=1.00109 t=10549
+mo li 	魔力	c=1 d=1 t=1912
+mo lian 	磨練	c=1 d=1 t=1916
+mo ni 	模擬	c=2 d=1.48432 t=11139
+mo ni qi 	模擬器	c=5 d=1.23972 t=9477
+mo qi 	默契	c=1 d=1 t=8021
+mo ren 	沒人	c=1 d=1 t=1079
+mo ren 	默認	c=15 d=2.50182 t=11533
+mo ren mu 	默認木	c=1 d=1 t=10364
+mo ren zhi 	默認值	c=2 d=1 t=10998
+mo shi 	模式	c=30 d=1.59568 t=15777
+mo suo 	摸索	c=2 d=1.00002 t=7092
+mo zu 	模組	c=1 d=0.132655 t=563
+mou yi ge 	某一個	c=1 d=1 t=10899
+mu 	木	c=0 d=0.1 t=10363
+mu biao 	目標	c=35 d=1.00031 t=13849
+mu biao gan 	目標感	c=2 d=1.97045 t=7643
+mu di 	目的	c=8 d=1 t=14523
+mu du 	目睹	c=1 d=1 t=3890
+mu guang 	目光	c=0 d=0.1 t=10025
+mu hou 	幕後	c=1 d=1 t=1793
+mu lu 	目錄	c=29 d=2.05378 t=11640
+mu lu hao 	目錄號	c=1 d=1 t=1903
+mu lu xia 	目錄下	c=1 d=1 t=6926
+mu qian 	目前	c=5 d=1 t=15395
+mu xia 	目下	c=1 d=1.00186 t=10302
+na 	哪	c=2 d=1.94649 t=4589
+na 	那	c=2 d=0.1 t=9081
+na bian 	那邊	c=5 d=1 t=15426
+na bu zhun 	拿不準	c=1 d=1 t=3460
+na ceng 	那層	c=1 d=1 t=7525
+na dao 	拿到	c=1 d=1 t=1060
+na er 	哪兒	c=0 d=0.1 t=13780
+na ge 	哪個	c=3 d=1.9853 t=5138
+na ge 	那個	c=3 d=1.55532 t=12594
+na ge lan 	納格蘭	c=1 d=1 t=9788
+na ji dian 	哪幾點	c=1 d=1 t=14478
+na li 	哪裏	c=1 d=1 t=5902
+na li 	那裏	c=3 d=2.55479 t=4124
+na me 	那麼	c=2 d=1.69768 t=1108
+na sou 	那搜	c=1 d=1 t=3953
+na tian 	那天	c=1 d=1 t=8350
+na xia 	拿下	c=1 d=1 t=5088
+na xie 	哪些	c=11 d=1.01634 t=13213
+na zhong 	那種	c=1 d=1 t=7427
+na zuo 	那座	c=0 d=0.1 t=3738
+na zuo dao 	那座島	c=1 d=1 t=3739
+nai lao 	奶酪	c=1 d=1 t=1731
+nan bei 	南北	c=1 d=1 t=2758
+nan dang 	難當	c=0 d=0.1 t=10620
+nan dao 	難道	c=2 d=1.99005 t=15161
+nan de 	難得	c=1 d=1 t=5319
+nan er 	男兒	c=0 d=0.1 t=5489
+nan gang xi 	南港溪	c=1 d=1 t=8685
+nan gua jie 	南瓜节	c=3 d=1.69636 t=14672
+nan jing 	南京	c=4 d=2.41179 t=5144
+nan mian 	難免	c=1 d=1 t=15605
+nan ti 	難題	c=1 d=1 t=13146
+nao tu 	腦圖	c=2 d=1 t=15358
+ne 	呢	c=18 d=2.73143 t=15011
+ne ge 	呢個	c=0 d=0.1 t=10242
+ne rong 	呢榮	c=1 d=1 t=8985
+nei 	內	c=4 d=1.00016 t=11913
+nei 	那	c=0 d=0.1 t=12380
+nei bu 	內部	c=2 d=1.71534 t=3005
+nei ce 	內測	c=3 d=2.49683 t=2227
+nei qian 	內嵌	c=1 d=1 t=848
+nei rong 	內容	c=18 d=1.71208 t=14764
+nei ru guo ni hao 	那如果你好	c=1 d=1 t=12381
+nen 	嫩	c=0 d=0.1 t=14125
+neng 	能	c=33 d=2.83737 t=15443
+neng gan 	能幹	c=0 d=0.1 t=1375
+neng gei ni 	能給你	c=1 d=1 t=12152
+neng gou 	能夠	c=16 d=1.05203 t=14886
+neng jiu 	能救	c=1 d=1 t=15670
+neng kan dao 	能看到	c=1 d=1 t=1549
+neng li 	能力	c=38 d=1.94027 t=15491
+neng nai 	能耐	c=0 d=0.1 t=10065
+neng zuo 	能做	c=1 d=1 t=3978
+ni 	你	c=89 d=1.9153 t=15497
+ni de 	你的	c=9 d=1.02682 t=8414
+ni dui 	你對	c=1 d=1 t=8588
+ni hao 	你好	c=7 d=0.100001 t=12380
+ni men 	你們	c=10 d=1.00075 t=4535
+ni na fu jin 	你那附近	c=1 d=1 t=2452
+ni ne 	你呢	c=1 d=1 t=6998
+ni ping shi 	你平時	c=1 d=1 t=2556
+ni shi 	你是	c=2 d=1.71177 t=2223
+ni tu 	泥土	c=0 d=0.1 t=9980
+ni xiang 	你想	c=1 d=1 t=6082
+ni zai hu 	你在乎	c=1 d=1 t=8580
+nian 	年	c=1 d=1 t=7418
+nian guan 	年關	c=1 d=1 t=654
+nian qian 	年前	c=1 d=1 t=15731
+nian qing ren 	年輕人	c=2 d=1 t=8221
+niang 	釀	c=1 d=1 t=1762
+ning ke 	寧可	c=1 d=1 t=4915
+nong jia yuan 	農家院	c=1 d=1 t=2485
+nong li 	農曆	c=1 d=1 t=7288
+nu li 	努力	c=8 d=1.00105 t=15746
+nuan chang 	暖場	c=1 d=1 t=15636
+nv 	女	c=1 d=1 t=7944
+nv zi 	女子	c=1 d=1 t=2597
+o 	哦	c=3 d=1 t=13892
+o de 	哦的	c=1 d=1 t=15117
+ou 	偶	c=0 d=0.1 t=15740
+ou cu lu shi 	偶粗魯是	c=1 d=1 t=15741
+ou er 	偶爾	c=3 d=1.92774 t=6674
+pa 	怕	c=3 d=2.89319 t=5028
+pa chong 	爬蟲	c=2 d=1.99005 t=714
+pa pa shan 	爬爬山	c=1 d=1 t=3189
+pa shan 	爬山	c=3 d=1.10866 t=3388
+pa wan 	爬完	c=1 d=1 t=4427
+pai 	拍	c=2 d=1 t=14785
+pai cha 	排查	c=3 d=1 t=9157
+pai chu 	排除	c=1 d=1 t=6383
+pai da 	拍打	c=1 d=1 t=3870
+pai de 	拍的	c=1 d=1 t=4008
+pai dui 	排隊	c=1 d=1 t=4449
+pai lan 	拍爛	c=1 d=1 t=3964
+pai xu 	排序	c=2 d=1.92774 t=6020
+pan 	盤	c=1 d=1 t=4346
+pan duan 	判斷	c=5 d=1 t=10186
+pan lai 	盼來	c=1 d=1 t=7920
+pang qiao ce ji 	旁敲側擊	c=1 d=1 t=8033
+pao 	刨	c=0 d=0.1 t=4259
+pao 	泡	c=2 d=1 t=8182
+pao 	跑	c=1 d=1 t=3455
+pao dan 	炮彈	c=0 d=0.1 t=3757
+pao hong shu 	刨紅薯	c=1 d=1 t=4260
+pao keng 	炮坑	c=1 d=1 t=3750
+pao mo 	泡沫	c=1 d=1 t=2654
+pei 	配	c=1 d=1 t=1942
+pei 	陪	c=1 d=1 t=5305
+pei he 	配合	c=1 d=0.1 t=15512
+pei yang 	培養	c=19 d=1.00086 t=15208
+pei zhe 	配着	c=2 d=1.99005 t=5288
+pei zhe 	陪着	c=1 d=0.1 t=10902
+pei zhe hai zi 	陪着孩子	c=1 d=1 t=10903
+pei zhi 	配置	c=31 d=6.35635 t=11672
+pei zhi dao 	配置到	c=1 d=1 t=9457
+pei zhi ku 	配置庫	c=1 d=1 t=798
+pei zhi zi 	配置字	c=2 d=1.49164 t=11343
+peng dao 	碰到	c=1 d=1 t=8200
+peng you 	朋友	c=5 d=1.99032 t=14176
+peng you quan 	朋友圈	c=2 d=1 t=4948
+peng you quan li 	朋友圈裏	c=1 d=1 t=1219
+pi hao 	癖好	c=1 d=1 t=13042
+pi liang 	批量	c=2 d=1 t=6364
+pi pei 	匹配	c=3 d=1 t=10320
+pian 	篇	c=0 d=0.1 t=13745
+pian duan 	片段	c=1 d=1 t=7464
+pian yi 	便宜	c=1 d=1 t=4096
+pian yi 	偏移	c=1 d=1.00139 t=4095
+pian yi ban 	偏移板	c=1 d=1 t=3241
+pian zhi 	偏執	c=1 d=1 t=1730
+piao 	漂	c=1 d=1 t=2425
+piao bo 	漂泊	c=1 d=1 t=3957
+piao liang 	漂亮	c=2 d=1.00021 t=2305
+pin fa 	頻發	c=1 d=1 t=2638
+pin fan 	頻繁	c=1 d=1 t=2381
+pin pai 	品牌	c=1 d=1 t=4530
+pin yin 	拼音	c=2 d=1.98511 t=913
+pin yin shu ru fa 	拼音輸入法	c=1 d=1 t=916
+ping 	平	c=1 d=1 t=13468
+ping an 	平安	c=1 d=1 t=7330
+ping bi 	屏蔽	c=1 d=1 t=893
+ping fen 	評分	c=1 d=1 t=7511
+ping fu 	平復	c=1 d=1 t=11191
+ping gu 	評估	c=1 d=1 t=12567
+ping heng 	平衡	c=3 d=1.956 t=12020
+ping lun 	評論	c=2 d=1.00764 t=15322
+ping mian 	平面	c=1 d=1 t=3929
+ping mu 	屏幕	c=2 d=1 t=11192
+ping pang qiu 	乒乓球	c=2 d=1.98511 t=3227
+ping shi 	平時	c=4 d=1.76723 t=6686
+ping tai 	平臺	c=14 d=3.16528 t=14829
+ping ti a 	平提啊	c=1 d=1 t=12258
+po 	破	c=1 d=1 t=2655
+po jie 	破解	c=1 d=1 t=886
+po ju 	破局	c=1 d=1 t=15595
+po yi lan shan 	破衣烂衫	c=1 d=0.0611149 t=563
+pu gong ying 	蒲公英	c=1 d=1 t=11692
+pu tong 	普通	c=1 d=1 t=12706
+qi 	七	c=2 d=1 t=12742
+qi 	其	c=1 d=0.100426 t=2299
+qi 	器	c=3 d=1.00326 t=12141
+qi 	起	c=0 d=0.1 t=13486
+qi che 	汽車	c=3 d=1.99501 t=12080
+qi dian duo 	七點多	c=1 d=1 t=3558
+qi dong 	啓動	c=14 d=2.38354 t=11612
+qi fa 	啓發	c=0 d=0.1 t=8435
+qi fan 	旗幡	c=0 d=0.1 t=669
+qi fen 	氣氛	c=1 d=1 t=3899
+qi ge 	七個	c=19 d=2.92639 t=15588
+qi ge xi guan 	七個習慣	c=4 d=1 t=14908
+qi huan xiao 	齊歡笑	c=1 d=1 t=1715
+qi lai 	起來	c=7 d=1.02544 t=14871
+qi se 	起色	c=0 d=0.1 t=2436
+qi shi 	其實	c=2 d=1.03081 t=14315
+qi shi 	啓示	c=2 d=1 t=12580
+qi shi 	騎士	c=1 d=1 t=15775
+qi shi duo sui 	七十多歲	c=1 d=1 t=8012
+qi shua shua 	齊刷刷	c=1 d=1 t=2301
+qi shuan shuan 	其涮涮	c=1 d=1 t=2300
+qi si 	氣死	c=0 d=0.1 t=1702
+qi si shang xiao jia shao xiao 	氣死上小家少校	c=1 d=1 t=1703
+qi ta 	其他	c=19 d=1.00234 t=11365
+qi ti 	氣體	c=0 d=0.1 t=8662
+qi ti ni 	氣體你	c=1 d=1 t=8663
+qi tian 	七天	c=5 d=3.54677 t=11974
+qi tian li 	七天裏	c=1 d=1 t=11917
+qi wang 	期望	c=1 d=1 t=1557
+qi xi 	氣息	c=1 d=1 t=6731
+qi xian 	期限	c=1 d=1 t=14861
+qi ye 	企業	c=2 d=1.97531 t=1466
+qi zhong 	其中	c=2 d=1 t=13748
+qian 	前	c=1 d=1 t=3803
+qian 	錢	c=1 d=1 t=15501
+qian ba 	千把	c=1 d=1 t=1740
+qian ba 	遷吧	c=1 d=1 t=1736
+qian cheng 	前程	c=1 d=1 t=14287
+qian hou 	前後	c=0 d=0.1 t=3087
+qian ji tian 	前幾天	c=5 d=1 t=13215
+qian li 	潛力	c=4 d=1 t=13055
+qian mian 	前面	c=1 d=1 t=6882
+qian ming 	簽名	c=3 d=1.12621 t=11683
+qian suo wei you de 	前所未有的	c=1 d=1 t=9681
+qian tao 	嵌套	c=2 d=1.00017 t=7901
+qian ti 	前提	c=1 d=1 t=7648
+qian xian 	前嫌	c=1 d=1 t=11999
+qian xin 	潛心	c=1 d=1 t=4738
+qian yi 	遷移	c=3 d=2.38514 t=2218
+qian zai 	潛在	c=1 d=1 t=2898
+qian zhi 	潛質	c=1 d=1 t=1852
+qian zhui 	前綴	c=1 d=1 t=6135
+qiang 	槍	c=1 d=1 t=8275
+qiang hua 	強化	c=1 d=1 t=2105
+qiang xin ji 	強心劑	c=1 d=1 t=7036
+qiang zhi 	強制	c=2 d=1 t=4635
+qiao 	巧	c=1 d=1 t=1691
+qiao men 	敲門	c=0 d=0.1 t=13437
+qiao men zhuang 	敲門裝	c=1 d=1 t=13438
+qie huan 	切換	c=5 d=1 t=9319
+qie huan dao 	切換到	c=1 d=1 t=1526
+qin fen 	勤奮	c=1 d=1 t=7230
+qin qin ken ken 	勤勤懇懇	c=1 d=1 t=15527
+qing 	清	c=1 d=1 t=1779
+qing 	請	c=2 d=1 t=13799
+qing dan 	清單	c=9 d=1 t=10874
+qing dao 	青島	c=25 d=1.01913 t=7927
+qing dao bei 	青島北	c=5 d=1.01511 t=4391
+qing dao zhan 	青島站	c=2 d=1.96079 t=4126
+qing gan 	情感	c=1 d=1 t=7136
+qing gong ye 	輕工業	c=1 d=1 t=5150
+qing kuang 	情況	c=11 d=1.54407 t=15418
+qing liang 	清涼	c=0 d=0.1 t=9222
+qing liang ji 	輕量級	c=1 d=1 t=9225
+qing liang li 	清涼裏	c=1 d=1 t=9223
+qing ming 	請命	c=1 d=1 t=1707
+qing qiu 	請求	c=3 d=1.79501 t=6470
+qing shang 	情商	c=2 d=1.9802 t=6698
+qing shu ru 	請輸入	c=2 d=1.17817 t=6917
+qing song 	輕鬆	c=5 d=1 t=13889
+qing xi 	清晰	c=1 d=1 t=13665
+qing xu 	情緒	c=2 d=1.47237 t=5106
+qing zhu 	傾注	c=2 d=1.00933 t=14019
+qiong 	窮	c=2 d=1.9802 t=12102
+qiong ba ba 	窮爸爸	c=1 d=1 t=13232
+qiu 	球	c=1 d=0.1 t=12116
+qiu tian 	秋天	c=2 d=1.00004 t=8672
+qiu zhi 	求職	c=2 d=1.93707 t=1559
+qiu zhu 	求助	c=1 d=1 t=15639
+qu 	區	c=5 d=1 t=12775
+qu 	去	c=10 d=1 t=12361
+qu bie 	區別	c=3 d=1.79491 t=10556
+qu chu 	去處	c=2 d=1 t=10196
+qu fen 	區分	c=2 d=1.00061 t=1845
+qu guo 	去過	c=1 d=1 t=4335
+qu na 	去哪	c=1 d=1 t=12146
+qu nian 	去年	c=1 d=1 t=3207
+qu xiao 	取消	c=1 d=1 t=14136
+qu yu 	區域	c=1 d=1 t=5991
+qu zuo 	去做	c=1 d=1 t=14419
+quan 	全	c=1 d=1 t=1784
+quan 	勸	c=1 d=1 t=4299
+quan 	圈	c=1 d=1.00101 t=5936
+quan chang 	全場	c=1 d=1 t=1785
+quan chuan 	全船	c=1 d=1 t=1713
+quan tui 	勸退	c=1 d=1 t=2835
+quan xian 	權限	c=1 d=1 t=8900
+quan xin 	全新	c=2 d=1.00091 t=15542
+quan yi 	權益	c=1 d=1 t=1480
+quan zai 	全在	c=1 d=1 t=3987
+quan zi 	圈子	c=1 d=1 t=1205
+quan zi li 	圈子裏	c=1 d=1 t=1199
+que 	卻	c=3 d=1 t=11721
+que bie 	卻別	c=1 d=1 t=7755
+que dian 	缺點	c=1 d=1 t=7060
+que ding 	確定	c=7 d=1 t=15232
+que fa 	缺乏	c=3 d=2.9362 t=7053
+que ren 	確認	c=1 d=1 t=6038
+que shao 	缺少	c=3 d=1.17377 t=12072
+que shi 	確實	c=11 d=1 t=13980
+qun 	羣	c=1 d=1 t=5100
+ran hou 	然後	c=14 d=1.00003 t=14340
+ran kou 	髯口	c=1 d=1 t=12225
+ran liao 	染料	c=1 d=1 t=1718
+ran shao 	燃燒	c=1 d=1 t=3926
+rang 	讓	c=15 d=1.00127 t=14736
+rang ta 	讓他	c=1 d=0.1 t=6552
+rao guo 	繞過	c=2 d=1.02096 t=1624
+re bang 	熱榜	c=1 d=1 t=2860
+re dian 	熱點	c=1 d=1 t=4467
+re fen 	熱分	c=1 d=1 t=2229
+re men 	熱門	c=1 d=1 t=11055
+re nao 	熱鬧	c=1 d=1 t=7145
+re qing 	熱情	c=3 d=1 t=13090
+re ren 	惹人	c=1 d=1 t=2228
+re xue 	熱血	c=1 d=1 t=7963
+re zhong 	熱衷	c=1 d=1 t=6070
+ren 	人	c=13 d=1.00015 t=15517
+ren cai 	人才	c=1 d=1 t=2880
+ren he 	任何	c=2 d=1 t=10807
+ren he shi qing 	任何事情	c=1 d=1 t=5241
+ren ji 	人際	c=1 d=1 t=15622
+ren jia 	人家	c=2 d=1.31982 t=1512
+ren kou 	人口	c=1 d=1 t=2874
+ren mai 	人脈	c=2 d=1.98511 t=15659
+ren min 	人民	c=1 d=1 t=5385
+ren ming 	任命	c=1 d=1 t=7735
+ren qing 	認清	c=2 d=1 t=12491
+ren qing shi gu 	人情世故	c=1 d=1 t=12492
+ren qun 	人羣	c=1 d=1 t=7583
+ren shao 	人少	c=1 d=1 t=8393
+ren sheng 	人生	c=12 d=1.00073 t=15604
+ren shi 	人士	c=2 d=1.96079 t=15580
+ren shi 	認識	c=6 d=1 t=15569
+ren shi dao 	認識到	c=1 d=1 t=6978
+ren wu 	任務	c=18 d=1 t=14855
+ren xing 	人性	c=6 d=5.7999 t=15712
+ren zheng 	認證	c=4 d=1 t=6123
+ren zhi 	認知	c=5 d=4.42829 t=15544
+ren zhi zhi wai 	認知之外	c=1 d=1 t=15499
+reng 	仍	c=0 d=0.1 t=3757
+reng pao dan 	仍炮彈	c=1 d=1 t=3758
+ri 	日	c=2 d=1 t=8905
+ri chang 	日常	c=4 d=1 t=14549
+ri chu 	日出	c=2 d=1.76338 t=3381
+ri hui gu 	日回顧	c=2 d=1.96561 t=6567
+ri ji 	日記	c=1 d=1 t=4981
+ri qi 	日期	c=4 d=1.00031 t=8862
+ri zhi 	日誌	c=12 d=1.60974 t=10879
+ri zi 	日子	c=1 d=1 t=8387
+rong 	榮	c=1 d=1 t=13394
+rong na 	容納	c=0 d=0.1 t=11524
+rong na hao 	容納好	c=1 d=1 t=11525
+rong qi 	容器	c=7 d=1.46675 t=12088
+rong qi shi 	容器是	c=1 d=1 t=11604
+rong yi 	容易	c=2 d=1.99501 t=7674
+rong zhen 	戎震	c=1 d=1 t=15597
+ru 	入	c=3 d=1 t=10792
+ru ca 	如擦	c=1 d=1 t=11444
+ru can 	如慘	c=1 d=1 t=7822
+ru can shu 	入參數	c=1 d=1 t=6213
+ru chang 	入場	c=1 d=1 t=5118
+ru ci 	如此	c=1 d=1 t=3021
+ru fei 	如飛	c=0 d=0.1 t=6579
+ru guo 	如果	c=27 d=1.10178 t=14399
+ru he 	如何	c=35 d=1.96762 t=15594
+ru he shi hou 	如何時候	c=1 d=1 t=12503
+ru keng 	入坑	c=1 d=1 t=2776
+ru ku 	入庫	c=1 d=1 t=2259
+ru men 	入門	c=1 d=1 t=4710
+ru shou 	入手	c=1 d=1 t=12504
+ru zhu 	入住	c=1 d=1 t=3159
+ru zhu 	入駐	c=1 d=1 t=3160
+ruan jian 	軟件	c=2 d=1.07887 t=2325
+ruan lian jie 	軟連接	c=4 d=1.00153 t=11522
+rui shi jun dao 	瑞士軍刀	c=2 d=1.45841 t=9495
+ruo da 	偌大	c=0 d=0.1 t=8071
+ruo da ge 	偌大個	c=1 d=1 t=8072
+ruo dian 	弱點	c=4 d=3.90204 t=15714
+ruo xiang 	弱項	c=1 d=1 t=5894
+sa huang 	撒謊	c=0 d=0.1 t=6284
+sai pao 	賽跑	c=0 d=0.1 t=13233
+san 	三	c=1 d=1 t=5397
+san bu 	三步	c=1 d=1 t=2988
+san fan si fu 	三番四復	c=1 d=1 t=5465
+san ge 	三個	c=3 d=1.01081 t=14439
+san ge yue 	三個月	c=1 d=1 t=15561
+san hu 	三虎	c=1 d=0.597501 t=563
+san jian ke 	三劍客	c=1 d=1 t=5491
+san san xin 	散散心	c=1 d=1 t=2453
+san ti 	三體	c=8 d=1.93329 t=15753
+san tian 	三天	c=6 d=1.54076 t=5006
+san wu hao you 	三五好友	c=1 d=1 t=5325
+san xin 	散心	c=1 d=1 t=2562
+san yue 	三悅	c=2 d=1.99005 t=11677
+se xiang wei 	色香味	c=1 d=1 t=2837
+sha 	啥	c=7 d=1 t=12787
+sha jiao 	啥叫	c=1 d=1 t=3880
+sha shi hou 	啥時候	c=2 d=1.97531 t=1322
+sha tan 	沙灘	c=2 d=1.80654 t=3314
+shan 	刪	c=0 d=0.1 t=15714
+shan 	山	c=3 d=1.00427 t=3847
+shan chu 	刪除	c=4 d=1 t=10895
+shan da 	山大	c=1 d=1 t=3680
+shan di 	山地	c=1 d=1 t=4337
+shan dong 	山東	c=1 d=1 t=2313
+shan le 	刪了	c=1 d=1 t=990
+shan lu 	山路	c=1 d=1 t=4345
+shan nian 	閃念	c=4 d=3.29273 t=6566
+shan ping 	閃屏	c=1 d=1 t=11193
+shan shu ju 	刪數據	c=1 d=1 t=15715
+shan xian 	閃現	c=1 d=1 t=6471
+shan yong 	善用	c=2 d=1.99005 t=9779
+shan zha 	山楂	c=2 d=1.82696 t=8373
+shang 	上	c=55 d=1.26097 t=15673
+shang chang 	商場	c=1 d=1 t=4101
+shang chuan 	上傳	c=6 d=5.28167 t=11156
+shang chuang 	上牀	c=1 d=1 t=11142
+shang de fa sheng de fa sheng 	上的發生的發生	c=1 d=1 t=8829
+shang de fang fa shi fou shi 	上的方法是否是	c=1 d=0.25924 t=563
+shang de fang shi fa 	上的方式發	c=1 d=1 t=11190
+shang dian xin 	上點心	c=2 d=1.94176 t=1372
+shang ke 	上課	c=1 d=1 t=15387
+shang lu 	上路	c=2 d=1.00003 t=4343
+shang mian 	上面	c=5 d=1.27117 t=15677
+shang ne 	上呢	c=1 d=1 t=13527
+shang ping 	上屏	c=1 d=0.19398 t=563
+shang qu 	上去	c=1 d=1 t=4082
+shang shan 	上山	c=4 d=1.48553 t=3747
+shang tou 	上頭	c=1 d=1 t=7386
+shang xia ban 	上下班	c=1 d=1 t=3242
+shang xian 	上線	c=1 d=1 t=2192
+shang xiao xue shi 	上小學是	c=1 d=1 t=8271
+shang xin 	上心	c=1 d=1 t=1362
+shang yi ci 	上一次	c=1 d=1 t=10164
+shao dian 	少點	c=1 d=1 t=4916
+shao suo 	哨所	c=1 d=1 t=3756
+shao xiao 	少校	c=0 d=0.1 t=1702
+she bei 	設備	c=11 d=0.1 t=13994
+she bei he san ge 	設備和三個	c=1 d=1 t=13995
+she ding 	設定	c=5 d=1 t=6216
+she ji 	設計	c=5 d=1.00037 t=14068
+she ji ke 	設計課	c=2 d=1.00335 t=13245
+she ji mo shi 	設計模式	c=1 d=0.119644 t=13230
+she ji tu 	設計圖	c=1 d=1 t=4567
+she jiao 	社交	c=15 d=1.02085 t=15629
+she qiu 	奢求	c=1 d=1 t=7891
+she ren xin po 	懾人心魄	c=1 d=1 t=4063
+she tu 	蛇兔	c=1 d=1 t=3893
+she xiang ji 	攝像機	c=4 d=3.9407 t=15306
+she xiang tou 	攝像頭	c=2 d=1 t=12826
+she zhi 	設置	c=37 d=1.02271 t=15740
+shen 	身	c=2 d=1.00173 t=8666
+shen geng 	深耕	c=1 d=1 t=12512
+shen hu xi 	深呼吸	c=1 d=1 t=6487
+shen ke 	深刻	c=1 d=1 t=14117
+shen me 	什麼	c=27 d=1.5246 t=15085
+shen me shi hou 	什麼時候	c=1 d=1 t=4160
+shen me shi qing 	什麼事情	c=1 d=1 t=14409
+shen pan 	審判	c=1 d=1.09465 t=1776
+shen qi 	神器	c=3 d=2.69835 t=4698
+shen qing 	申請	c=4 d=1.49709 t=13728
+shen shang 	神傷	c=2 d=1 t=8042
+shen shang 	身上	c=2 d=1.39653 t=8228
+shen ti 	身體	c=1 d=1 t=4040
+shen xian 	神仙	c=1 d=1 t=7333
+shen you 	神遊	c=1 d=1 t=4471
+sheng 	生	c=2 d=1 t=14153
+sheng bing 	生病	c=1 d=1 t=8104
+sheng chan 	生產	c=1 d=1 t=4722
+sheng cheng 	生成	c=10 d=2.84818 t=11126
+sheng di 	勝地	c=1 d=1 t=2901
+sheng hua 	昇華	c=1 d=1 t=1721
+sheng huo 	生活	c=39 d=1.83166 t=14943
+sheng ji 	升級	c=6 d=1 t=8541
+sheng ji 	生機	c=1 d=1 t=8542
+sheng ming 	聲明	c=8 d=2.11993 t=10802
+sheng qi 	升旗	c=1 d=1 t=3399
+sheng ri 	生日	c=2 d=1 t=7254
+sheng si 	生死	c=2 d=1 t=7504
+sheng tun 	生吞	c=2 d=1.79453 t=6647
+sheng xia 	剩下	c=1 d=1 t=13761
+sheng xiao 	生效	c=2 d=0.186026 t=563
+sheng yan 	盛宴	c=1 d=1 t=2282
+sheng yi 	生意	c=1 d=1 t=1437
+sheng yin 	聲音	c=6 d=1 t=12129
+sheng zhi ji 	升職記	c=2 d=1.99501 t=5649
+shi 	事	c=1 d=1 t=1750
+shi 	式	c=1 d=1 t=10686
+shi 	是	c=128 d=1.77279 t=15740
+shi 	時	c=22 d=1 t=15292
+shi bai 	失敗	c=8 d=1 t=15613
+shi bie 	識別	c=1 d=1 t=936
+shi bu shi 	是不是	c=9 d=1.00045 t=6613
+shi chang 	市場	c=3 d=1.00153 t=2867
+shi chang 	試嚐	c=1 d=1 t=2676
+shi chen 	時辰	c=3 d=2.96536 t=7255
+shi cuo 	試錯	c=2 d=1.00001 t=15609
+shi da fu 	士大夫	c=0 d=0.1 t=8829
+shi da fu shi fei de shi 	士大夫是非地是	c=1 d=1 t=8830
+shi de 	式的	c=0 d=0.1 t=669
+shi de 	是的	c=8 d=1 t=11486
+shi de fen shu 	實得分數	c=3 d=2.45725 t=6445
+shi de qi fan 	式的旗幡	c=1 d=1 t=670
+shi de qi fan 	適得其反	c=1 d=1 t=669
+shi dian 	十點	c=2 d=1 t=7285
+shi duo shao 	是多少	c=1 d=1 t=1000
+shi er zhi hou zi 	十二隻猴子	c=3 d=1.00194 t=11488
+shi fei de 	是非地	c=1 d=1.01393 t=8829
+shi fen 	十分	c=4 d=3.50715 t=6312
+shi fou 	是否	c=11 d=1.10993 t=12112
+shi gan 	實幹	c=2 d=1.99005 t=11726
+shi ge 	是個	c=4 d=1.00241 t=9854
+shi guang 	時光	c=0 d=0.1 t=684
+shi guang zhi lun 	時光至論	c=1 d=1 t=685
+shi hang 	試航	c=1 d=1 t=4452
+shi he 	適合	c=10 d=1.97558 t=12617
+shi hou 	時候	c=5 d=1 t=14709
+shi huo fou 	是或否	c=1 d=1 t=12566
+shi ji 	時機	c=1 d=1 t=1120
+shi ji yu 	是基於	c=1 d=1 t=9235
+shi jia 	世家	c=1 d=1 t=8681
+shi jian 	事件	c=4 d=1 t=14601
+shi jian 	實踐	c=6 d=1.32525 t=14654
+shi jian 	時間	c=41 d=2.40258 t=15563
+shi jiang 	是將	c=1 d=1 t=15199
+shi jie 	世界	c=1 d=1 t=15536
+shi juan 	試卷	c=0 d=0.1 t=7162
+shi ke 	時刻	c=2 d=1.99501 t=9837
+shi kong 	時空	c=1 d=1 t=1958
+shi le 	失了	c=1 d=1 t=5130
+shi ming 	使命	c=22 d=2.28969 t=6568
+shi ming xuan yan 	使命宣言	c=7 d=1.97045 t=15047
+shi nian 	十年	c=2 d=1.99005 t=2422
+shi pei 	適配	c=3 d=2.84644 t=742
+shi pin 	視頻	c=1 d=1 t=15393
+shi qiang 	世強	c=5 d=2.82298 t=1457
+shi qing 	事情	c=31 d=1.07703 t=15752
+shi qu 	市區	c=2 d=1.01384 t=4312
+shi san 	十三	c=2 d=1.99501 t=15315
+shi sha 	是啥	c=1 d=1 t=7133
+shi shen me 	是什麼	c=14 d=1.01237 t=15048
+shi shi 	試試	c=4 d=1 t=15675
+shi shi he 	是適合	c=1 d=1 t=10939
+shi ta rang ta 	是他讓他	c=1 d=1 t=6553
+shi wu 	事務	c=2 d=1.86936 t=6028
+shi wu 	食物	c=0 d=0.1 t=3703
+shi wu fen zhong 	十五分鐘	c=1 d=1 t=10664
+shi wu ju xi 	事無鉅細	c=1 d=1 t=1728
+shi xia 	試下	c=1 d=1 t=11347
+shi xian 	實現	c=32 d=2.80749 t=15261
+shi xian de 	實現的	c=1 d=1 t=13790
+shi xiang 	事項	c=3 d=1 t=12450
+shi xiao 	時效	c=1 d=1 t=7747
+shi yao 	是要	c=2 d=1 t=7256
+shi ye 	事業	c=9 d=1.90032 t=12056
+shi ye 	視野	c=1 d=1 t=15537
+shi yi 	失意	c=1 d=1 t=8168
+shi yi chang 	是一場	c=1 d=1 t=7304
+shi yi ge 	十一個	c=3 d=1.71177 t=11291
+shi yi xia 	試一下	c=1 d=1 t=966
+shi yin wei 	是因爲	c=2 d=1.99501 t=15022
+shi ying 	適應	c=1 d=1 t=3598
+shi yo 	是喲	c=1 d=1 t=9739
+shi yong 	使用	c=147 d=1.63277 t=15764
+shi yong 	適用	c=1 d=1 t=9742
+shi yong ban 	試用版	c=2 d=1.78663 t=905
+shi yong qi 	試用期	c=1 d=1 t=876
+shi you 	是有	c=1 d=1 t=9922
+shi zai 	實在	c=2 d=1 t=12922
+shi zai bi xing 	勢在必行	c=1 d=1 t=14910
+shi zhan 	實戰	c=5 d=1.01874 t=14772
+shi zhong 	始終	c=1 d=1 t=2433
+shi zhong xin 	市中心	c=1 d=1 t=4120
+shou 	手	c=2 d=1 t=13671
+shou dao 	收到	c=3 d=1.61085 t=14224
+shou de liao 	受得了	c=1 d=1 t=15193
+shou dong 	手動	c=5 d=1.42488 t=10240
+shou duan 	手段	c=1 d=1 t=11782
+shou ge 	收割	c=1 d=1 t=13133
+shou hu zhe 	守護者	c=1 d=1 t=15787
+shou hui 	手繪	c=3 d=2.61438 t=4702
+shou huo 	收穫	c=3 d=1.97832 t=13035
+shou ji 	手機	c=14 d=1.26851 t=14868
+shou ji 	手記	c=1 d=1 t=14841
+shou ji 	收集	c=7 d=1.0102 t=15759
+shou ji duan 	手機端	c=3 d=1.85957 t=6543
+shou ji shang 	手機上	c=1 d=1 t=7235
+shou ji xiang 	收集箱	c=4 d=1.07722 t=6348
+shou le 	收了	c=1 d=1 t=4762
+shou lie 	狩獵	c=1 d=1 t=6736
+shou lou 	售樓	c=2 d=1 t=5212
+shou quan 	授權	c=4 d=3.82702 t=6021
+shou shen 	瘦身	c=1 d=1 t=2785
+shou shou 	收收	c=2 d=1.98511 t=4045
+shou shou xin 	收收心	c=1 d=1 t=4066
+shou xie 	手寫	c=1 d=1 t=4553
+shou you 	手遊	c=1 d=1 t=12124
+shu 	書	c=2 d=1 t=11482
+shu ben 	書本	c=5 d=1 t=13250
+shu ben shang 	書本上	c=1 d=1 t=8479
+shu biao 	鼠標	c=2 d=1 t=10332
+shu chu 	輸出	c=13 d=1.8678 t=14831
+shu fa jia 	書法家	c=0 d=0.1 t=6293
+shu guang 	曙光	c=1 d=1 t=7268
+shu ji 	書籍	c=9 d=1.02034 t=15625
+shu ju 	數據	c=1 d=0.199501 t=15715
+shu ju ku 	數據庫	c=2 d=1.94176 t=6899
+shu li 	梳理	c=4 d=1.79852 t=14737
+shu pai 	豎排	c=1 d=0.23457 t=563
+shu ru 	輸入	c=12 d=1 t=12419
+shu ru fa 	輸入法	c=6 d=1.02073 t=1869
+shu wei ban 	數位板	c=4 d=2.82413 t=4771
+shu xi 	熟悉	c=2 d=1 t=4323
+shu xing 	屬性	c=9 d=1 t=11586
+shu xu guan 	鼠鬚管	c=1 d=1 t=15275
+shu yu 	屬於	c=2 d=1.99005 t=10934
+shu zu 	數組	c=1 d=1 t=6910
+shua dan 	刷單	c=1 d=1 t=1379
+shua ji 	刷機	c=1 d=1 t=1659
+shua ping 	刷屏	c=2 d=1.97531 t=622
+shua xin 	刷新	c=1 d=1 t=1650
+shuan shuan 	涮涮	c=0 d=0.1 t=2299
+shuang 	爽	c=1 d=1 t=3731
+shuang xiang 	雙向	c=3 d=2.91285 t=8907
+shui 	誰	c=1 d=1 t=8074
+shui bu hao jiao 	睡不好覺	c=1 d=1 t=5032
+shui jiao 	睡覺	c=1 d=1 t=5348
+shui lu 	水路	c=1 d=1 t=4370
+shui mian 	睡眠	c=2 d=1.94176 t=8772
+shui ping 	水平	c=2 d=1 t=14985
+shui po zhen 	水坡镇	c=1 d=1 t=12710
+shui shen 	水深	c=1 d=1 t=3886
+shui shou 	水手	c=1 d=1 t=3949
+shui yi jiao 	睡一覺	c=1 d=1 t=4075
+shun li 	順利	c=3 d=1 t=9735
+shuo 	說	c=14 d=1.00007 t=13712
+shuo bu ding 	說不定	c=3 d=1 t=7615
+shuo de 	說的	c=1 d=1 t=7516
+shuo le 	說了	c=1 d=1 t=8248
+shuo ming 	說明	c=5 d=0.1 t=13745
+shuo ming pian 	說明篇	c=1 d=1 t=13746
+shuo qi 	說起	c=3 d=1.24973 t=8639
+shuo shi 	說是	c=2 d=1.18919 t=8391
+shuo shuo 	說說	c=4 d=1.45072 t=8738
+shuo wei ban 	数位板	c=2 d=1.8781 t=4540
+shuo xia 	說下	c=1 d=1 t=8565
+shuo yi xia 	說一下	c=1 d=1 t=7421
+si 	死	c=5 d=0.299845 t=13829
+si da hang 	四大行	c=1 d=1 t=12456
+si de 	似的	c=1 d=1 t=4459
+si er hou zhi 	死而後止	c=1 d=1 t=11490
+si hu 	似乎	c=1 d=1 t=2519
+si huo 	私活	c=4 d=1.90495 t=14546
+si ji 	司機	c=9 d=3.36672 t=1560
+si kao 	思考	c=12 d=1.01923 t=14635
+si ke 	死磕	c=1 d=1 t=13195
+si lu 	思路	c=1 d=1 t=13951
+si qi 	私企	c=1 d=1 t=2391
+si shi fen 	四十分	c=1 d=1 t=3800
+si wei 	思維	c=34 d=1.02658 t=15628
+si xiang 	思想	c=6 d=1.00482 t=14376
+si xiang xian 	四象限	c=1 d=1 t=2059
+si xu 	思緒	c=1 d=1 t=5874
+si xun huan 	死循环	c=1 d=1 t=11755
+song 	送	c=3 d=2.81931 t=4768
+song gei 	送給	c=1 d=1 t=5274
+song le 	送了	c=1 d=1 t=4772
+song ni 	送你	c=2 d=1.956 t=4756
+song shang 	送上	c=1 d=1 t=1796
+song zhu fu 	送祝福	c=1 d=1 t=7337
+sou ji 	蒐集	c=1 d=1 t=13650
+sou suo 	搜索	c=5 d=1.84366 t=6953
+sou zuo 	搜做	c=1 d=1 t=6956
+su cai 	素材	c=2 d=1 t=8614
+su du fa 	速讀法	c=1 d=1 t=6305
+su ming 	宿命	c=1 d=1 t=7556
+su ming lun 	宿命論	c=1 d=1 t=7670
+su qiu 	訴求	c=2 d=1 t=12460
+su zao 	塑造	c=1 d=1 t=13322
+su zhu 	宿主	c=1 d=1 t=11306
+suan 	算	c=3 d=1 t=8487
+suan fa 	算法	c=5 d=3.80652 t=8814
+suan shi 	算是	c=1 d=1 t=4483
+suan tian ku la 	酸甜苦辣	c=1 d=1 t=6684
+suan yi 	算一	c=1 d=1 t=2957
+sui 	歲	c=1 d=1 t=2238
+sui bi 	隨筆	c=4 d=1.00115 t=10377
+sui pian 	碎片	c=1 d=1 t=6483
+suo xiao 	縮小	c=1 d=1 t=11909
+suo yi 	所以	c=8 d=1.00006 t=15614
+suo zai di 	所在地	c=1 d=1 t=1528
+ta 	他	c=3 d=0.1 t=6552
+ta 	她	c=11 d=1.02857 t=9630
+ta 	它	c=4 d=1.14515 t=10948
+ta chu 	踏出	c=0 d=0.1 t=15109
+ta chu zhe yi bu 	踏出這一步	c=1 d=1 t=15110
+ta jin 	踏進	c=1 d=1 t=4024
+ta men 	他們	c=3 d=1 t=14253
+ta ren 	他人	c=1 d=1 t=6002
+ta shi 	踏實	c=0 d=0.1 t=1375
+ta shi neng gan 	踏實能幹	c=2 d=1.96079 t=1384
+ta xu yao 	她需要	c=1 d=1 t=10843
+tai 	太	c=5 d=1.3588 t=7280
+tai da 	太大	c=1 d=1 t=12800
+tai de 	擡的	c=1 d=1 t=13786
+tai du 	態度	c=3 d=1 t=14593
+tai duo 	太多	c=4 d=1.97531 t=12359
+tai guo yu 	太過於	c=1 d=1 t=11717
+tai jin zhang 	太緊張	c=1 d=1 t=3562
+tai kang 	泰康	c=1 d=1 t=12075
+tai man 	太慢	c=1 d=1 t=3990
+tai mei 	太美	c=1 d=1 t=3921
+tai qian 	臺前	c=1 d=1 t=5654
+tai shan 	泰山	c=4 d=1.98076 t=5008
+tai zi 	太子	c=1 d=1 t=934
+tan chuang 	彈窗	c=1 d=1 t=4508
+tan ding 	談定	c=1 d=1 t=13824
+tan kuang 	彈框	c=2 d=1.97045 t=4642
+tan suan 	碳酸	c=1 d=1 t=2720
+tan suo 	探索	c=3 d=1 t=8521
+tan te 	忐忑	c=1 d=1 t=3913
+tan xin 	談心	c=1 d=1 t=8172
+tan zhen 	探針	c=1 d=1 t=1851
+tang ping 	躺平	c=1 d=1 t=7022
+tang qiao 	唐橋	c=1 d=1 t=12194
+tao bao 	淘寶	c=1 d=1 t=3070
+tao bu guo 	逃不過	c=1 d=1 t=941
+tao li 	逃離	c=1 d=1 t=2488
+tao li man tian 	桃李滿天	c=1 d=1 t=7987
+tao lun 	討論	c=1 d=1 t=2864
+tao yong 	套用	c=2 d=1.99501 t=7444
+te 	特	c=0 d=0.0774916 t=563
+te bie 	特別	c=1 d=1 t=3872
+te bie zhong 	特別重	c=1 d=1 t=3863
+te chang 	特長	c=1 d=1 t=3238
+te ding 	特定	c=2 d=0.313714 t=563
+teng xun 	騰訊	c=3 d=1.82283 t=15422
+teng xun hui yi 	腾讯会议	c=1 d=1 t=15447
+ti 	題	c=2 d=0.1 t=14758
+ti an 	提案	c=0 d=0.1 t=1975
+ti an bi ji 	提案筆記	c=1 d=1 t=1976
+ti dai 	替代	c=1 d=1 t=1835
+ti dai fang an 	替代方案	c=1 d=1 t=1830
+ti gao 	提高	c=2 d=1.04232 t=14541
+ti gong 	提供	c=3 d=1.02155 t=10314
+ti huan 	替換	c=8 d=1.01078 t=12082
+ti hui dao 	體會到	c=1 d=1 t=2571
+ti jiao 	提交	c=1 d=1 t=10047
+ti lan er 	提籃兒	c=0 d=0.1 t=9132
+ti lian 	提煉	c=5 d=1.2768 t=14745
+ti nei 	體內	c=0 d=0.1 t=12142
+ti qian 	提前	c=3 d=1.53363 t=3578
+ti shen xing nao 	提神醒腦	c=1 d=1 t=2787
+ti sheng 	提升	c=22 d=1.1389 t=15325
+ti shi 	提示	c=2 d=1 t=11045
+ti xi 	體系	c=34 d=1.41749 t=15151
+ti xian 	體現	c=2 d=1 t=13431
+ti xing 	提醒	c=7 d=2.10325 t=6571
+ti yan 	體驗	c=4 d=1 t=9682
+tian 	填	c=2 d=1.9802 t=1473
+tian 	天	c=4 d=1 t=9947
+tian fu yi bing 	天賦異秉	c=1 d=1 t=7593
+tian jia 	添加	c=51 d=2.07806 t=12095
+tian jiang 	天降	c=1 d=1 t=4481
+tian jie 	天界	c=1 d=1 t=9585
+tian leng 	天冷	c=1 d=1 t=12811
+tian mei 	甜美	c=1 d=1 t=5024
+tian shi di li ren he 	天時地利人和	c=1 d=1 t=4058
+tian xia wei gong 	天下爲公	c=3 d=2.98506 t=676
+tian xie 	填寫	c=1 d=1 t=12767
+tian ya 	天涯	c=1 d=1 t=11568
+tian zhen 	天真	c=1 d=1 t=7073
+tiao guo 	跳過	c=3 d=1.99005 t=11081
+tiao jian 	條件	c=1 d=1 t=7757
+tiao shi 	調試	c=2 d=1 t=12090
+tiao zhan 	挑戰	c=2 d=1.99501 t=4328
+tiao zheng 	調整	c=5 d=1 t=11951
+tiao zheng xin tai 	調整心態	c=1 d=1 t=7019
+tiao zhuan 	跳轉	c=1 d=1.07483 t=6399
+tie guan yin 	鐵觀音	c=1 d=1 t=2678
+ting 	庭	c=1 d=1 t=1783
+ting 	挺	c=10 d=1 t=15452
+ting 	聽	c=3 d=1 t=15439
+ting chu 	聽出	c=2 d=1.98511 t=3347
+ting da 	挺大	c=2 d=1.30575 t=5299
+ting dao 	聽到	c=1 d=1 t=3907
+ting duo 	挺多	c=4 d=1.92353 t=6665
+ting fan suo 	挺繁瑣	c=1 d=1 t=2824
+ting ge 	聽歌	c=1 d=1 t=935
+ting guo qu 	挺過去	c=1 d=1 t=4889
+ting mang 	挺忙	c=1 d=1 t=4861
+ting ni 	聽你	c=2 d=1.13134 t=3343
+ting shuo 	聽說	c=1 d=1 t=2771
+ting you 	挺有	c=1 d=1 t=7191
+ting zhe 	聽着	c=2 d=1 t=8415
+tong 	同	c=1 d=1 t=10122
+tong bu 	同步	c=4 d=1 t=8842
+tong bu dao 	同步到	c=1 d=1 t=4558
+tong cheng 	同城	c=8 d=2.75565 t=1545
+tong guan 	通關	c=1 d=1 t=15772
+tong guo 	通過	c=45 d=2.50648 t=15428
+tong hang 	同行	c=1 d=1 t=14225
+tong hua 	通話	c=1 d=1 t=928
+tong ji 	統計	c=3 d=1 t=11965
+tong ming 	同名	c=1 d=1 t=10547
+tong ming 	通明	c=1 d=1 t=10545
+tong ming shu 	同名數	c=1 d=0.923116 t=563
+tong ri 	同日	c=0 d=0.00710054 t=563
+tong ri me 	同日麼	c=1 d=0.0713613 t=563
+tong shi 	同事	c=2 d=1.00691 t=4764
+tong shi 	同時	c=2 d=1 t=14726
+tong su yi dong 	通俗易懂	c=1 d=1 t=7483
+tong xue 	同學	c=1 d=1 t=7364
+tong yang 	同樣	c=2 d=1 t=14167
+tong yi 	同意	c=1 d=0.0695994 t=563
+tong yi 	統一	c=2 d=0.140953 t=563
+tong yong xing 	通用性	c=1 d=1 t=9268
+tou 	透	c=1 d=1 t=8333
+tou 	頭	c=1 d=1 t=8457
+tou da 	頭大	c=1 d=1 t=7466
+tou guo 	透過	c=1 d=1.09851 t=7723
+tou guo ping mu 	透過屏幕	c=1 d=1 t=7721
+tou ming 	透明	c=2 d=1.99501 t=6976
+tou ru 	投入	c=3 d=1.00003 t=14061
+tou teng 	頭疼	c=1 d=1 t=12807
+tou zi 	投資	c=3 d=1.00081 t=10374
+tu 	圖	c=2 d=1.18204 t=15062
+tu biao 	圖表	c=1 d=1 t=2986
+tu bu 	徒步	c=2 d=1 t=12077
+tu pian 	圖片	c=7 d=4.58378 t=9006
+tu po 	突破	c=3 d=2.52693 t=15122
+tu ran 	突然	c=4 d=1 t=14131
+tu shu 	圖書	c=3 d=1 t=13918
+tu shu guan 	圖書館	c=9 d=1.40047 t=14138
+tu ya 	塗鴉	c=1 d=1 t=8970
+tu zi 	兔子	c=0 d=0.1 t=14558
+tu zi hai zi 	兔子孩子	c=1 d=1 t=14559
+tuan 	團	c=4 d=2.83981 t=3533
+tuan dian 	團點	c=1 d=1 t=13510
+tuan dui 	團隊	c=1 d=1 t=15531
+tuan yuan 	團圓	c=2 d=1.17464 t=5321
+tui 	腿	c=1 d=1 t=3840
+tui bian 	蛻變	c=1 d=1 t=14556
+tui chu 	推出	c=1 d=1 t=2167
+tui chu 	退出	c=4 d=1.00031 t=12816
+tui jian 	推薦	c=8 d=1.62189 t=15721
+tui jing 	頹景	c=1 d=1 t=1898
+tui song 	推送	c=1 d=1 t=15738
+tui xiao 	推銷	c=2 d=1.52729 t=14525
+tui xiu 	退休	c=4 d=1.9802 t=7943
+tuo kuan 	拓寬	c=2 d=1 t=15658
+tuo lei 	拖累	c=1 d=1 t=8139
+wa jue 	挖掘	c=3 d=1.00212 t=4271
+wa kong 	挖空	c=1 d=1 t=4775
+wa kong xin si 	挖空心思	c=1 d=1 t=4776
+wai 	外	c=5 d=1.03005 t=14085
+wai bian 	外邊	c=1 d=1 t=7935
+wai bu 	外部	c=2 d=1.0102 t=10297
+wai jie 	外接	c=1 d=1 t=11195
+wai lai 	外來	c=1 d=1 t=5058
+wai wang 	外網	c=1 d=1 t=3002
+wai xie 	外泄	c=1 d=1 t=10487
+wai yan 	外延	c=1 d=1 t=10489
+wan 	彎	c=1 d=1 t=4348
+wan 	玩	c=1 d=1 t=3480
+wan 	萬	c=3 d=1 t=14036
+wan an 	晚安	c=4 d=1 t=7745
+wan cheng 	完成	c=10 d=1.34469 t=11975
+wan er 	玩兒	c=0 d=0.1 t=9980
+wan er ni tu 	玩兒泥土	c=1 d=1 t=9981
+wan lu 	彎路	c=1 d=1 t=11247
+wan mei 	完美	c=2 d=1 t=13568
+wan min 	萬民	c=0 d=0.0298197 t=563
+wan min yi xin 	萬民一心	c=1 d=0.299692 t=563
+wan quan 	完全	c=2 d=1.60957 t=14037
+wan shan 	完善	c=3 d=1.41686 t=14722
+wan shang 	晚上	c=5 d=1 t=14731
+wan wan 	玩玩	c=2 d=1 t=4322
+wang 	往	c=1 d=1 t=3453
+wang 	忘	c=1 d=1 t=2264
+wang 	網	c=4 d=1 t=14385
+wang hong 	旺宏	c=1 d=1 t=4458
+wang hong 	網紅	c=1 d=1 t=4460
+wang le 	忘了	c=2 d=1.97045 t=2261
+wang luo 	網絡	c=4 d=1.30575 t=14387
+wang shang 	網上	c=6 d=1.98511 t=12539
+wang ye 	網頁	c=2 d=1.00012 t=11665
+wang yi 	網易	c=1 d=0.965605 t=563
+wang you 	網友	c=1 d=1 t=13312
+wang zhan 	網站	c=1 d=1 t=11183
+wei 	味	c=1 d=1 t=2844
+wei 	未	c=2 d=1 t=6116
+wei 	爲	c=23 d=1.98068 t=15654
+wei a 	圍啊	c=1 d=1 t=8507
+wei bai 	韋伯	c=1 d=1 t=12979
+wei bei 	違背	c=2 d=1.00004 t=15032
+wei bian ma 	爲編碼	c=1 d=1 t=6115
+wei da 	偉大	c=4 d=1.41066 t=5560
+wei dao 	味道	c=3 d=2.10218 t=5278
+wei he 	爲何	c=0 d=0.1 t=2112
+wei he zuo 	爲何作	c=1 d=1 t=2113
+wei ji 	爲己	c=0 d=0.1 t=3040
+wei lai 	未來	c=5 d=1.71766 t=14641
+wei le 	爲了	c=2 d=1 t=14081
+wei li 	威力	c=1 d=1 t=6011
+wei li 	爲例	c=1 d=1 t=9952
+wei min 	爲民	c=1 d=1 t=1706
+wei neng 	未能	c=1 d=1 t=1815
+wei ni 	爲你	c=1 d=1 t=2186
+wei rao 	圍繞	c=1 d=1 t=8683
+wei shen me 	爲什麼	c=4 d=1.01948 t=15017
+wei shi xian 	尉氏縣	c=1 d=1 t=12709
+wei xian 	危險	c=1 d=1 t=1109
+wei xin 	微信	c=9 d=1.956 t=15576
+wei yi 	唯一	c=7 d=1 t=12999
+wei zhi 	位置	c=12 d=1.00273 t=13117
+wei zhi 	未知	c=2 d=1 t=6782
+wei zhong 	爲重	c=1 d=1 t=2074
+wei zhong xin 	爲中心	c=1 d=1 t=15039
+wei zhu 	爲主	c=3 d=1.5975 t=13228
+wen 	問	c=2 d=1.05488 t=9550
+wen an 	文案	c=1 d=1 t=5773
+wen ben 	文本	c=16 d=7.44979 t=6466
+wen da 	問答	c=2 d=1.72615 t=7264
+wen dan 	文旦	c=3 d=2.95581 t=9642
+wen dang 	文檔	c=23 d=3.81405 t=11253
+wen hua 	文化	c=1 d=1 t=3072
+wen jian 	文件	c=39 d=1 t=15219
+wen jian jia 	文件夾	c=1 d=1 t=5431
+wen juan 	問卷	c=3 d=2.55675 t=7244
+wen nuan 	溫暖	c=0 d=0.1 t=8713
+wen nuan jian 	溫暖見	c=1 d=1 t=8714
+wen ti 	問題	c=69 d=5.96604 t=15282
+wen wen 	問問	c=1 d=1 t=1525
+wen xi 	溫習	c=2 d=1.56553 t=5779
+wen zhang 	文章	c=11 d=1.25658 t=14240
+wen zhi 	聞之	c=1 d=1 t=10081
+wen zi 	文字	c=2 d=1.1549 t=15361
+wen zi ban 	文字版	c=1 d=1 t=15438
+wo 	我	c=131 d=4.0571 t=15420
+wo chang shi 	我嘗試	c=1 d=0.100761 t=563
+wo chuang 	臥牀	c=2 d=1.89583 t=7993
+wo dai di 	我帶地	c=1 d=1 t=6765
+wo de 	我的	c=20 d=1.00574 t=15046
+wo en en ti 	我嗯嗯題	c=1 d=1 t=1932
+wo gai 	我該	c=1 d=1 t=15068
+wo hao xiang 	我好想	c=1 d=1 t=3684
+wo he 	我和	c=1 d=1 t=700
+wo kai che 	我開車	c=1 d=1 t=3428
+wo kan 	我看	c=1 d=1 t=4450
+wo ke yi 	我可以	c=1 d=1 t=2590
+wo men 	我們	c=6 d=1 t=7596
+wo mian xiang 	我面相	c=1 d=1 t=8215
+wo nan dang 	我難當	c=1 d=1 t=10621
+wo shen 	我身	c=1 d=1 t=8235
+wo shi 	我是	c=2 d=1 t=10356
+wo shuo 	我說	c=1 d=1 t=8413
+wo xiang 	我想	c=1 d=1 t=11876
+wo yao 	我要	c=3 d=1 t=15087
+wo ye bu dong 	我也不懂	c=1 d=1 t=2749
+wo yi jing 	我已經	c=1 d=1 t=4903
+wo zai 	我在	c=1 d=0.16696 t=563
+wo zhe bian 	我這邊	c=1 d=0.13332 t=563
+wo zhi qian 	我之前	c=1 d=1 t=3448
+wu 	無	c=3 d=1.00224 t=12351
+wu fa 	無法	c=38 d=1.00236 t=12910
+wu fa tong shi 	無法同時	c=1 d=0.818731 t=563
+wu ge 	五個	c=2 d=1.91393 t=6016
+wu ming 	無名	c=1 d=1 t=942
+wu qi 	霧氣	c=1 d=1 t=3862
+wu qing 	無情	c=1 d=1.1 t=1765
+wu qing shen pan 	無情審判	c=1 d=1 t=1766
+wu ren dao 	無人島	c=1 d=1 t=3700
+wu sheng yin 	無聲音	c=2 d=1.02887 t=1655
+wu tong 	無痛	c=1 d=1.05123 t=1876
+wu tong na ge 	無痛那個	c=1 d=1 t=1877
+wu xiao 	無效	c=2 d=1 t=8990
+wu yin 	無垠	c=1 d=1 t=3724
+wu yong 	無用	c=1 d=1 t=4519
+xi 	兮	c=1 d=1 t=12747
+xi 	戲	c=2 d=1 t=15078
+xi 	洗	c=1 d=1 t=2841
+xi ai zhe 	喜愛着	c=1 d=1 t=12530
+xi an 	西安	c=1 d=0.574072 t=563
+xi er qi 	西二旗	c=1 d=1 t=604
+xi guan 	習慣	c=41 d=2.16413 t=15589
+xi guan huan 	習慣換	c=1 d=1 t=8661
+xi hao 	喜好	c=1 d=1 t=8092
+xi huan 	喜歡	c=6 d=1.56048 t=8181
+xi le 	洗了	c=1 d=1 t=13831
+xi sheng 	犧牲	c=2 d=1.99005 t=4381
+xi shou 	吸收	c=1 d=1 t=2010
+xi shua 	洗刷	c=1 d=1 t=14874
+xi ti 	喜提	c=1 d=1 t=4506
+xi tong 	系統	c=12 d=1.54607 t=15274
+xi wang 	希望	c=8 d=1.00014 t=15441
+xi yin 	吸引	c=1 d=1 t=13668
+xi yin li 	吸引力	c=1 d=1 t=12264
+xi yue 	喜悅	c=1 d=1 t=4255
+xi zao 	洗澡	c=1 d=1 t=12161
+xia 	下	c=37 d=1.37553 t=15466
+xia 	俠	c=0 d=0.1 t=1787
+xia a zai 	下啊在	c=1 d=1 t=6809
+xia ci 	下次	c=4 d=2.69274 t=15460
+xia de 	下的	c=1 d=1 t=614
+xia di 	下地	c=1 d=1 t=4259
+xia fan 	下凡	c=1 d=1 t=7339
+xia jue xin 	下決心	c=1 d=1 t=12919
+xia la 	下拉	c=1 d=0.148823 t=563
+xia lai 	下來	c=2 d=1 t=14098
+xia lia 	下倆	c=1 d=1 t=14097
+xia lu kuang 	下路況	c=1 d=1 t=4324
+xia qu 	下去	c=2 d=1 t=13678
+xia shi 	下士	c=1 d=1 t=1759
+xia wu 	下午	c=5 d=2.85819 t=4412
+xia xue 	下雪	c=1 d=1 t=607
+xia yi bu 	下一步	c=5 d=1.00099 t=14642
+xia yi ci 	下一次	c=1 d=1 t=9919
+xia yi ge 	下一個	c=1 d=1 t=3961
+xia zai 	下載	c=13 d=4.72596 t=15730
+xian 	先	c=35 d=0.644834 t=15755
+xian 	綫	c=2 d=1.97531 t=4399
+xian 	縣	c=1 d=1 t=15345
+xian 	限	c=0 d=0.1 t=5248
+xian ai 	腺癌	c=1 d=1 t=12370
+xian cheng 	縣城	c=2 d=1.99005 t=9143
+xian chu li 	先處理	c=1 d=1 t=8894
+xian cong 	先從	c=2 d=1.00002 t=10758
+xian de 	顯得	c=1 d=1 t=8502
+xian gu 	仙姑	c=1 d=0.547088 t=10622
+xian gu gan 	仙姑感	c=1 d=1 t=10623
+xian guan bi 	先關閉	c=1 d=1 t=10111
+xian guan li 	線管理	c=1 d=1 t=10110
+xian guang 	閒逛	c=4 d=1.24812 t=8360
+xian jun 	險峻	c=1 d=1 t=3825
+xian liao jie 	先了解	c=1 d=1 t=4621
+xian mu 	羨慕	c=2 d=1 t=8471
+xian mu guang 	先目光	c=1 d=1 t=10026
+xian pi 	鮮啤	c=1 d=1 t=5304
+xian qu 	先去	c=1 d=1 t=4321
+xian ru 	陷入	c=2 d=1.84366 t=11777
+xian shan 	閒山	c=1 d=1 t=15346
+xian shang 	線上	c=1 d=1 t=15355
+xian shen 	現身	c=1 d=1 t=8492
+xian shen shou 	顯身手	c=1 d=1 t=1690
+xian shi 	現實	c=12 d=1.00001 t=15103
+xian shi 	顯示	c=9 d=1.5599 t=15102
+xian tiao zheng 	先調整	c=2 d=1.99501 t=9180
+xian xia 	線下	c=2 d=1.00279 t=2393
+xian xia lai 	閒下來	c=1 d=1 t=14095
+xian xian 	顯現	c=1 d=1 t=2392
+xian yong 	先用	c=1 d=1 t=1168
+xian you 	現有	c=1 d=1 t=8612
+xian yu 	鹹魚	c=2 d=1.53259 t=12247
+xian za 	閒雜	c=1 d=1 t=9869
+xian zai 	先在	c=1 d=1 t=9054
+xian zai 	現在	c=145 d=3.80161 t=15375
+xian zai 	陷在	c=2 d=1.99501 t=6997
+xian zhao dao 	先找到	c=1 d=1 t=15756
+xian zhi 	限制	c=3 d=1.00001 t=9404
+xian zhuang 	現狀	c=11 d=1.98361 t=12916
+xian zi 	仙子	c=0 d=0.1 t=9869
+xian zi a 	仙子啊	c=1 d=1 t=9870
+xian zuo 	先做	c=0 d=0.1 t=15749
+xiang 	像	c=3 d=1.50409 t=10986
+xiang 	向	c=2 d=1.47951 t=5824
+xiang 	想	c=42 d=1.01629 t=15464
+xiang 	項	c=8 d=2.43142 t=5733
+xiang ban fa 	想辦法	c=1 d=1 t=12474
+xiang cheng wei 	想成爲	c=1 d=1 t=5877
+xiang chu 	相處	c=1 d=1 t=8038
+xiang cu 	香醋	c=0 d=0.1 t=9190
+xiang cu yao 	香醋要	c=1 d=1 t=9191
+xiang dang 	相當	c=1 d=1 t=5276
+xiang dao 	想到	c=2 d=1.97045 t=4783
+xiang dui 	相對	c=1 d=1 t=2379
+xiang fa 	想法	c=13 d=1.00001 t=15203
+xiang gei ni 	想給你	c=1 d=1 t=8193
+xiang guan 	相關	c=25 d=1.38357 t=12682
+xiang hu 	相互	c=2 d=1.14808 t=8112
+xiang la 	香	c=1 d=1 t=3132
+xiang mu 	項目	c=40 d=1.52565 t=15028
+xiang qi 	想起	c=2 d=1 t=14573
+xiang qi lai 	想起來	c=1 d=1 t=7931
+xiang qing 	詳情	c=1 d=1 t=10880
+xiang qu 	想去	c=1 d=1 t=3660
+xiang sha 	想啥	c=1 d=1 t=4231
+xiang shan 	香山	c=1 d=1 t=2622
+xiang shou 	享受	c=3 d=1 t=5318
+xiang tong guo 	想通過	c=3 d=1 t=14914
+xiang xi 	詳細	c=1 d=1 t=6518
+xiang xian 	象限	c=1 d=1 t=5271
+xiang xiang 	想想	c=4 d=1.02443 t=14952
+xiang xiang li 	想象力	c=1 d=0.1 t=15742
+xiang xin 	相信	c=2 d=1 t=15488
+xiang xue 	想學	c=1 d=1 t=4666
+xiang ya 	象牙	c=1 d=1 t=15116
+xiang yao 	想要	c=6 d=1.00024 t=15118
+xiang yao de 	想要的	c=1 d=1 t=13867
+xiang yi xiang 	想一想	c=0 d=0.1 t=7471
+xiang yi xiang yi 	想一想一	c=1 d=1 t=7472
+xiang ying 	相應	c=0 d=0.1 t=8588
+xiang ying shi 	相應式	c=1 d=1 t=8589
+xiang zuo 	想做	c=1 d=1 t=6610
+xiao 	小	c=10 d=1 t=15298
+xiao 	校	c=1 d=1 t=1704
+xiao bai 	小白	c=1 d=1 t=4293
+xiao bing 	小兵	c=1 d=1 t=943
+xiao gong ju 	小工具	c=1 d=1 t=15224
+xiao guo 	效果	c=9 d=1 t=15323
+xiao hao 	消耗	c=1 d=1 t=14038
+xiao jia 	小家	c=0 d=0.1 t=1702
+xiao lv 	效率	c=10 d=1.01677 t=14024
+xiao mi 	小米	c=2 d=1.04097 t=1570
+xiao ming 	小明	c=1 d=1 t=9500
+xiao mu biao 	小目標	c=1 d=1 t=5942
+xiao neng 	效能	c=1 d=1 t=5232
+xiao nv hai 	小女孩	c=2 d=1.79057 t=15665
+xiao pin 	小品	c=1 d=1 t=1651
+xiao qi 	小憩	c=2 d=1.97531 t=6988
+xiao qi ye 	小企業	c=1 d=1 t=2431
+xiao qian 	消遣	c=1 d=1 t=2801
+xiao qu 	校區	c=1 d=1 t=5052
+xiao rao 	小饒	c=1 d=1 t=3022
+xiao shi 	小時	c=4 d=1 t=14864
+xiao shi hou 	小時候	c=1 d=1 t=7316
+xiao shi juan 	小試卷	c=1 d=1 t=7163
+xiao shuo 	小說	c=3 d=2.41001 t=6704
+xiao xi 	消息	c=2 d=1.96079 t=2947
+xiao xiao 	小小	c=2 d=1.00071 t=4799
+xiao xue 	小學	c=3 d=1.11266 t=8270
+xiao xue sheng 	小學生	c=1 d=1 t=8400
+xiao yao 	逍遙	c=1 d=1 t=3023
+xiao yi 	小蟻	c=4 d=3.9407 t=15307
+xiao zhong 	小衆	c=1 d=1 t=3530
+xiao zu 	小組	c=3 d=1.71117 t=15552
+xie 	些	c=3 d=1 t=13515
+xie 	寫	c=9 d=1.84797 t=15215
+xie 	蟹	c=1 d=1 t=3716
+xie bo ke 	寫博客	c=1 d=1 t=5418
+xie cheng 	寫成	c=1 d=1 t=13372
+xie chu 	寫出	c=1 d=1 t=12548
+xie cuo 	寫錯	c=1 d=1 t=3646
+xie de 	寫的	c=1 d=1 t=10601
+xie ru 	寫入	c=3 d=1.89853 t=10292
+xie wan 	寫完	c=1 d=1 t=5765
+xie xia 	寫下	c=3 d=1 t=13783
+xie yi 	協議	c=2 d=1.12369 t=6132
+xie zai 	卸載	c=1 d=1 t=1584
+xie zhe pian 	寫這篇	c=1 d=1 t=9720
+xie zhu 	協助	c=1 d=1 t=9350
+xie zuo 	寫作	c=11 d=1.01569 t=14540
+xin 	信	c=2 d=1.72615 t=7669
+xin 	心	c=7 d=1.00076 t=14918
+xin 	新	c=4 d=1 t=14921
+xin ban ben 	新版本	c=1 d=1 t=2153
+xin bu tiao 	心不跳	c=1 d=1 t=1710
+xin cun 	新村	c=3 d=1.84366 t=12750
+xin de 	新的	c=3 d=1 t=14917
+xin fu wu 	新服務	c=1 d=1 t=9173
+xin gong zuo 	新工作	c=3 d=1.9802 t=11680
+xin jian 	新建	c=7 d=1.00497 t=11651
+xin jing 	心靜	c=3 d=2.9458 t=15696
+xin jing dan zhan 	心驚膽戰	c=1 d=1 t=4339
+xin ku 	辛苦	c=2 d=1.97045 t=2344
+xin le 	信了	c=1 d=1 t=7631
+xin li 	心理	c=3 d=1 t=13044
+xin li shang 	心理上	c=1 d=1 t=12661
+xin ling 	心靈	c=1 d=1 t=3056
+xin mei ti 	新媒體	c=1 d=1 t=2239
+xin ming 	信命	c=1 d=1 t=7523
+xin qing 	心情	c=1 d=1 t=13940
+xin ren 	信任	c=1 d=1 t=6324
+xin sheng 	新生	c=0 d=0.1 t=7374
+xin sheng huo 	新生活	c=1 d=1 t=14945
+xin shi 	心事	c=1 d=1 t=8207
+xin suan 	心酸	c=1 d=1 t=2817
+xin tai 	心態	c=7 d=1.06738 t=8427
+xin tu 	信徒	c=1 d=1 t=8291
+xin wen 	新聞	c=1 d=1 t=3032
+xin xi 	信息	c=14 d=1 t=14403
+xin xin nian nian 	心心念念	c=1 d=1 t=12926
+xin yang 	信仰	c=5 d=1.00005 t=8293
+xin yi 	心意	c=2 d=1.7827 t=4798
+xin zeng 	新增	c=5 d=1 t=10611
+xin zhong 	心中	c=1 d=1 t=5840
+xin zhong guo 	新中國	c=1 d=1 t=7966
+xin zi 	薪資	c=3 d=2.81194 t=1566
+xing 	型	c=2 d=1.44043 t=9616
+xing 	性	c=5 d=1.74453 t=13718
+xing 	星	c=1 d=1 t=12118
+xing 	醒	c=1 d=1 t=2839
+xing dong 	行動	c=5 d=2.01412 t=15521
+xing ge 	性格	c=3 d=1.88816 t=7614
+xing ji 	星際	c=1 d=1 t=1959
+xing qing 	性情	c=1 d=1 t=12984
+xing qu 	興趣	c=2 d=1 t=13490
+xing wei 	行爲	c=2 d=1.99501 t=14592
+xing wu 	醒悟	c=1 d=1 t=12164
+xing zhi 	興致	c=1 d=1 t=3565
+xiu 	休	c=2 d=1.99501 t=6987
+xiu fu 	修復	c=3 d=1 t=15249
+xiu gai 	修改	c=6 d=1.00533 t=11173
+xiu gai xi tong 	修改系統	c=1 d=1 t=870
+xiu jie 	修潔	c=1 d=1 t=9584
+xiu xi 	休息	c=8 d=1.00363 t=8346
+xiu xing 	修行	c=2 d=1.88235 t=4917
+xiu xing ma 	修行嗎	c=1 d=1 t=4892
+xiu zhu 	修築	c=1 d=1 t=13168
+xu 	需	c=2 d=1.0534 t=10970
+xu hang 	續航	c=1 d=1 t=6449
+xu lie 	序列	c=1 d=1 t=10716
+xu ming 	續命	c=1 d=1 t=7713
+xu ni 	虛擬	c=1 d=1 t=11315
+xu qiu 	需求	c=3 d=1.12938 t=11213
+xu yan 	序言	c=1 d=1 t=5748
+xu yao 	需要	c=40 d=1.06838 t=15615
+xu zhao 	虛招	c=1 d=1 t=12861
+xuan dan 	選單	c=1 d=0.211189 t=563
+xuan qu 	選取	c=1 d=1 t=8763
+xuan shu 	懸殊	c=1 d=1 t=1900
+xuan shu 	選書	c=1 d=1 t=1901
+xuan xiang 	選項	c=1 d=0.379083 t=563
+xuan xie 	宣泄	c=1 d=1 t=4963
+xuan xue 	玄學	c=1 d=1 t=7149
+xuan yan 	宣言	c=15 d=2.24196 t=6569
+xuan ze 	選擇	c=2 d=1 t=12635
+xue 	學	c=4 d=1.03081 t=14702
+xue 	雪	c=1 d=1 t=613
+xue qu fang 	學區房	c=1 d=1 t=5154
+xue sheng 	學生	c=5 d=2.78798 t=8170
+xue tou 	學透	c=1 d=1 t=11794
+xue wen 	學問	c=1 d=1 t=2764
+xue xi 	學習	c=90 d=1.52206 t=15686
+xue xi ci 	學習次	c=1 d=1 t=13378
+xue xi li 	學習力	c=4 d=1.98437 t=14707
+xue xue 	學學	c=1 d=1 t=1531
+xun huan 	循環	c=7 d=2.9525 t=15766
+xun lian 	訓練	c=4 d=1 t=15565
+xun tao 	薰陶	c=1 d=1 t=8430
+xun zhao 	尋找	c=3 d=1.00091 t=14389
+ya 	呀	c=17 d=1.54881 t=12935
+ya li 	壓力	c=5 d=1.00597 t=3679
+ya zha 	壓榨	c=1 d=1 t=14013
+yan 	岩	c=5 d=1 t=10641
+yan chuan shen jiao 	言傳身教	c=1 d=1 t=8321
+yan fa 	研發	c=1 d=1 t=15534
+yan guo 	淹过	c=1 d=1 t=3834
+yan jiang 	演講	c=2 d=1.99501 t=14972
+yan jing 	眼睛	c=1 d=1 t=8026
+yan jiu 	研究	c=7 d=1.00436 t=14145
+yan lian 	演練	c=2 d=1.94649 t=1899
+yan qian 	眼前	c=1 d=1 t=2182
+yan shen 	延伸	c=1 d=1 t=11338
+yan sheng 	衍生	c=1 d=1 t=13275
+yan shi 	演示	c=2 d=1 t=9569
+yan zhang 	煙瘴	c=1 d=1 t=10064
+yan zheng 	驗證	c=15 d=0.100008 t=15283
+yang 	樣	c=7 d=1 t=7590
+yang cheng 	養成	c=7 d=1 t=14907
+yang li 	陽曆	c=1 d=1 t=9382
+yang sheng 	養生	c=1 d=1 t=2685
+yang shi 	樣式	c=2 d=1.00035 t=1848
+yang zheng 	養正	c=1 d=0.0875977 t=563
+yang zi 	樣子	c=7 d=1.10357 t=15120
+yao 	腰	c=1 d=1 t=7960
+yao 	要	c=69 d=2.57933 t=15607
+yao bi 	要比	c=8 d=1.00187 t=13751
+yao bu 	要不	c=2 d=1.13738 t=3980
+yao bu yao 	要不要	c=5 d=1.0054 t=4724
+yao ji xu 	要繼續	c=2 d=1.03239 t=14450
+yao ling 	要領	c=1 d=1 t=1915
+yao pei he xing dong 	要配合行動	c=1 d=1 t=15513
+yao qi fa 	要啓發	c=1 d=1 t=8436
+yao qing 	邀請	c=1 d=1 t=4454
+yao qing ta 	邀請她	c=1 d=1 t=8162
+yao qiu 	要求	c=7 d=1 t=10917
+yao qu fen kai 	要去分開	c=1 d=1 t=8651
+yao shen 	腰身	c=1 d=1 t=2998
+yao shi 	要事	c=1 d=1.0001 t=5884
+yao shi 	鑰匙	c=3 d=1 t=10024
+yao shi di yi 	要事第一	c=2 d=1 t=15036
+yao wan cheng 	要完成	c=1 d=1 t=9872
+yao wu 	藥物	c=1 d=1 t=8000
+yao xiang 	要想	c=2 d=1.00006 t=9619
+yao yan zheng 	要驗證	c=1 d=1 t=15284
+yao yi 	要以	c=1 d=1 t=13127
+yao you 	要有	c=3 d=1.00005 t=9637
+yao zai 	要在	c=1 d=1 t=11477
+yao zhi dao 	要知道	c=1 d=1 t=10025
+yao zuo 	要做	c=4 d=1.11911 t=14643
+yao zuo dao 	要做到	c=1 d=1 t=14898
+yao zuo shen me 	要做什麼	c=1 d=1 t=14954
+ye 	也	c=18 d=1.12621 t=14369
+ye 	業	c=1 d=1 t=3215
+ye ban 	夜班	c=1 d=1 t=3609
+ye dou 	也都	c=1 d=1 t=5086
+ye fei chang 	也非常	c=2 d=1 t=9646
+ye guo 	野果	c=2 d=1.28365 t=8319
+ye he en da 	也和嗯大	c=1 d=1 t=2522
+ye hen 	也很	c=1 d=1 t=4407
+ye ke yi 	也可以	c=2 d=1 t=12586
+ye mian 	頁面	c=2 d=1 t=11187
+ye neng 	也能	c=2 d=1.62189 t=13757
+ye shi 	也是	c=11 d=1.43478 t=13637
+ye shou 	也受	c=1 d=1 t=2384
+ye wu 	業務	c=7 d=1 t=12948
+ye xing 	也行	c=1 d=1 t=15463
+ye xu 	也許	c=2 d=1 t=15014
+ye xu yao 	也許要	c=1 d=1 t=8296
+ye yao 	也要	c=1 d=1 t=14458
+ye you 	也有	c=1 d=1 t=8163
+ye zai 	也在	c=3 d=1 t=8582
+ye zhi chi 	也支持	c=1 d=1 t=9878
+ye zhi de 	也值得	c=1 d=1 t=12223
+yi 	一	c=11 d=1.06489 t=15467
+yi 	以	c=9 d=1.00015 t=13226
+yi 	已	c=1 d=1 t=11163
+yi a 	移啊	c=1 d=1 t=11382
+yi ba 	一把	c=3 d=1 t=11880
+yi bai 	一百	c=1 d=1 t=2707
+yi bai 	衣襬	c=1 d=1 t=1741
+yi ban 	一班	c=1 d=1 t=3608
+yi ban 	一般	c=1 d=1 t=1236
+yi ben 	一本	c=2 d=1.99005 t=14967
+yi ben shu 	一本書	c=1 d=1 t=1937
+yi bian 	以便	c=1 d=1 t=10295
+yi bo bo 	一波波	c=1 d=1 t=3837
+yi bu 	一步	c=4 d=1.00392 t=14821
+yi chang 	一場	c=3 d=0.100011 t=7303
+yi chu 	一處	c=1 d=1 t=3184
+yi chu 	移除	c=3 d=1.26982 t=6791
+yi ci 	一次	c=5 d=0.131905 t=13788
+yi ci ding zi 	以詞定字	c=2 d=1.99501 t=678
+yi ci zai yi ci 	一次在一次	c=1 d=1 t=13789
+yi dan 	一旦	c=1 d=1 t=11850
+yi di 	異地	c=1 d=1 t=4626
+yi dian 	一點	c=0 d=0.1 t=8312
+yi dian dian 	一點點	c=2 d=1.8781 t=13441
+yi ding 	一定	c=5 d=1.16001 t=13697
+yi dui 	一堆	c=1 d=1 t=4671
+yi fang bian 	以方便	c=1 d=1 t=13024
+yi fen 	一份	c=0 d=0.1 t=8291
+yi fu 	衣服	c=1 d=1 t=4107
+yi ge 	一個	c=61 d=1.49152 t=15671
+yi ge ge 	一個個	c=1 d=1 t=3969
+yi ge ren 	一個人	c=4 d=1.43791 t=8450
+yi ge yue 	一個月	c=2 d=1.00001 t=5571
+yi ge yue qian 	一個月前	c=2 d=1.69768 t=8304
+yi gen 	一根	c=1 d=1 t=7741
+yi gui 	衣櫃	c=0 d=0.1 t=14608
+yi gui zheng li 	衣櫃整理	c=1 d=1 t=14609
+yi han 	遺憾	c=2 d=1.97531 t=3351
+yi hou 	以後	c=3 d=1.16618 t=11257
+yi hui lai 	一回來	c=1 d=1 t=9208
+yi ji 	以及	c=1 d=0.1 t=6526
+yi ji na ge 	以及那個	c=1 d=1 t=6527
+yi jian 	一件	c=3 d=2.67627 t=8308
+yi jian shi 	一件事	c=1 d=1 t=13004
+yi jing 	已經	c=12 d=1.94649 t=13921
+yi jing 	易經	c=8 d=6.48531 t=7463
+yi jiu 	已久	c=1 d=1 t=4807
+yi lai 	以來	c=1 d=0.115325 t=563
+yi lai 	依賴	c=19 d=2.17576 t=11549
+yi lai de 	以來的	c=1 d=1 t=11437
+yi lai ku 	依賴庫	c=1 d=1 t=11520
+yi liang 	一亮	c=1 d=1 t=2184
+yi liang 	一輛	c=1 d=1 t=2183
+yi lu 	一路	c=1 d=1 t=4441
+yi lv 	一律	c=1 d=1 t=3221
+yi men 	一門	c=2 d=1.94649 t=9632
+yi pang 	一旁	c=1 d=1 t=8343
+yi pi 	一批	c=1 d=1 t=7983
+yi pian 	一片	c=2 d=0.1 t=12289
+yi pian 	一篇	c=1 d=1 t=14504
+yi pian ge 	一片個	c=1 d=1 t=12290
+yi qi 	一起	c=5 d=1 t=13376
+yi qiang 	一槍	c=1 d=1 t=7962
+yi qie 	一切	c=4 d=1.00001 t=15745
+yi qing 	疫情	c=11 d=2.57941 t=4999
+yi quan 	一圈	c=2 d=1.05841 t=4473
+yi sheng 	一生	c=1 d=1 t=8452
+yi shi 	一時	c=0 d=0.1 t=5484
+yi shi 	意識	c=5 d=1 t=6019
+yi shi ling gan 	一時靈感	c=1 d=1 t=5485
+yi shi xing qi 	一時興起	c=1 d=1 t=3773
+yi shuo 	一說	c=2 d=1.03561 t=2940
+yi sou 	一艘	c=1 d=1 t=3707
+yi tao 	一套	c=3 d=1.97531 t=12616
+yi ti a 	一提啊	c=1 d=1 t=13894
+yi tian 	一天	c=2 d=1.89694 t=14923
+yi tiao 	一條	c=2 d=1 t=2862
+yi tiao xian 	一條線	c=1 d=1 t=4428
+yi tu 	意圖	c=1 d=1 t=5887
+yi wang wu ji 	一望無際	c=1 d=1 t=3726
+yi wei 	以爲	c=1 d=1 t=4016
+yi xi lei 	一系類	c=1 d=1 t=14332
+yi xi lie 	一系列	c=1 d=1 t=14333
+yi xia 	一下	c=19 d=1.72634 t=15455
+yi xia 	以下	c=1 d=1 t=6843
+yi xia ci 	一下次	c=1 d=1 t=3675
+yi xia zi 	一下子	c=3 d=1 t=13883
+yi xie 	一些	c=19 d=1.61997 t=15183
+yi xie e 	一些額	c=1 d=1 t=12203
+yi xin 	一心	c=1 d=1.00009 t=1723
+yi yan 	一眼	c=2 d=1.28365 t=8455
+yi yan 	一言	c=2 d=1.99005 t=15719
+yi yan bu he 	一言不合	c=1 d=1 t=15720
+yi yan nan jin 	一言難盡	c=1 d=1 t=2542
+yi yang 	一樣	c=2 d=1.00003 t=4027
+yi yi 	意義	c=1 d=1 t=7513
+yi yu 	抑鬱	c=1 d=1 t=15599
+yi yuan 	意願	c=7 d=1.9802 t=12568
+yi yue 	一月	c=1 d=1 t=12725
+yi zao 	一早	c=1 d=1 t=4184
+yi zhang tu 	一張圖	c=1 d=1 t=1679
+yi zhi 	一支	c=2 d=1.43605 t=8440
+yi zhi 	一直	c=10 d=1.32005 t=13036
+yi zhi 	意志	c=1 d=1 t=5889
+yi zhi bi 	一支筆	c=1 d=1 t=4706
+yi zhi yu 	以至於	c=1 d=1 t=7579
+yi zhong 	一種	c=2 d=1 t=15490
+yi zhong wei shi 	以終爲始	c=2 d=1.99005 t=3059
+yin 	因	c=1 d=1 t=10230
+yin chu 	引出	c=1 d=1 t=9430
+yin hao 	引號	c=1 d=1 t=6902
+yin ju 	隱居	c=2 d=1.73712 t=2559
+yin liao 	飲料	c=1 d=1 t=2721
+yin pin 	音頻	c=5 d=1 t=12818
+yin wei 	因爲	c=7 d=1.00098 t=12432
+yin xiang 	印象	c=1 d=1 t=15653
+yin xiang li 	印象裏	c=1 d=1 t=7151
+yin yong 	引用	c=1 d=1 t=11554
+yin yue 	音樂	c=6 d=1 t=12824
+ying 	英	c=2 d=1 t=13554
+ying gai 	應該	c=14 d=1.03262 t=14885
+ying gai shi 	應該是	c=2 d=1.08046 t=7575
+ying mu 	熒幕	c=1 d=1 t=4026
+ying she 	映射	c=2 d=1.12938 t=11587
+ying tong huo 	硬通貨	c=1 d=1 t=4840
+ying wei 	應爲	c=1 d=0.245367 t=563
+ying wen 	英文	c=2 d=1.00207 t=1960
+ying wen dian ying ming 	英文電影名	c=1 d=1 t=709
+ying wo 	硬臥	c=1 d=1 t=3618
+ying xiang 	影響	c=7 d=0.107774 t=14758
+ying xiang li 	影響力	c=9 d=3.30515 t=14818
+ying xiang nen 	影響嫩	c=1 d=1 t=14126
+ying xiang ni 	影響你	c=1 d=1 t=5981
+ying xiang quan 	影響圈	c=4 d=1 t=14728
+ying xiang ti 	影響題	c=1 d=1 t=14759
+ying xiong 	英雄	c=2 d=1.99005 t=1791
+ying ye 	營業	c=1 d=1 t=12693
+ying yong 	應用	c=6 d=1.2097 t=11555
+ying yong dao 	應用到	c=1 d=1 t=9066
+ying zhan 	迎戰	c=1 d=1 t=3200
+ying zhe 	迎着	c=1 d=1 t=3970
+yong 	用	c=7 d=1.38791 t=15608
+yong chu 	用處	c=1 d=1 t=8568
+yong dao 	用到	c=1 d=1 t=10231
+yong fa 	用法	c=14 d=2.3591 t=11233
+yong gan 	勇敢	c=1 d=1 t=15108
+yong guo 	用過	c=1 d=1 t=1490
+yong hao 	用好	c=1 d=1 t=8669
+yong hu 	用戶	c=6 d=4.61365 t=11652
+yong lai 	用來	c=3 d=1.01323 t=11424
+yong qi 	勇氣	c=3 d=1.0008 t=15611
+yong shang 	用上	c=1 d=1 t=15444
+yong tu 	用途	c=1 d=1 t=5615
+yong yong 	用用	c=1 d=1 t=1178
+yong zai 	用在	c=1 d=1 t=14016
+you 	又	c=6 d=1.06055 t=12792
+you 	有	c=120 d=2.61982 t=15684
+you 	由	c=3 d=2.05894 t=2438
+you 	遊	c=1 d=1 t=4374
+you bian 	郵編	c=2 d=1 t=12719
+you che 	有車	c=1 d=1 t=1440
+you ci 	有次	c=2 d=1.99501 t=3211
+you dan you shi 	有膽有識	c=1 d=1 t=1696
+you dian 	有點	c=5 d=1.61658 t=7599
+you ge 	有個	c=7 d=1 t=15678
+you gen you ju 	有根有據	c=1 d=1 t=1701
+you guo 	有過	c=2 d=1.00586 t=2515
+you hao 	友好	c=1 d=1 t=4408
+you hu 	遊湖	c=1 d=1 t=14732
+you hua 	優化	c=16 d=1 t=15732
+you hua hou 	优化后	c=1 d=1 t=5266
+you hua ming hang 	優化名行	c=1 d=1 t=11015
+you huo 	誘惑	c=1 d=1 t=4372
+you ji hui 	有機會	c=1 d=1 t=4325
+you jian 	郵件	c=1 d=1 t=15698
+you kan 	有看	c=1 d=1 t=12227
+you le yi ge 	有了一個	c=1 d=1 t=5124
+you li 	有力	c=1 d=1 t=2613
+you liang ge 	有兩個	c=1 d=1 t=14538
+you mei yo 	有沒喲	c=1 d=1 t=9403
+you mei you 	有沒有	c=13 d=1.00006 t=7482
+you na xie 	有哪些	c=1 d=1 t=13767
+you ni 	有你	c=2 d=1 t=4153
+you qing 	友情	c=3 d=2.93124 t=6662
+you ren 	有人	c=2 d=1.1367 t=3763
+you sha 	有啥	c=1 d=1 t=4232
+you shang jiao 	右上角	c=2 d=1.89137 t=1478
+you shen me 	有什麼	c=1 d=1 t=7705
+you sheng yin 	有聲音	c=1 d=1 t=12823
+you shi 	優勢	c=1 d=1 t=13496
+you shi hou 	有時候	c=1 d=1 t=6712
+you shi jian 	有時間	c=1 d=1 t=3992
+you shuo 	又說	c=1 d=1 t=4162
+you si xiang 	有思想	c=1 d=1 t=8218
+you wan 	遊玩	c=6 d=1.00813 t=4435
+you xi 	遊戲	c=5 d=0.1 t=9647
+you xi huan 	有喜歡	c=1 d=1 t=6626
+you xian 	優先	c=7 d=4.90242 t=6029
+you xian ji 	優先級	c=7 d=1 t=14859
+you xiang 	郵箱	c=1 d=1 t=15697
+you xiao 	有效	c=2 d=1 t=15662
+you xiao guo 	有效果	c=2 d=1 t=6722
+you xiao qi 	有效期	c=1 d=1 t=9948
+you xiu 	優秀	c=1 d=1 t=7984
+you yi ding 	有一定	c=1 d=1 t=7620
+you yi ge 	有一個	c=4 d=1 t=14284
+you yi yi 	有意義	c=1 d=1 t=12285
+you ying xiang 	有影響	c=1 d=1 t=7488
+you you xi 	有遊戲	c=1 d=1 t=9648
+you yu 	由於	c=1 d=1 t=10930
+you zhe 	有着	c=1 d=1 t=8019
+you zhe ge 	有這個	c=1 d=1 t=15437
+you zhe xie 	有這些	c=1 d=1 t=12313
+you zhi 	優質	c=1 d=1 t=14390
+you zhong 	有種	c=1 d=1 t=3336
+you zhu yu 	有助於	c=2 d=1 t=4660
+yu 	於	c=3 d=1 t=14883
+yu 	與	c=1 d=1.00166 t=3038
+yu 	預	c=0 d=0.1 t=11384
+yu a fa 	與阿發	c=1 d=1 t=11203
+yu an zhuang bao 	預安裝包	c=1 d=1 t=11385
+yu bei fen 	與備份	c=1 d=1 t=2219
+yu ce 	預測	c=2 d=1.45158 t=7296
+yu chuan 	漁船	c=1 d=1 t=3711
+yu dao 	遇到	c=4 d=1 t=15581
+yu ding 	預訂	c=2 d=1.98511 t=3542
+yu fa 	語法	c=16 d=1 t=15755
+yu ju 	語句	c=6 d=1.99501 t=10328
+yu lai 	愈來	c=1 d=1 t=10402
+yu lan 	預覽	c=4 d=1 t=15566
+yu long hua 	俞隆华	c=1 d=1 t=14770
+yu mao qiu 	羽毛球	c=3 d=2.97516 t=3225
+yu qi 	預期	c=2 d=1 t=12663
+yu san 	雨傘	c=0 d=0.1 t=3044
+yu shi 	遇事	c=1 d=1 t=1346
+yu wang 	慾望	c=1 d=1 t=7636
+yu yan 	語言	c=3 d=1.8626 t=9356
+yu yan de 	語言的	c=1 d=1 t=10976
+yu yin 	語音	c=4 d=1 t=14969
+yu yuan 	餘元	c=1 d=1 t=9239
+yu yue 	預約	c=3 d=1 t=14140
+yu zhou 	宇宙	c=0 d=0.1 t=5155
+yu zhou zhong xin 	宇宙中心	c=1 d=1 t=5156
+yuan 	元	c=0 d=0.1 t=11508
+yuan 	員	c=2 d=1 t=9833
+yuan ce hua gong neng 	元策劃功能	c=1 d=1 t=11509
+yuan cheng 	遠程	c=12 d=1 t=15735
+yuan dong li 	源動力	c=1 d=1 t=14467
+yuan gao 	原告	c=1 d=1 t=1693
+yuan ji hua 	原計劃	c=2 d=1 t=13898
+yuan jian 	遠見	c=1 d=1 t=7045
+yuan jing 	遠景	c=1 d=1 t=2098
+yuan jing 	願景	c=31 d=1.40722 t=15043
+yuan lai 	原來	c=2 d=1.00026 t=4244
+yuan lai ru ci 	原來如此	c=1 d=1 t=5332
+yuan ma 	源碼	c=7 d=1.84462 t=10977
+yuan meng 	圓夢	c=3 d=1.11408 t=4788
+yuan sheng 	原生	c=2 d=1.00174 t=6574
+yuan wang 	願望	c=3 d=1.00245 t=5391
+yuan wen 	原文	c=1 d=1 t=7468
+yuan yi 	願意	c=1 d=1 t=2883
+yuan yin 	原因	c=3 d=1 t=8868
+yuan ze 	原則	c=27 d=1.32936 t=15038
+yuan ze eh 	原則誒	c=1 d=1 t=14588
+yuan zi 	院子	c=1 d=1 t=8325
+yuan zi fu hao 	⚛️	c=1 d=1 t=10675
+yuan zi fu hao 	原子符號	c=1 d=1 t=10676
+yue 	月	c=8 d=1.78664 t=14090
+yue bing 	月餅	c=3 d=2.63447 t=4842
+yue de 	樂的	c=3 d=1.04203 t=14041
+yue du 	閱讀	c=28 d=2.98534 t=14847
+yue du qi 	閱讀器	c=2 d=1 t=6329
+yue lai yue 	越來越	c=1 d=1 t=4925
+yue lai yue hao 	越來越好	c=1 d=1 t=2965
+yue lai yue luan 	越來越亂	c=1 d=1 t=12806
+yue li 	閱歷	c=2 d=1.40948 t=8474
+yue qiu 	月球	c=1 d=1 t=6727
+yun 	雲	c=1 d=1 t=2307
+yun dong 	運動	c=6 d=1.66698 t=15308
+yun shi 	運勢	c=2 d=1.0011 t=8505
+yun wei 	運維	c=1 d=1 t=12882
+yun xing 	運行	c=20 d=2.92656 t=14002
+yun xing hao 	運行好	c=1 d=1 t=12252
+yun ying 	運營	c=5 d=1.03519 t=13735
+yun yong 	運用	c=1 d=1 t=14746
+za 	咋	c=2 d=1 t=13998
+za yong 	咋用	c=1 d=1 t=1532
+zai 	再	c=15 d=1.00002 t=15637
+zai 	在	c=263 d=2.71413 t=15672
+zai bei jing 	在北京	c=3 d=1.01216 t=4333
+zai ben di 	在本地	c=1 d=1 t=15380
+zai bu 	再不	c=0 d=0.1 t=3423
+zai bu feng kuang 	再不瘋狂	c=1 d=1 t=3424
+zai chu xian 	再出現	c=1 d=1 t=15277
+zai chu yi fen 	再出一份	c=1 d=1 t=3591
+zai fa 	再發	c=1 d=1 t=1810
+zai ge di 	在各地	c=1 d=1 t=2812
+zai gu yi 	在故意	c=1 d=1 t=15197
+zai hu 	在乎	c=1 d=1 t=5067
+zai jian 	再見	c=1 d=1 t=9560
+zai na 	在哪	c=1 d=1 t=10031
+zai pei 	栽培	c=2 d=1.98511 t=1758
+zai qing dao 	在青島	c=1 d=1 t=656
+zai ru 	載入	c=2 d=1.60705 t=563
+zai san 	再三	c=1 d=1 t=5069
+zai she qu 	在社區	c=1 d=1 t=14824
+zai shi yi ci 	再試一次	c=1 d=1 t=1820
+zai tian shang 	在天上	c=1 d=1 t=4017
+zai wang shang 	在網上	c=1 d=1 t=1233
+zai xian 	在線	c=6 d=1.02066 t=13078
+zai xiang mu 	在項目	c=1 d=1 t=10190
+zai yi 	在意	c=1 d=1 t=5882
+zai yong 	再用	c=1 d=1 t=15462
+zai zhe ge 	在這個	c=1 d=1 t=8425
+zai zhe li 	在這裏	c=1 d=1 t=10242
+zai zhe zhong 	在這種	c=1 d=1 t=11995
+zai zuo jue ding 	再做決定	c=1 d=1 t=5478
+zan 	咱	c=2 d=1.26054 t=10163
+zan ba 	咱爸	c=3 d=2.97032 t=1805
+zan cheng 	贊成	c=2 d=1.94176 t=6107
+zan cu 	咱粗	c=2 d=1.99501 t=10892
+zan cun 	暫存	c=28 d=3.45472 t=10896
+zan cun nei 	暫存內	c=1 d=1 t=10170
+zan ma 	咱媽	c=2 d=1.97531 t=1813
+zan ma shuo 	咱媽說	c=1 d=0.565525 t=563
+zan men 	咱們	c=6 d=1 t=7728
+zan shi 	暫時	c=9 d=3.65759 t=10959
+zan wu 	暫無	c=1 d=1 t=10094
+zan zhu zheng 	暫住證	c=1 d=1 t=12730
+zao 	早	c=5 d=1.00009 t=15196
+zao 	澡	c=2 d=1.22878 t=14128
+zao bu tong 	早不同	c=1 d=1 t=13801
+zao chen 	早晨	c=3 d=1.97531 t=7275
+zao cheng 	造成	c=1 d=1 t=4000
+zao dian 	早點	c=3 d=1.00102 t=4263
+zao dian xiu xi 	早點休息	c=3 d=1.78018 t=2966
+zao shang 	早上	c=13 d=1.00544 t=14870
+zao shi 	造勢	c=1 d=1 t=4965
+zao wan 	早晚	c=2 d=1 t=4474
+zao yang 	遭殃	c=1 d=1 t=8138
+ze me 	則麼	c=1 d=1 t=15069
+ze ne me 	則呢麼	c=2 d=1.42528 t=15339
+ze ren 	責任	c=2 d=1.92312 t=5945
+zen me 	怎麼	c=28 d=2.62811 t=15363
+zen me jie jie 	怎麼姐姐	c=1 d=1 t=14989
+zen me yang 	怎麼樣	c=5 d=1 t=14927
+zen nai 	怎奈	c=2 d=1.9802 t=1760
+zen yang 	怎樣	c=1 d=1 t=11323
+zeng jia 	增加	c=1 d=1 t=693
+zeng shang 	增上	c=1 d=1 t=4465
+zhai 	摘	c=1 d=1 t=8378
+zhai cha ye 	摘茶葉	c=2 d=1.956 t=2745
+zhai le 	摘了	c=1 d=1 t=8339
+zhan 	戰	c=1 d=1 t=1751
+zhan 	站	c=6 d=1.00395 t=14755
+zhan dou 	戰鬥	c=2 d=1.97045 t=15094
+zhan dou li 	戰鬥力	c=1 d=1 t=13818
+zhan ji 	戰機	c=1 d=1 t=3745
+zhan ji 	戰績	c=1 d=1 t=14778
+zhan ji 	戰記	c=2 d=1 t=14777
+zhan ju 	佔據	c=1 d=1 t=14765
+zhan kai 	展開	c=1 d=1 t=14916
+zhan lue 	戰略	c=1 d=1 t=5924
+zhan qiao 	棧橋	c=1 d=1 t=3569
+zhan shi 	展示	c=3 d=1.96561 t=8926
+zhan shi 	戰時	c=1 d=1 t=1742
+zhan wu 	站務	c=2 d=1.00043 t=10369
+zhan zai 	站在	c=1 d=1 t=7507
+zhan zhe 	站着	c=1 d=1 t=3968
+zhang 	長	c=1 d=1 t=14981
+zhang chao 	漲潮	c=2 d=1.86071 t=3815
+zhang da 	長大	c=1 d=1 t=7663
+zhang hao 	帳號	c=5 d=1.16509 t=11534
+zhang hu hao 	賬戶號	c=1 d=1 t=2236
+zhang jie 	章節	c=3 d=1 t=10666
+zhang kong 	掌控	c=2 d=1.00063 t=13258
+zhang peng 	帳篷	c=1 d=1 t=4011
+zhang wo 	掌握	c=7 d=1.00127 t=13301
+zhang zi chi 	張子栻	c=3 d=1.00507 t=10990
+zhang zi shi 	張子石	c=3 d=1 t=14790
+zhao 	找	c=12 d=1.01527 t=15218
+zhao bu dao 	找不到	c=1 d=1 t=15064
+zhao bu dao 	招不到	c=2 d=1.99005 t=15063
+zhao bu dao ren 	招不到人	c=1 d=1 t=1315
+zhao chu 	找出	c=1 d=1 t=5994
+zhao dao 	找到	c=13 d=0.10002 t=15755
+zhao dao 	招到	c=2 d=1.96079 t=1383
+zhao dao ren 	招到人	c=1 d=1 t=1352
+zhao ge 	找個	c=1 d=1 t=2482
+zhao gong 	招工	c=4 d=2.71616 t=1356
+zhao gu 	照顧	c=1 d=1 t=8113
+zhao pian 	照片	c=1 d=1 t=3986
+zhao pin 	招聘	c=14 d=5.41125 t=1553
+zhao ren 	招人	c=1 d=1 t=1434
+zhao xia 	找下	c=1 d=1 t=2226
+zhao zhao 	找找	c=3 d=1.76997 t=1419
+zhe 	着	c=2 d=1.0226 t=14924
+zhe 	者	c=1 d=1 t=11021
+zhe 	這	c=22 d=1.00754 t=15676
+zhe bi 	這比	c=1 d=1 t=1378
+zhe bian 	這邊	c=5 d=2.0674 t=8392
+zhe bu jiu shi 	這不就是	c=1 d=1 t=2190
+zhe ci 	這次	c=7 d=1.90032 t=15456
+zhe dou 	這都	c=1 d=1 t=14645
+zhe fu jin 	這附近	c=1 d=1 t=4137
+zhe gai zen me 	這該怎麼	c=1 d=1 t=14962
+zhe ge 	這個	c=72 d=1.96564 t=15768
+zhe ge dian 	這個點	c=1 d=1 t=4864
+zhe ji 	這幾	c=0 d=0.1 t=7093
+zhe ji nian 	這幾年	c=2 d=1.38868 t=2537
+zhe ji tian 	這幾天	c=2 d=1.72615 t=7233
+zhe ji zhou 	這幾周	c=1 d=1 t=7094
+zhe jiu 	折舊	c=1 d=1 t=14109
+zhe jiu shi 	這就是	c=3 d=1 t=13353
+zhe kuai 	這塊	c=3 d=1 t=14374
+zhe kuan 	這款	c=0 d=0.1 t=1500
+zhe li 	這裏	c=4 d=1.98513 t=15683
+zhe liang tian 	這兩天	c=1 d=1 t=612
+zhe me 	這麼	c=10 d=1.00003 t=14052
+zhe me hao 	這麼好	c=2 d=1.43605 t=2793
+zhe me qing xi 	這麼清晰	c=1 d=1 t=10602
+zhe ne 	着呢	c=0 d=0.1 t=686
+zhe ne ge li 	着呢隔離	c=1 d=1 t=687
+zhe ne guang ming yi xia 	這呢光明一下	c=1 d=1 t=14932
+zhe shang mian 	這上面	c=1 d=1 t=4221
+zhe shi 	這是	c=11 d=1.09966 t=14925
+zhe tang ke 	這堂課	c=1 d=1 t=15407
+zhe tiao xian 	這條線	c=1 d=1 t=4479
+zhe xie 	這些	c=4 d=1.04713 t=14659
+zhe xu yao 	這需要	c=3 d=1 t=4378
+zhe yang 	這樣	c=13 d=1.0028 t=15770
+zhe yi bu 	這一步	c=3 d=0.100587 t=15109
+zhe yi fang mian 	這一方面	c=1 d=1 t=2503
+zhe yi quan 	這一圈	c=1 d=1 t=4212
+zhe you 	這又	c=1 d=1 t=14415
+zhe zhe kuan 	這這款	c=1 d=1 t=1501
+zhe zhe li 	這這裏	c=1 d=1 t=13979
+zhe zhong 	這種	c=6 d=1.09167 t=9700
+zhe zhou 	這週	c=1 d=1 t=12791
+zhe zu gong cheng 	這組工程	c=1 d=1 t=10290
+zhen 	真	c=2 d=1 t=7616
+zhen de 	真的	c=1 d=1 t=15097
+zhen dui 	針對	c=2 d=1 t=11884
+zhen gui 	珍貴	c=1 d=1 t=2683
+zhen han 	震撼	c=2 d=1.06721 t=3873
+zhen li 	真理	c=2 d=1 t=13727
+zhen shi 	真實	c=1 d=1 t=1110
+zhen shi 	真是	c=5 d=1 t=13610
+zhen xi 	珍惜	c=1 d=1 t=9708
+zhen you 	真有	c=0 d=0.1 t=3867
+zhen you zhong 	真有中	c=1 d=1 t=3868
+zhen zheng 	真正	c=3 d=1.02116 t=14207
+zheng 	整	c=1 d=1 t=1744
+zheng 	正	c=4 d=2.01417 t=8445
+zheng 	鄭	c=0 d=0.1 t=5124
+zheng ce 	政策	c=1 d=1 t=3205
+zheng chang 	正常	c=14 d=1 t=14875
+zheng cheng 	征程	c=1 d=1 t=1124
+zheng fu 	征服	c=1 d=1 t=13144
+zheng fu 	政府	c=1 d=1 t=13142
+zheng hao 	正好	c=1 d=1 t=4429
+zheng he 	整合	c=5 d=1 t=13773
+zheng jiu 	拯救	c=3 d=1.97045 t=13106
+zheng li 	整理	c=29 d=1.2143 t=15551
+zheng li cheng 	整理成	c=1 d=1 t=14259
+zheng ming 	證明	c=2 d=1.11648 t=14936
+zheng nian 	正念	c=2 d=1.00014 t=8770
+zheng qian 	掙錢	c=1 d=1 t=12966
+zheng qiu 	徵求	c=1 d=1 t=13104
+zheng qu 	爭取	c=1 d=1 t=14768
+zheng shu 	證書	c=3 d=1.94966 t=11043
+zheng tian 	整天	c=1 d=1 t=1390
+zheng tuo 	掙脫	c=1 d=1 t=11700
+zheng wen 	正文	c=1 d=1 t=8711
+zheng zai 	正在	c=4 d=1.01592 t=11698
+zheng zai zuo 	正在做	c=1 d=1 t=5267
+zheng ze 	正則	c=2 d=1.00003 t=10902
+zheng zheng 	丁丁	c=1 d=1 t=14934
+zheng zhou 	鄭州	c=8 d=3.82156 t=5152
+zhi 	之	c=0 d=0.1 t=11144
+zhi 	值	c=14 d=1.00022 t=14797
+zhi 	只	c=0 d=0.1 t=13581
+zhi 	指	c=0 d=0.1 t=6579
+zhi bo 	直播	c=3 d=1.01984 t=13060
+zhi bu qi 	直不起	c=1 d=1 t=7959
+zhi chi 	支持	c=32 d=1.98511 t=15737
+zhi dao 	知道	c=13 d=1.07082 t=15015
+zhi de 	值得	c=3 d=1 t=14441
+zhi dian 	指點	c=1 d=1 t=3175
+zhi ding 	制定	c=5 d=1.98511 t=9938
+zhi ding 	指定	c=7 d=3.74077 t=10147
+zhi ding chu 	制定出	c=1 d=1 t=15545
+zhi fu 	支付	c=1 d=1 t=13170
+zhi he hu 	只呵護	c=1 d=1 t=13582
+zhi hou 	之後	c=29 d=1.00365 t=15524
+zhi hu 	知乎	c=6 d=1.59169 t=13646
+zhi jian 	之間	c=3 d=1.79453 t=10554
+zhi jie 	直接	c=14 d=1.07533 t=14355
+zhi jin 	至今	c=1 d=1 t=3924
+zhi kan guo 	只看過	c=1 d=1 t=3339
+zhi lei 	之類	c=1 d=1 t=7432
+zhi liang 	質量	c=3 d=1 t=12466
+zhi liao 	治療	c=1 d=1 t=2625
+zhi ling 	指令	c=5 d=3.00278 t=6191
+zhi lun 	之輪	c=1 d=1 t=686
+zhi lun 	至論	c=0 d=0.1 t=684
+zhi mian 	直面	c=1 d=1 t=11736
+zhi neng 	只能	c=12 d=2.41828 t=11034
+zhi neng ne ge 	只能呢個	c=1 d=1 t=10243
+zhi neng shi 	只能是	c=1 d=1 t=13962
+zhi nian 	執念	c=1 d=1 t=11862
+zhi qian 	之前	c=31 d=2.04105 t=15371
+zhi qiang 	志強	c=1 d=1 t=14064
+zhi shang 	智商	c=1 d=1 t=6699
+zhi shang 	至上	c=1 d=1 t=6695
+zhi sheng xia 	只剩下	c=1 d=1 t=14438
+zhi shi 	知識	c=51 d=2.31311 t=15512
+zhi shi dian 	知識點	c=1 d=1 t=14260
+zhi shi ti xi 	知識體系	c=5 d=3.46569 t=14742
+zhi shi xing 	知識型	c=0 d=0.1 t=12116
+zhi shi xing qiu 	知識型球	c=1 d=1 t=12117
+zhi shi xun huan 	知識循環	c=2 d=1.18919 t=15057
+zhi shi yong 	只使用	c=2 d=1.01916 t=10840
+zhi tong 	只通	c=0 d=0.1 t=14157
+zhi tong dao he 	志同道合	c=1 d=1 t=14174
+zhi tong he 	只通和	c=1 d=1 t=14158
+zhi wai 	之外	c=0 d=0.1 t=15498
+zhi wei 	職位	c=6 d=4.24649 t=1534
+zhi xi 	窒息	c=1 d=1 t=4007
+zhi xing 	之行	c=1 d=1 t=5009
+zhi xing 	執行	c=44 d=1.00844 t=15549
+zhi xing guo 	執行過	c=1 d=1 t=10157
+zhi xu yao 	只需要	c=2 d=1 t=11601
+zhi yao 	只要	c=2 d=1 t=13663
+zhi ye 	職業	c=10 d=6.98067 t=15592
+zhi you 	只有	c=5 d=1.00033 t=14427
+zhi yu 	治癒	c=4 d=1 t=7039
+zhi yuan 	職員	c=1 d=1 t=12707
+zhi zhao 	執照	c=6 d=1.03443 t=13732
+zhi zhen dui 	只針對	c=1 d=1 t=11607
+zhi zhi zuo 	之製作	c=1 d=1 t=11145
+zhi zhuo 	執着	c=1 d=1 t=11863
+zhi zu 	知足	c=0 d=0.1 t=2553
+zhi zuo 	製作	c=14 d=1.00035 t=13342
+zhong 	中	c=100 d=2.31524 t=15060
+zhong 	鐘	c=1 d=0.147596 t=6839
+zhong dian 	重點	c=1 d=1 t=13453
+zhong duan 	終端	c=24 d=1.31008 t=11567
+zhong duan ming ling 	終端命令	c=1 d=1 t=9245
+zhong guo 	中國	c=16 d=4.15029 t=680
+zhong jian 	中間	c=2 d=0.402786 t=563
+zhong qing 	中青	c=1 d=1 t=3511
+zhong qiu 	中秋	c=5 d=2.74922 t=5003
+zhong qiu jie 	中秋節	c=1 d=1 t=4936
+zhong wen 	中文	c=9 d=1.95123 t=11591
+zhong xin 	中心	c=4 d=1.00393 t=8686
+zhong xin 	重心	c=1 d=1 t=13335
+zhong yao 	重要	c=5 d=1 t=14994
+zhong yao xing 	重要性	c=1 d=1 t=13292
+zhong yi 	中意	c=1 d=1 t=4806
+zhong ying 	中英	c=1 d=1 t=1868
+zhong ying wen 	中英文	c=1 d=1 t=1879
+zhong yu 	終於	c=2 d=1.0053 t=14094
+zhong zhi 	終止	c=1 d=1 t=10834
+zhong zhi cheng cheng 	众志成城	c=1 d=0.29671 t=563
+zhong zhong 	種種	c=1 d=1 t=13842
+zhong zi 	種子	c=1 d=1 t=12465
+zhong zi dao 	種子島	c=3 d=1 t=12524
+zhong zi de 	重子的	c=1 d=1 t=14183
+zhong zi lei 	種子類	c=1 d=1 t=7431
+zhong zi xing 	中子星	c=2 d=1.46533 t=8885
+zhong zi zhuo 	種子着	c=1 d=1 t=9088
+zhong zi zuo 	種子做	c=2 d=1.9802 t=9292
+zhou 	周	c=5 d=1 t=11982
+zhou bao 	週報	c=1 d=1 t=10382
+zhou bian 	周邊	c=6 d=1.45662 t=4336
+zhou jue se 	周角色	c=1 d=1 t=6025
+zhou liu 	週六	c=6 d=4.05816 t=4194
+zhou mo 	週末	c=5 d=1.99501 t=7001
+zhou ren wu 	周任務	c=1 d=1 t=6037
+zhou ri 	週日	c=7 d=1.03442 t=5358
+zhou si 	週四	c=1 d=1 t=3642
+zhou wu 	週五	c=8 d=4.62166 t=4201
+zhou xi guan 	周習慣	c=2 d=1.7827 t=5454
+zhu 	主	c=1 d=1 t=4167
+zhu 	住	c=1 d=1 t=11785
+zhu 	助	c=1 d=1 t=4569
+zhu ce 	註冊	c=3 d=2.34175 t=1449
+zhu de 	住的	c=2 d=1 t=12150
+zhu ding 	註定	c=1 d=1 t=7917
+zhu dong 	主動	c=3 d=1 t=15631
+zhu fu 	祝福	c=1 d=0.308819 t=563
+zhu gong cheng 	朱公鏳	c=1 d=1 t=10291
+zhu ji 	主機	c=1 d=1 t=11562
+zhu ming 	著名	c=1 d=1 t=4134
+zhu ni 	助你	c=1 d=1 t=4787
+zhu shi 	註釋	c=8 d=3.66774 t=6412
+zhu ti 	主題	c=5 d=1 t=14730
+zhu xian 	主線	c=1 d=1 t=8607
+zhu yao 	主要	c=9 d=1.06116 t=14308
+zhu yao shi 	主要是	c=1 d=1 t=794
+zhu yi 	注意	c=1 d=1 t=9446
+zhu zhong 	注重	c=2 d=1 t=11718
+zhu zi hou 	朱子厚	c=1 d=1 t=15523
+zhu zu yao 	朱祖堯	c=1 d=1 t=13536
+zhua 	抓	c=3 d=1 t=13102
+zhua zhu 	抓住	c=1 d=1 t=6473
+zhuan 	磚	c=1 d=1 t=13440
+zhuan 	轉	c=8 d=1.54019 t=12506
+zhuan bu dao 	賺不到	c=1 d=1 t=15498
+zhuan duan 	專斷	c=1 d=1 t=6835
+zhuan hang 	轉行	c=3 d=1.79169 t=12571
+zhuan huan 	轉換	c=2 d=1.8311 t=8972
+zhuan li 	專利	c=1 d=1 t=12175
+zhuan men 	專門	c=2 d=1.8311 t=2863
+zhuan wei 	轉爲	c=1 d=1 t=1882
+zhuan xian 	專線	c=1 d=1 t=4366
+zhuan xiang 	轉向	c=2 d=1 t=10769
+zhuan xie 	撰寫	c=1 d=1 t=12555
+zhuan yi 	轉義	c=0 d=0.0440432 t=563
+zhuan yi wei 	轉義爲	c=1 d=0.442639 t=563
+zhuan zhu 	專注	c=8 d=1.02019 t=15234
+zhuan zhu li 	專注力	c=1 d=1 t=13083
+zhuan zhu mo shi 	專注模式	c=1 d=1 t=14915
+zhuan zhu zu 	專注組	c=1 d=0.1 t=12371
+zhuan zhuan 	轉轉	c=1 d=1 t=4150
+zhuang 	裝	c=0 d=0.1 t=13437
+zhuang tai 	狀態	c=9 d=1.01527 t=11959
+zhuang tai 	裝臺	c=3 d=1.01734 t=6770
+zhuang ye 	裝也	c=1 d=1 t=13363
+zhuang zai 	裝載	c=1 d=1 t=13408
+zhui jia 	追加	c=1 d=1 t=5681
+zhui qiu 	追求	c=3 d=1.9802 t=11749
+zhun bei 	準備	c=13 d=1.04222 t=15205
+zhun bu zhun 	準不準	c=1 d=1 t=7924
+zhuo 	着	c=0 d=0.1 t=9087
+zhuo mian 	桌面	c=1 d=1 t=1595
+zhuo shi 	着實	c=2 d=1 t=5293
+zi 	子	c=3 d=1.00764 t=14767
+zi 	字	c=0 d=0.1 t=11200
+zi 	自	c=4 d=1 t=12556
+zi bao zi qi 	自暴自棄	c=1 d=1 t=6774
+zi ce 	自測	c=1 d=1 t=9567
+zi ci 	字詞	c=1 d=0.0642483 t=563
+zi cong 	自從	c=1 d=1 t=2698
+zi dai 	自帶	c=2 d=1 t=10000
+zi dian 	字典	c=8 d=1.98511 t=10722
+zi ding 	自定	c=2 d=1.25284 t=11358
+zi ding yi 	自定義	c=5 d=2.3379 t=11369
+zi dong 	自動	c=7 d=3.56851 t=11592
+zi dong hua 	自動化	c=1 d=1 t=9485
+zi duan 	字段	c=4 d=1.99006 t=11089
+zi fu 	字符	c=1 d=0.396531 t=563
+zi fu chuan 	字符串	c=2 d=1.00003 t=11077
+zi ji 	自己	c=80 d=2.72743 t=15547
+zi ji de 	自己的	c=4 d=1.00026 t=14266
+zi ji wan 	自己玩	c=1 d=1 t=3240
+zi jia 	自駕	c=4 d=3.52851 t=4334
+zi jia you 	自駕遊	c=2 d=1.93239 t=3436
+zi lv 	自律	c=2 d=1 t=15265
+zi mei ti 	自媒體	c=3 d=1 t=12257
+zi mu 	字幕	c=1 d=1 t=965
+zi nue 	自虐	c=1 d=1 t=4311
+zi qi dong 	自啓動	c=1 d=1 t=15783
+zi ren wu 	子任務	c=2 d=1.96561 t=6388
+zi shen 	自身	c=1 d=1 t=9565
+zi wo 	自我	c=6 d=1.48337 t=13103
+zi xi 	自習	c=2 d=1.98511 t=13905
+zi xi shi 	自習室	c=1 d=1 t=15742
+zi xin 	自信	c=1 d=1 t=14412
+zi xing che 	自行車	c=2 d=1.00046 t=4081
+zi xun 	諮詢	c=4 d=1 t=15638
+zi you 	自由	c=3 d=1 t=15262
+zi yuan 	資源	c=3 d=1 t=10072
+zi yuan ku 	資源庫	c=1 d=1 t=7905
+zi zai 	自在	c=2 d=1 t=9998
+zi zhu xing 	自主性	c=1 d=1 t=3068
+zong 	總	c=2 d=1 t=7719
+zong he 	綜合	c=1 d=1 t=12877
+zong jie 	總結	c=13 d=1.15842 t=15148
+zong lan 	總覽	c=1 d=1 t=9789
+zou 	走	c=5 d=1 t=11245
+zou bu chu 	走不出	c=1 d=1 t=12802
+zou guo 	走過	c=1 d=1 t=3885
+zou hao 	走好	c=1 d=1 t=14815
+zou tong 	走通	c=1 d=0.145148 t=563
+zou yuan 	走遠	c=1 d=1 t=8558
+zou zuo you 	走左右	c=1 d=1 t=3778
+zu 	組	c=1 d=1 t=14555
+zu che 	租車	c=2 d=1.00261 t=3452
+zu fang 	租房	c=2 d=1 t=13050
+zu fu 	祖父	c=1 d=0.307279 t=563
+zu gou 	足夠	c=6 d=1.26562 t=14401
+zu guo 	祖國	c=1 d=0.310367 t=563
+zu he jian 	組合鍵	c=2 d=0.191716 t=563
+zu lin 	租賃	c=2 d=1.01674 t=4281
+zu yi 	足以	c=1 d=1 t=14475
+zu zhi 	阻止	c=1 d=1 t=10712
+zuan gan 	鑽桿	c=0 d=0.1 t=9589
+zui 	最	c=4 d=1.00145 t=15661
+zui chu 	最初	c=1 d=1 t=11976
+zui da 	最大	c=3 d=1 t=13613
+zui gao xiao de 	最搞笑的	c=1 d=1 t=14516
+zui guan 	最關	c=1 d=1 t=11797
+zui guan jian 	最關鍵	c=1 d=1 t=11799
+zui hao 	最好	c=3 d=1 t=9971
+zui hou 	最後	c=4 d=1.26669 t=11832
+zui jin 	最近	c=7 d=0.1 t=14631
+zui jin yi tian 	最近一天	c=1 d=1 t=14632
+zui mei 	最美	c=1 d=1 t=650
+zui wan 	最晚	c=1 d=1 t=3556
+zui xin 	最新	c=2 d=1 t=9321
+zui xin ban 	最新版	c=1 d=1 t=987
+zui xin huan 	最新換	c=1 d=1 t=6688
+zui zhong 	最終	c=1 d=1 t=14522
+zui zhong yao 	最重要	c=4 d=1 t=9625
+zun zhong 	尊重	c=1 d=1 t=8089
+zuo 	作	c=4 d=1.00023 t=14867
+zuo 	做	c=36 d=1.0846 t=15528
+zuo bi ji 	作筆記	c=2 d=1.98511 t=4551
+zuo biao 	坐标	c=1 d=1 t=12762
+zuo cheng 	做成	c=4 d=1.60704 t=14663
+zuo chu 	做出	c=1 d=1 t=13628
+zuo da 	做大	c=2 d=1.57407 t=1438
+zuo da 	做答	c=1 d=1 t=7214
+zuo dao 	做到	c=10 d=2.38198 t=14889
+zuo fei ji 	坐飛機	c=1 d=1 t=4091
+zuo guan li 	做管理	c=1 d=1 t=12485
+zuo hao 	做好	c=8 d=1.00027 t=15201
+zuo hua 	作畫	c=2 d=1.956 t=4536
+zuo ke cheng 	做課程	c=1 d=1 t=13597
+zuo le 	做了	c=1 d=1 t=3408
+zuo nei rong 	做內容	c=1 d=1 t=13601
+zuo pin 	作品	c=1 d=1 t=15598
+zuo qi 	做起	c=1 d=1 t=11817
+zuo qi lai 	做起來	c=1 d=1 t=13682
+zuo shen 	作甚	c=1 d=1 t=7112
+zuo shen me 	做什麼	c=5 d=1.26448 t=14956
+zuo shi 	作詩	c=1 d=1 t=4960
+zuo shi 	做事	c=1 d=1 t=4954
+zuo ti 	做題	c=2 d=1.99808 t=7241
+zuo ti jia 	做題家	c=1 d=1 t=7228
+zuo tian 	昨天	c=4 d=1.00013 t=9851
+zuo tian bao bei 	昨天報備	c=1 d=1 t=4509
+zuo wei 	作爲	c=7 d=1.00001 t=12307
+zuo xiang mu 	做項目	c=1 d=1 t=9497
+zuo xuan chuan 	做宣傳	c=1 d=1 t=4461
+zuo ye 	作業	c=1 d=1 t=5342
+zuo yi ci 	做一次	c=3 d=0.338435 t=14066
+zuo yi ge 	做一個	c=1 d=1 t=14834
+zuo yi tian 	坐一天	c=1 d=1 t=3616
+zuo yong 	作用	c=8 d=1 t=15643
+zuo yong li 	作用力	c=1 d=1 t=13068
+zuo yong yu 	作用域	c=1 d=1 t=10137
+zuo you 	佐佑	c=1 d=1 t=12283
+zuo you 	左右	c=2 d=1 t=7282
+zuo zai 	坐在	c=1 d=1 t=13936
+zuo zhe 	作者	c=4 d=2.86336 t=14498
+zuo zhe 	坐着	c=3 d=1.40861 t=14343
