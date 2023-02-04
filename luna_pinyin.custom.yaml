@@ -118,9 +118,7 @@ patch:
 
   # 分尖團後 v => ü 的改寫條件也要相應地擴充：
   'translator/preedit_format':
-   - "xform/([nljqxyzcs])v/$1ü/"
-这是怎样的用体验。
-哲士怎样蟻塚体验，
+    - "xform/([nljqxyzcs])v/$1ü/"
   switches:
     - name: ascii_mode
       reset: 0
@@ -141,7 +139,7 @@ patch:
     # - lua_translator@week_translator
     - punct_translator
     - script_translator
-    - table_translator@custom_phrase
+    - table_translator@custom_phrase #启动自定义词库
   engine/filters:
     - simplifier@emoji_suggestion
     #- simplifier@zh_simp
@@ -202,7 +200,6 @@ patch:
     enable_completion: false
     enable_sentence: false
     initial_quality: 1
-  "engine/translators/@5": table_translator@custom_phrase
 
 # Rx: BlindingDark/rime-easy-en:customize:schema=double_pinyin_flypy
   __include: easy_en:/patch
