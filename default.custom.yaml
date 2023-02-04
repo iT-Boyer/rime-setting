@@ -1,10 +1,8 @@
+# Rime schema
+# encoding: utf-8
 patch:
-  schema_list: 这样可以了，柄部事跡暗啞，這真是罪恶的一天，
+  schema_list:
     - schema: luna_pinyin_simp # 简体
-    - schema: luna_pinyin # 全拼
-    - schema: easy_en # 英文
-    - schema: double_pinyin # 自然码
-    - schema: double_pinyin_flypy # 小鹤双拼
   switcher/hotkeys:
     - "Control+grave" # 注意是control+`，不是command+`
   switcher/save_options:
