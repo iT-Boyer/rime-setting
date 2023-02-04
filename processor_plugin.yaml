@@ -1,1 +1,50 @@
-/Users/boyer/hsg/hugo/dotfiles/mix/squirrel/processor_plugin.yaml
+#--------------------------------
+# custom.yaml
+# patch: 
+#   __include: processor_plugin:/patch
+#
+# 可自行 remark 不要用的模組
+# select_character 以詞定字
+# command   命令模式
+# english   英打
+# conjunctive 聯想模式
+# multi_reverse 主副字典反查模組
+#--------------------------------
+patch:
+
+####---------声明module------------------------------
+  module3/modules:
+    #  以詞定字  name_space: 可指定其他有 dictionary 反查 單字字根 (ex: cangjin5/dictionary)
+    # - { module: 'component/select_character', module_name: "select_character", name_space: "translator" }
+    - { module: 'command', module_name: "cammand_proc", name_space: "command" }
+    - { module: 'english', module_name: "english_proc", name_space: "english" }
+    - { module: "conjunctive", module_name: "conjunctive_proc", name_space: "conjunctive" }
+    - { module: 'multi_reverse', module_name: "multi_reverse__proc", name_space: "multi_reverse" }
+
+####--------------加载------------------------------
+  # 使用单行模式加载，如果使用yaml格式，无法加载多个module
+  # 测试结果：
+  # 1. 使用yaml格式：在luna_pinyin.custom.yaml 下可以添加多个
+  # 2. 在plugs下，只能带@before 1 2 3 等，添加多个
+#----translators------------
+  engine/translators/@before 0: lua_translator@date_translator
+  engine/translators/@before 1: lua_translator@time_translator
+  engine/translators/@before 2: lua_translator@week_translator
+  engine/translators/@before 3: lua_translator@number_translator
+
+#----filters --------------------
+  #-- single_char_filter: 候选项重排序，使单字优先
+  # engine/filters/@before 0: lua_filter@single_char_filter
+  # engine/filters/@before 1: lua_filter@reverse_lookup_filter
+  # engine/filters/@before 2: lua_filter@expand_translator
+
+
+#----processors ----
+  #--- 独立脚本 加载
+  engine/processors/@before 0: lua_processor@select_character_processor
+  engine/processors/@before 1: lua_processor@switch_processor
+  #--- module 加载 这种模式会导致终端term出现浮动bug信息
+  #engine/processors/@after 0: lua_processor@init_processor@module1
+  #engine/processors/@after 1: lua_processor@init_processor@module2
+  # engine/processors/@after 0: lua_processor@multi_reverse_proc@multi_reverse
+
