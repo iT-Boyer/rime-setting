@@ -39,7 +39,7 @@ Google Analytics	ga
 macOS	macos
 Linux	linux
 CSS	css
-HTML html
+HTML	html
 iOS	ios
 iPad	ipad
 iPhone	iphone
