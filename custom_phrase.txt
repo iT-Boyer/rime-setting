@@ -14,6 +14,12 @@
 #
 # no comment
 
+影响圈	yxq
+关注圈	gzq
+使命宣言	smxy
+原则	yz
+思维定式	swds
+转换思维	zhsw
 中州韻輸入法引擎	rime	2
 又双叒叕	yyy
 http://rime.im/	rime	1
