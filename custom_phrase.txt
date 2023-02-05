@@ -13,7 +13,8 @@
 # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
 #
 # no comment
-
+# 插入tab制表符:https://www.cnblogs.com/gamesun/archive/2012/12/23/2830184.html
+# C-q tab
 影响圈	yxq
 关注圈	gzq
 使命宣言	smxy
