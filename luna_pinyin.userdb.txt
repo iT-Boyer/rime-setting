@@ -40,8 +40,8 @@ ao 	奧	c=0 d=1.50288e-29 t=15799
 ba 	吧	c=50 d=0.105277 t=15799
 ba 	把	c=36 d=0.360764 t=15799
 ba ba 	爸爸	c=1 d=9.9569e-09 t=15799
-ba bai ban 	八佰伴	c=0 d=0.1 t=16
-ba bai ban zhi bao bu zhu 	八佰伴紙包不住	c=1 d=1 t=17
+ba bai ban 	八佰伴	c=0 d=5.34135e-36 t=15799
+ba bai ban zhi bao bu zhu 	八佰伴紙包不住	c=1 d=5.36812e-35 t=15799
 ba da guan 	八大關	c=1 d=2.94408e-27 t=15799
 ba dian 	八點	c=1 d=3.36732e-19 t=15799
 ba dian 	靶點	c=1 d=7.09789e-27 t=15799
@@ -146,7 +146,7 @@ bi bu kai 	避不開	c=1 d=0.0319048 t=15799
 bi guan 	閉關	c=1 d=1.30339e-29 t=15799
 bi ji 	筆記	c=9 d=0.00719046 t=15799
 bi jiao 	比較	c=18 d=0.0814647 t=15799
-bi jiao fan ren 	比較犯人	c=1 d=1 t=6
+bi jiao fan ren 	比較犯人	c=1 d=5.08085e-35 t=15799
 bi jiao shao 	比較少	c=1 d=8.73688e-30 t=15799
 bi jiao yan 	比較嚴	c=1 d=4.44996e-34 t=15799
 bi jing 	畢竟	c=2 d=0.00381048 t=15799
@@ -223,7 +223,7 @@ bu duan 	不斷	c=1 d=0.00013845 t=15799
 bu duo 	不多	c=0 d=2.29129e-20 t=15799
 bu er 	布爾	c=2 d=4.36236e-07 t=15799
 bu gan 	不敢	c=2 d=1.58133e-09 t=15799
-bu gei 	不給	c=0 d=0.1 t=28
+bu gei 	不給	c=0 d=5.67164e-36 t=15799
 bu gou 	不夠	c=2 d=5.40825e-05 t=15799
 bu guan 	不管	c=2 d=2.18482e-18 t=15799
 bu guo 	不過	c=6 d=1.37735e-28 t=15799
@@ -270,8 +270,8 @@ bu tiao zhuan 	不跳轉	c=1 d=3.07802e-21 t=15799
 bu tong 	不同	c=12 d=0.00575967 t=15799
 bu tong ping tai 	不同平臺	c=1 d=1.40204e-05 t=15799
 bu wang 	不忘	c=1 d=1.06036e-13 t=15799
-bu wei 	部位	c=0 d=0.1 t=18
-bu wei ren zhi 	不爲人知	c=0 d=0.1 t=20
+bu wei 	部位	c=0 d=5.39503e-36 t=15799
+bu wei ren zhi 	不爲人知	c=0 d=5.44925e-36 t=15799
 bu xi guan 	不習慣	c=1 d=9.23087e-30 t=15799
 bu xian 	不限	c=2 d=1.90537e-15 t=15799
 bu xian shi 	不顯示	c=7 d=9.93796e-16 t=15799
@@ -280,13 +280,13 @@ bu xin 	不信	c=3 d=3.75182e-18 t=15799
 bu xing 	不行	c=1 d=0.19205 t=15799
 bu xu yao 	不需要	c=5 d=1.44475e-05 t=15799
 bu yao 	不要	c=12 d=0.0192485 t=15799
-bu yao tai 	不要太	c=0 d=0.1 t=15798
+bu yao tai 	不要太	c=0 d=0.0995012 t=15799
 bu yao tai qiang qiu zi ji le 	不要太強求自己了	c=1 d=1 t=15799
 bu yao yao 	不要咬	c=1 d=0.018968 t=15799
 bu yi 	布衣	c=3 d=2.20439e-07 t=15799
 bu yi ding 	不一定	c=1 d=5.5269e-25 t=15799
 bu yi nan er 	布衣男兒	c=1 d=4.34687e-23 t=15799
-bu yi yang de 	不一樣的	c=0 d=0.1 t=23
+bu yi yang de 	不一樣的	c=0 d=5.53161e-36 t=15799
 bu yong 	不用	c=2 d=2.00296e-25 t=15799
 bu yu 	捕魚	c=1 d=1.92941e-26 t=15799
 bu zai 	不在	c=5 d=6.41043e-05 t=15799
@@ -383,9 +383,9 @@ cheng bai 	成敗	c=1 d=1.66524e-29 t=15799
 cheng du 	成都	c=1 d=1.04927e-07 t=15799
 cheng du 	程度	c=1 d=1.05453e-07 t=15799
 cheng gong 	成功	c=14 d=0.473851 t=15799
-cheng gong de ren 	成功的人	c=0 d=0.1 t=29
+cheng gong de ren 	成功的人	c=0 d=5.70007e-36 t=15799
 cheng guo 	成果	c=1 d=0.00114197 t=15799
-cheng ji 	成績	c=0 d=0.1 t=20
+cheng ji 	成績	c=0 d=5.44925e-36 t=15799
 cheng jiu 	成就	c=6 d=0.000221519 t=15799
 cheng le 	成了	c=1 d=2.57054e-19 t=15799
 cheng nuo 	承諾	c=2 d=8.11444e-22 t=15799
@@ -432,7 +432,7 @@ chu fa 	觸發	c=2 d=3.1289e-08 t=15799
 chu hai 	出海	c=5 d=2.13446e-25 t=15799
 chu lai 	出來	c=7 d=0.0403683 t=15799
 chu le 	出了	c=1 d=2.18333e-10 t=15799
-chu le 	除了	c=0 d=0.1 t=10
+chu le 	除了	c=0 d=5.18349e-36 t=15799
 chu li 	處理	c=9 d=0.00267181 t=15799
 chu lia 	出倆	c=2 d=0.0401786 t=15799
 chu lu 	出路	c=1 d=8.9953e-20 t=15799
@@ -493,7 +493,7 @@ cuo le 	錯了	c=1 d=4.17785e-27 t=15799
 cuo luan 	錯亂	c=2 d=0.145736 t=15799
 cuo lun 	錯論	c=1 d=0.0665368 t=15799
 cuo wu 	錯誤	c=8 d=1.45468e-10 t=15799
-cuo wu de 	錯誤的	c=0 d=0.1 t=23
+cuo wu de 	錯誤的	c=0 d=5.53161e-36 t=15799
 da 	大	c=6 d=0.0106351 t=15799
 da 	打	c=1 d=1.0507e-23 t=15799
 da bai 	打敗	c=1 d=1 t=15799
@@ -505,7 +505,7 @@ da da 	打打	c=0 d=4.33787e-29 t=15799
 da da qiu 	打打球	c=1 d=4.35961e-28 t=15799
 da dao 	打到	c=1 d=1.02902e-13 t=15799
 da dao 	達到	c=1 d=1.03418e-13 t=15799
-da de 	大的	c=0 d=0.1 t=15797
+da de 	大的	c=0 d=0.099005 t=15799
 da die 	大跌	c=1 d=8.89036e-29 t=15799
 da gai 	大概	c=1 d=5.97176e-24 t=15799
 da hai shang 	大海上	c=1 d=6.48698e-27 t=15799
@@ -610,11 +610,11 @@ de chu 	得出	c=1 d=0.000505481 t=15799
 de dao 	得到	c=3 d=7.21233e-05 t=15799
 de duo 	得多	c=1 d=5.19514e-32 t=15799
 de e 	德俄	c=6 d=7.04928e-05 t=15799
-de ji hui 	的機會	c=0 d=0.1 t=28
+de ji hui 	的機會	c=0 d=5.67164e-36 t=15799
 de jiao du 	的角度	c=1 d=1.05288e-18 t=15799
 de mo 	的膜	c=3 d=4.21591e-14 t=15799
-de mu di 	的目的	c=0 d=0.1 t=21
-de yuan yin 	的原因	c=0 d=0.1 t=26
+de mu di 	的目的	c=0 d=5.47657e-36 t=15799
+de yuan yin 	的原因	c=0 d=5.61521e-36 t=15799
 deng 	燈	c=1 d=1.28045e-26 t=15799
 deng 	等	c=24 d=0.00295196 t=15799
 deng lu 	登錄	c=5 d=1.50234e-09 t=15799
@@ -726,7 +726,7 @@ duan lian jie 	短連接	c=1 d=1.66728e-14 t=15799
 duan pian 	短片	c=1 d=3.62526e-05 t=15799
 duan shi jian 	短時間	c=1 d=6.02357e-08 t=15799
 duan shi pin 	短視頻	c=3 d=1.77345e-05 t=15799
-duan yu 	短語	c=1 d=1 t=41
+duan yu 	短語	c=1 d=6.05254e-35 t=15799
 dui 	對	c=25 d=0.684477 t=15799
 dui bi 	對比	c=6 d=0.0037164 t=15799
 dui cha 	對茶	c=1 d=3.81892e-29 t=15799
@@ -829,7 +829,7 @@ fan qiang 	翻牆	c=1 d=6.39932e-14 t=15799
 fan qie 	番茄	c=0 d=3.69397e-21 t=15799
 fan qie zhong 	番茄鐘	c=1 d=3.71249e-20 t=15799
 fan ren 	凡人	c=1 d=2.35618e-24 t=15799
-fan ren 	犯人	c=0 d=0.1 t=5
+fan ren 	犯人	c=0 d=5.05551e-36 t=15799
 fan si 	反思	c=12 d=0.116086 t=15799
 fan sui 	范雎	c=1 d=8.12518e-29 t=15799
 fan suo 	繁瑣	c=1 d=8.86875e-29 t=15799
@@ -871,8 +871,8 @@ fang zhi 	防止	c=1 d=1.40638e-12 t=15799
 fang zi 	房子	c=1 d=6.57026e-30 t=15799
 fei 	費	c=1 d=8.36241e-11 t=15799
 fei chang 	非常	c=17 d=0.0843665 t=15799
-fei chang bu cuo 	非常不錯	c=0 d=0.1 t=1
-fei chang bu cuo de jie xi 	非常不錯的解析	c=1 d=1 t=2
+fei chang bu cuo 	非常不錯	c=0 d=4.9554e-36 t=15799
+fei chang bu cuo de jie xi 	非常不錯的解析	c=1 d=4.98024e-35 t=15799
 fei pan 	飛盤	c=3 d=2.02171e-27 t=15799
 fei qi 	廢棄	c=4 d=7.28224e-20 t=15799
 fei qian ming 	費簽名	c=1 d=7.64029e-11 t=15799
@@ -950,7 +950,7 @@ gai lai 	該來	c=1 d=5.6991e-33 t=15799
 gai ming 	改命	c=1 d=1.81581e-18 t=15799
 gai nian 	概念	c=5 d=2.36458e-06 t=15799
 gai ru he 	該如何	c=1 d=1.4008e-24 t=15799
-gai shi 	該市	c=0 d=0.1 t=32
+gai shi 	該市	c=0 d=5.78621e-36 t=15799
 gai you 	該有	c=4 d=0.00362558 t=15799
 gai zai na er me 	改在哪兒麼	c=1 d=4.38384e-05 t=15799
 gai zen me 	該怎麼	c=5 d=0.0873716 t=15799
@@ -958,7 +958,7 @@ gai zi 	改自	c=1 d=3.41879e-21 t=15799
 gan 	幹	c=2 d=7.67869e-32 t=15799
 gan 	感	c=1 d=6.05583e-13 t=15799
 gan chu 	感觸	c=2 d=2.96137e-20 t=15799
-gan dao 	感到	c=0 d=0.1 t=15795
+gan dao 	感到	c=0 d=0.0980199 t=15799
 gan dao 	趕到	c=1 d=3.12614e-27 t=15799
 gan dong 	感動	c=4 d=1.96886e-16 t=15799
 gan gan gan gan 	幹幹幹幹	c=1 d=4.71212e-31 t=15799
@@ -1118,7 +1118,7 @@ guan dian 	觀點	c=3 d=0.00123571 t=15799
 guan diao 	關掉	c=2 d=1.6636e-12 t=15799
 guan fang 	官方	c=1 d=1.10172e-22 t=15799
 guan jian 	關鍵	c=1 d=0.00790705 t=15799
-guan jian ci 	關鍵詞	c=1 d=1 t=42
+guan jian ci 	關鍵詞	c=1 d=6.08288e-35 t=15799
 guan jian zi 	關鍵字	c=2 d=1.47874e-14 t=15799
 guan li 	管理	c=66 d=0.194761 t=15799
 guan li ceng 	管理層	c=1 d=2.29012e-13 t=15799
@@ -1221,7 +1221,7 @@ hao dian 	好點	c=2 d=3.38074e-07 t=15799
 hao duo 	好多	c=1 d=4.44692e-26 t=15799
 hao feng mao 	好風貌	c=1 d=2.52222e-31 t=15799
 hao hao 	好好	c=9 d=5.56827e-05 t=15799
-hao hao de 	好好的	c=0 d=0.1 t=27
+hao hao de 	好好的	c=0 d=5.64335e-36 t=15799
 hao hao hao hao lai le qian hou hao hao hao le le 	好好好好來了前後好好好了了	c=1 d=2.64424e-28 t=15799
 hao hao he fu he shi 	好好和複合式	c=2 d=4.71541e-21 t=15799
 hao hao kao shi 	好好考試	c=1 d=4.04667e-34 t=15799
@@ -1245,7 +1245,7 @@ hao yong 	好用	c=3 d=3.49592e-25 t=15799
 hao you 	好友	c=1 d=7.96158e-25 t=15799
 he 	和	c=176 d=1.47589 t=15799
 he 	喝	c=2 d=9.056e-29 t=15799
-he bei heng shui 	河北衡水	c=1 d=1 t=31
+he bei heng shui 	河北衡水	c=1 d=5.75736e-35 t=15799
 he bu cuo 	和不錯	c=1 d=4.26892e-16 t=15799
 he cha 	喝茶	c=4 d=1.68414e-28 t=15799
 he chang 	合唱	c=1 d=0.000825105 t=15799
@@ -1665,10 +1665,10 @@ jiong kun 	窘困	c=1 d=6.5895e-35 t=15799
 jiu 	就	c=29 d=1.12068 t=15799
 jiu bei 	就被	c=1 d=5.2855e-29 t=15799
 jiu cha 	就差	c=2 d=5.83524e-09 t=15799
-jiu cheng 	就成	c=0 d=0.1 t=15797
-jiu cheng jiu duo da de shi qing ba 	就成就多大的事情吧	c=1 d=1 t=15798
+jiu cheng 	就成	c=0 d=0.099005 t=15799
+jiu cheng jiu duo da de shi qing ba 	就成就多大的事情吧	c=1 d=0.995012 t=15799
 jiu cong 	就從	c=1 d=9.80699e-07 t=15799
-jiu duo 	就多	c=0 d=0.1 t=15797
+jiu duo 	就多	c=0 d=0.099005 t=15799
 jiu duo nu li 	就多努力	c=1 d=2.37824e-16 t=15799
 jiu hao 	就好	c=1 d=4.40342e-28 t=15799
 jiu hen hao 	就很好	c=1 d=1.11067e-29 t=15799
@@ -1693,7 +1693,7 @@ jiu yao 	就要	c=7 d=0.0591538 t=15799
 jiu you 	就有	c=2 d=0.000804733 t=15799
 jiu zai 	就在	c=4 d=5.11866e-26 t=15799
 jiu zhe yang 	就這樣	c=1 d=0.0878095 t=15799
-jiu zhe yang le 	就這樣了	c=0 d=0.1 t=0
+jiu zhe yang le 	就這樣了	c=0 d=4.93069e-36 t=15799
 jiu zhi dao 	就知道	c=1 d=8.65142e-32 t=15799
 jiu zhi zu 	就知足	c=1 d=1.83119e-29 t=15799
 ju 	劇	c=1 d=9.91567e-19 t=15799
@@ -1755,7 +1755,7 @@ kan kan ke ke 	坎坎坷坷	c=2 d=4.22606e-21 t=15799
 kan kan ke ke kua 	坎坎坷坷跨	c=1 d=2.23186e-21 t=15799
 kan kan ke ke kua kan kan 	坎坎坷坷跨看看	c=1 d=2.10494e-21 t=15799
 kan kan qing kuang 	看看情況	c=1 d=4.07331e-23 t=15799
-kan kan wei lai gai zen me cheng zhang ba 	看看未來該怎麼成長吧	c=1 d=1 t=20
+kan kan wei lai gai zen me cheng zhang ba 	看看未來該怎麼成長吧	c=1 d=5.44925e-35 t=15799
 kan lai 	看來	c=10 d=2.68331e-09 t=15799
 kan le 	看了	c=7 d=1.56285e-08 t=15799
 kan qi ta 	看其他	c=1 d=1.2842e-31 t=15799
@@ -1787,13 +1787,13 @@ ke pu 	科普	c=1 d=6.88647e-19 t=15799
 ke pu xia 	科普下	c=1 d=6.61352e-19 t=15799
 ke ren 	客人	c=0 d=1.66671e-11 t=15799
 ke tang 	課堂	c=1 d=0.194952 t=15799
-ke xiao 	可笑	c=0 d=0.1 t=20
+ke xiao 	可笑	c=0 d=5.44925e-36 t=15799
 ke xing 	可行	c=2 d=1.04404e-07 t=15799
 ke xuan 	可選	c=1 d=1.38879e-11 t=15799
 ke yi 	可以	c=99 d=2.15259 t=15799
 ke yi le 	可以了	c=1 d=7.31779e-33 t=15799
 ke yong 	可用	c=1 d=7.73285e-35 t=15799
-ke yong de 	可用的	c=0 d=0.1 t=15
+ke yong de 	可用的	c=0 d=5.31471e-36 t=15799
 ke yu 	可與	c=1 d=0.0587185 t=15799
 ke zhan 	客棧	c=1 d=2.66623e-08 t=15799
 ke zhi xing 	可執行	c=4 d=4.37834e-09 t=15799
@@ -2207,9 +2207,9 @@ ni hao 	你好	c=7 d=3.97765e-09 t=15799
 ni men 	你們	c=10 d=3.67068e-25 t=15799
 ni na fu jin 	你那附近	c=1 d=1.09962e-29 t=15799
 ni ne 	你呢	c=1 d=8.18008e-20 t=15799
-ni neng 	你能	c=0 d=0.1 t=15795
-ni neng gan dao shen me 	你能感到什麼	c=1 d=1 t=15796
-ni neng zuo dao shi quan shi fei de 	你能做到實權是非地	c=1 d=1 t=14
+ni neng 	你能	c=0 d=0.0980199 t=15799
+ni neng gan dao shen me 	你能感到什麼	c=1 d=0.985112 t=15799
+ni neng zuo dao shi quan shi fei de 	你能做到實權是非地	c=1 d=5.2882e-35 t=15799
 ni ping shi 	你平時	c=1 d=1.8496e-29 t=15799
 ni shi 	你是	c=2 d=5.98994e-30 t=15799
 ni tu 	泥土	c=0 d=2.44393e-14 t=15799
@@ -2313,7 +2313,7 @@ qi 	其	c=1 d=5.13872e-31 t=15799
 qi 	器	c=3 d=1.20796e-08 t=15799
 qi 	起	c=0 d=1.00293e-06 t=15799
 qi che 	汽車	c=3 d=1.77062e-08 t=15799
-qi chi 	啓齒	c=0 d=0.1 t=22
+qi chi 	啓齒	c=0 d=5.50402e-36 t=15799
 qi dian duo 	七點多	c=1 d=2.77263e-27 t=15799
 qi dong 	啓動	c=14 d=2.03776e-09 t=15799
 qi fa 	啓發	c=0 d=1.07935e-17 t=15799
@@ -2363,7 +2363,7 @@ qian zhi 	潛質	c=1 d=5.4747e-31 t=15799
 qian zhui 	前綴	c=1 d=1.09339e-21 t=15799
 qiang 	槍	c=1 d=4.84984e-17 t=15799
 qiang hua 	強化	c=1 d=1.93974e-30 t=15799
-qiang qiu 	強求	c=0 d=0.1 t=15798
+qiang qiu 	強求	c=0 d=0.0995012 t=15799
 qiang xin ji 	強心劑	c=1 d=9.89176e-20 t=15799
 qiang zhi 	強制	c=2 d=6.04739e-25 t=15799
 qiao 	巧	c=1 d=2.44767e-31 t=15799
@@ -2655,7 +2655,7 @@ shi jia 	世家	c=1 d=3.69271e-16 t=15799
 shi jian 	事件	c=4 d=0.00264522 t=15799
 shi jian 	實踐	c=6 d=0.00456928 t=15799
 shi jian 	時間	c=41 d=0.780004 t=15799
-shi jian li 	時間裏	c=0 d=0.1 t=23
+shi jian li 	時間裏	c=0 d=5.53161e-36 t=15799
 shi jiang 	是將	c=1 d=0.0526021 t=15799
 shi jie 	世界	c=1 d=0.283654 t=15799
 shi juan 	試卷	c=0 d=1.85729e-20 t=15799
@@ -2669,9 +2669,9 @@ shi pei 	適配	c=3 d=6.05798e-33 t=15799
 shi pin 	視頻	c=1 d=0.138761 t=15799
 shi qiang 	世強	c=5 d=2.14455e-31 t=15799
 shi qing 	事情	c=31 d=0.899611 t=15799
-shi qing ba 	事情吧	c=0 d=0.1 t=15797
+shi qing ba 	事情吧	c=0 d=0.099005 t=15799
 shi qu 	市區	c=2 d=1.21942e-25 t=15799
-shi quan 	實權	c=0 d=0.1 t=13
+shi quan 	實權	c=0 d=5.26183e-36 t=15799
 shi san 	十三	c=2 d=0.18743 t=15799
 shi sha 	是啥	c=1 d=1.60659e-19 t=15799
 shi shen me 	是什麼	c=14 d=0.0882497 t=15799
@@ -2693,8 +2693,8 @@ shi ye 	視野	c=1 d=0.285076 t=15799
 shi yi 	失意	c=1 d=2.8404e-17 t=15799
 shi yi chang 	是一場	c=1 d=3.77771e-19 t=15799
 shi yi ge 	十一個	c=3 d=2.93991e-10 t=15799
-shi yi jian 	是一件	c=0 d=0.1 t=22
-shi yi jian wu fa qi chi de wen ti ma 	是一件無法啓齒的問題嗎	c=1 d=1 t=23
+shi yi jian 	是一件	c=0 d=5.50402e-36 t=15799
+shi yi jian wu fa qi chi de wen ti ma 	是一件無法啓齒的問題嗎	c=1 d=5.53161e-35 t=15799
 shi yi xia 	試一下	c=1 d=6.52283e-33 t=15799
 shi yin wei 	是因爲	c=2 d=0.0433109 t=15799
 shi ying 	適應	c=1 d=3.3865e-27 t=15799
@@ -2707,9 +2707,9 @@ shi you 	是有	c=1 d=1.8287e-13 t=15799
 shi zai 	實在	c=2 d=5.97806e-07 t=15799
 shi zai bi xing 	勢在必行	c=1 d=0.0124007 t=15799
 shi zhan 	實戰	c=5 d=0.00633647 t=15799
-shi zhe yang de 	是這樣的	c=0 d=0.1 t=3
-shi zhe yang ma 	是這樣嗎	c=0 d=0.1 t=28
-shi zhe yang ma bu gei wo men ji ben de ji hui 	是這樣嗎不給我們基本的機會	c=1 d=1 t=29
+shi zhe yang de 	是這樣的	c=0 d=5.0052e-36 t=15799
+shi zhe yang ma 	是這樣嗎	c=0 d=5.67164e-36 t=15799
+shi zhe yang ma bu gei wo men ji ben de ji hui 	是這樣嗎不給我們基本的機會	c=1 d=5.70007e-35 t=15799
 shi zhong 	始終	c=1 d=9.99968e-30 t=15799
 shi zhong xin 	市中心	c=1 d=4.60532e-26 t=15799
 shou 	手	c=2 d=2.52926e-05 t=15799
@@ -2799,7 +2799,7 @@ si lu 	思路	c=1 d=0.000102566 t=15799
 si qi 	私企	c=1 d=8.10558e-30 t=15799
 si shi fen 	四十分	c=1 d=9.29798e-27 t=15799
 si wei 	思維	c=34 d=0.461272 t=15799
-si wei ding shi 	思维定式	c=1 d=1 t=37
+si wei ding shi 	思维定式	c=1 d=5.93269e-35 t=15799
 si xiang 	思想	c=6 d=0.000862917 t=15799
 si xiang xian 	四象限	c=1 d=1.54119e-30 t=15799
 si xu 	思緒	c=1 d=2.96499e-22 t=15799
@@ -3015,8 +3015,8 @@ wan mei 	完美	c=2 d=1.51123e-05 t=15799
 wan min 	萬民	c=0 d=2.5932e-35 t=15799
 wan min yi xin 	萬民一心	c=1 d=2.6062e-34 t=15799
 wan quan 	完全	c=2 d=0.000253783 t=15799
-wan quan bu 	完全不	c=0 d=0.1 t=15
-wan quan bu ke yong de gan jue 	完全不可用的感覺	c=1 d=1 t=16
+wan quan bu 	完全不	c=0 d=5.31471e-36 t=15799
+wan quan bu ke yong de gan jue 	完全不可用的感覺	c=1 d=5.34135e-35 t=15799
 wan shan 	完善	c=3 d=0.00686337 t=15799
 wan shang 	晚上	c=5 d=0.00506703 t=15799
 wan wan 	玩玩	c=2 d=1.26444e-25 t=15799
@@ -3053,9 +3053,9 @@ wei neng 	未能	c=1 d=4.55005e-31 t=15799
 wei ni 	爲你	c=1 d=2.90825e-30 t=15799
 wei rao 	圍繞	c=1 d=3.72983e-16 t=15799
 wei shen me 	爲什麼	c=4 d=0.0895834 t=15799
-wei shen me zong zhe xie wen ti zai gan rao 	爲什麼總這些問題在干擾	c=1 d=1 t=25
+wei shen me zong zhe xie wen ti zai gan rao 	爲什麼總這些問題在干擾	c=1 d=5.5872e-35 t=15799
 wei shi xian 	尉氏縣	c=1 d=2.0608e-07 t=15799
-wei shui 	爲誰	c=0 d=0.1 t=18
+wei shui 	爲誰	c=0 d=5.39503e-36 t=15799
 wei xian 	危險	c=1 d=1.33339e-32 t=15799
 wei xin 	微信	c=9 d=0.677668 t=15799
 wei yi 	唯一	c=7 d=8.78544e-07 t=15799
@@ -3077,7 +3077,7 @@ wen juan 	問卷	c=3 d=7.1553e-19 t=15799
 wen nuan 	溫暖	c=0 d=4.33344e-17 t=15799
 wen nuan jian 	溫暖見	c=1 d=4.35516e-16 t=15799
 wen ti 	問題	c=69 d=0.475249 t=15799
-wen ti ma 	問題嗎	c=0 d=0.1 t=22
+wen ti ma 	問題嗎	c=0 d=5.50402e-36 t=15799
 wen wen 	問問	c=1 d=1.06731e-31 t=15799
 wen xi 	溫習	c=2 d=2.88665e-22 t=15799
 wen zhang 	文章	c=11 d=0.000546702 t=15799
@@ -3085,14 +3085,14 @@ wen zhi 	聞之	c=1 d=4.04955e-13 t=15799
 wen zi 	文字	c=2 d=0.136561 t=15799
 wen zi ban 	文字版	c=1 d=0.173774 t=15799
 wo 	我	c=131 d=0.644338 t=15799
-wo bu xiang 	我不想	c=0 d=0.1 t=26
-wo bu xiang zai zhui jiu wen ti de yuan yin 	我不想在追究問題的原因	c=1 d=1 t=27
+wo bu xiang 	我不想	c=0 d=5.61521e-36 t=15799
+wo bu xiang zai zhui jiu wen ti de yuan yin 	我不想在追究問題的原因	c=1 d=5.64335e-35 t=15799
 wo chang shi 	我嘗試	c=1 d=8.76244e-35 t=15799
 wo chuang 	臥牀	c=2 d=2.24477e-17 t=15799
 wo dai di 	我帶地	c=1 d=2.55155e-20 t=15799
 wo de 	我的	c=20 d=0.181049 t=15799
-wo de cheng ji jiu zhe yang bu wei ren zhi de ke xiao 	我的成績就這樣不爲人知的可笑	c=1 d=1 t=21
-wo de ying xiang quan gai shi zen yang de cun zai 	我的影響圈該市怎樣的存在	c=1 d=1 t=33
+wo de cheng ji jiu zhe yang bu wei ren zhi de ke xiao 	我的成績就這樣不爲人知的可笑	c=1 d=5.47657e-35 t=15799
+wo de ying xiang quan gai shi zen yang de cun zai 	我的影響圈該市怎樣的存在	c=1 d=5.81522e-35 t=15799
 wo en en ti 	我嗯嗯題	c=1 d=8.1673e-31 t=15799
 wo gai 	我該	c=1 d=0.0273237 t=15799
 wo hao xiang 	我好想	c=1 d=5.20593e-27 t=15799
@@ -3103,11 +3103,11 @@ wo ke yi 	我可以	c=1 d=2.19234e-29 t=15799
 wo men 	我們	c=6 d=0.0913931 t=15799
 wo mian xiang 	我面相	c=1 d=3.59285e-17 t=15799
 wo nan dang 	我難當	c=1 d=6.02562e-12 t=15799
-wo neng 	我能	c=0 d=0.1 t=18
-wo neng zen yang ne bu wei zi ji wei shui ne 	我能怎樣呢部位自己爲誰呢	c=1 d=1 t=19
+wo neng 	我能	c=0 d=5.39503e-36 t=15799
+wo neng zen yang ne bu wei zi ji wei shui ne 	我能怎樣呢部位自己爲誰呢	c=1 d=5.42207e-35 t=15799
 wo shen 	我身	c=1 d=3.97072e-17 t=15799
 wo shi 	我是	c=2 d=0.0918512 t=15799
-wo shi cheng gong de ren 	我是成功的人	c=1 d=1 t=30
+wo shi cheng gong de ren 	我是成功的人	c=1 d=5.72864e-35 t=15799
 wo shuo 	我說	c=1 d=9.66921e-17 t=15799
 wo xiang 	我想	c=1 d=3.20037e-09 t=15799
 wo yao 	我要	c=3 d=0.0300468 t=15799
@@ -3116,13 +3116,13 @@ wo yi jing 	我已經	c=1 d=2.30953e-24 t=15799
 wo zai 	我在	c=1 d=1.45193e-34 t=15799
 wo zhe bian 	我這邊	c=1 d=1.15939e-34 t=15799
 wo zhi qian 	我之前	c=1 d=1.59967e-27 t=15799
-wo zhi xiang 	我只想	c=0 d=0.1 t=27
-wo zhi xiang hao hao de ying yong yi ge gong ju jiu zhe me nan ma 	我只想好好的應用一個工具就這麼難嗎	c=1 d=1 t=28
+wo zhi xiang 	我只想	c=0 d=5.64335e-36 t=15799
+wo zhi xiang hao hao de ying yong yi ge gong ju jiu zhe me nan ma 	我只想好好的應用一個工具就這麼難嗎	c=1 d=5.67164e-35 t=15799
 wu 	無	c=3 d=3.44843e-08 t=15799
 wu fa 	無法	c=38 d=0.088692 t=15799
 wu fa tong shi 	無法同時	c=1 d=7.1199e-34 t=15799
 wu ge 	五個	c=2 d=1.15424e-21 t=15799
-wu le 	誤了	c=0 d=0.1 t=23
+wu le 	誤了	c=0 d=5.53161e-36 t=15799
 wu ming 	無名	c=1 d=5.78523e-33 t=15799
 wu qi 	霧氣	c=1 d=1.26771e-26 t=15799
 wu qing 	無情	c=1 d=3.89794e-31 t=15799
@@ -3444,8 +3444,8 @@ yao yan zheng 	要驗證	c=1 d=0.0804596 t=15799
 yao yi 	要以	c=1 d=1.66614e-06 t=15799
 yao you 	要有	c=3 d=4.3984e-14 t=15799
 yao zai 	要在	c=1 d=4.35294e-10 t=15799
-yao zhe yang zuo de mu di shi shen me 	要這樣做的目的是什麼	c=1 d=1 t=22
-yao zhen 	藥疹	c=0 d=0.1 t=3
+yao zhe yang zuo de mu di shi shen me 	要這樣做的目的是什麼	c=1 d=5.50402e-35 t=15799
+yao zhen 	藥疹	c=0 d=5.0052e-36 t=15799
 yao zhi dao 	要知道	c=1 d=3.06059e-13 t=15799
 yao zuo 	要做	c=4 d=0.00365205 t=15799
 yao zuo dao 	要做到	c=1 d=0.0116786 t=15799
@@ -3512,7 +3512,7 @@ yi gui zheng li 	衣櫃整理	c=1 d=0.00275318 t=15799
 yi han 	遺憾	c=2 d=1.94551e-27 t=15799
 yi hou 	以後	c=3 d=1.68976e-10 t=15799
 yi hui lai 	一回來	c=1 d=5.14887e-15 t=15799
-yi hui shi 	一回事	c=0 d=0.1 t=4
+yi hui shi 	一回事	c=0 d=5.03029e-36 t=15799
 yi ji 	以及	c=1 d=7.72365e-22 t=15799
 yi ji na ge 	以及那個	c=1 d=7.76236e-21 t=15799
 yi jian 	一件	c=3 d=1.53079e-16 t=15799
@@ -3571,7 +3571,7 @@ yi yang 	一樣	c=2 d=2.89285e-26 t=15799
 yi yi 	意義	c=1 d=1.07415e-18 t=15799
 yi yu 	抑鬱	c=1 d=0.38868 t=15799
 yi yuan 	意願	c=7 d=2.01636e-07 t=15799
-yi yuan ze 	一原則	c=1 d=1 t=36
+yi yuan ze 	一原則	c=1 d=5.9031e-35 t=15799
 yi yue 	一月	c=1 d=2.23244e-07 t=15799
 yi zao 	一早	c=1 d=6.34212e-26 t=15799
 yi zhang tu 	一張圖	c=1 d=2.30513e-31 t=15799
@@ -3591,7 +3591,7 @@ yin pin 	音頻	c=5 d=3.55408e-07 t=15799
 yin wei 	因爲	c=7 d=5.16374e-08 t=15799
 yin xiang 	印象	c=1 d=0.509156 t=15799
 yin xiang li 	印象裏	c=1 d=1.75789e-19 t=15799
-yin yin yue yue 	隱隱約約	c=1 d=1 t=18
+yin yin yue yue 	隱隱約約	c=1 d=5.39503e-35 t=15799
 yin yong 	引用	c=1 d=6.39714e-10 t=15799
 yin yue 	音樂	c=6 d=3.66232e-07 t=15799
 ying 	英	c=2 d=1.40906e-05 t=15799
@@ -3662,7 +3662,7 @@ you ni 	有你	c=2 d=5.43148e-26 t=15799
 you qing 	友情	c=3 d=4.46883e-20 t=15799
 you ren 	有人	c=2 d=8.78396e-27 t=15799
 you sha 	有啥	c=1 d=8.06241e-26 t=15799
-you shan 	友善	c=0 d=0.1 t=12
+you shan 	友善	c=0 d=5.23558e-36 t=15799
 you shang jiao 	右上角	c=2 d=1.5959e-31 t=15799
 you shen me 	有什麼	c=1 d=2.80536e-18 t=15799
 you sheng yin 	有聲音	c=1 d=3.64405e-07 t=15799
@@ -3712,7 +3712,7 @@ yu mao qiu 	羽毛球	c=3 d=1.56064e-27 t=15799
 yu qi 	預期	c=2 d=1.63738e-07 t=15799
 yu san 	雨傘	c=0 d=2.12205e-29 t=15799
 yu shi 	遇事	c=1 d=4.36109e-32 t=15799
-yu suan 	預算	c=1 d=1 t=39
+yu suan 	預算	c=1 d=5.99232e-35 t=15799
 yu wang 	慾望	c=1 d=1.98681e-18 t=15799
 yu yan 	語言	c=3 d=2.01006e-14 t=15799
 yu yan de 	語言的	c=1 d=3.55529e-11 t=15799
@@ -3733,14 +3733,14 @@ yuan jing 	遠景	c=1 d=1.87302e-30 t=15799
 yuan jing 	願景	c=31 d=0.0339324 t=15799
 yuan lai 	原來	c=2 d=8.56319e-26 t=15799
 yuan lai ru ci 	原來如此	c=1 d=1.97281e-23 t=15799
-yuan lai shi 	原來是	c=0 d=0.1 t=4
-yuan lai shi zhe yang me yi hui shi ne 	原來是這樣麼一回事呢	c=1 d=1 t=5
+yuan lai shi 	原來是	c=0 d=5.03029e-36 t=15799
+yuan lai shi zhe yang me yi hui shi ne 	原來是這樣麼一回事呢	c=1 d=5.05551e-35 t=15799
 yuan ma 	源碼	c=7 d=6.59103e-11 t=15799
 yuan meng 	圓夢	c=3 d=1.44784e-24 t=15799
 yuan sheng 	原生	c=2 d=9.83577e-21 t=15799
 yuan wang 	願望	c=3 d=2.65622e-23 t=15799
 yuan wen 	原文	c=1 d=8.57728e-19 t=15799
-yuan yao zhen shi zhe yang de 	元藥疹是這樣的	c=1 d=1 t=4
+yuan yao zhen shi zhe yang de 	元藥疹是這樣的	c=1 d=5.03029e-35 t=15799
 yuan yi 	願意	c=1 d=9.48743e-29 t=15799
 yuan yin 	原因	c=3 d=9.40613e-16 t=15799
 yuan ze 	原則	c=27 d=0.0312636 t=15799
@@ -3776,7 +3776,7 @@ zai bu 	再不	c=0 d=1.4117e-28 t=15799
 zai bu feng kuang 	再不瘋狂	c=1 d=1.41878e-27 t=15799
 zai chu xian 	再出現	c=1 d=0.0776922 t=15799
 zai chu yi fen 	再出一份	c=1 d=3.27002e-27 t=15799
-zai cuo wu de shi jian li kan dao bu yi yang de zi ji ren sheng wo wu le 	在錯誤的時間裏看到不一樣的自己人生我誤了	c=1 d=1 t=24
+zai cuo wu de shi jian li kan dao bu yi yang de zi ji ren sheng wo wu le 	在錯誤的時間裏看到不一樣的自己人生我誤了	c=1 d=5.55933e-35 t=15799
 zai fa 	再發	c=1 d=4.43771e-31 t=15799
 zai ge di 	在各地	c=1 d=6.65233e-29 t=15799
 zai gu yi 	在故意	c=1 d=0.0520787 t=15799
@@ -3797,7 +3797,7 @@ zai yi 	在意	c=1 d=3.08599e-22 t=15799
 zai yong 	再用	c=1 d=0.19593 t=15799
 zai zhe ge 	在這個	c=1 d=1.02671e-16 t=15799
 zai zhe li 	在這裏	c=1 d=0.083527 t=15799
-zai zhe li chu le wen ti 	在這裏除了問題	c=1 d=1 t=11
+zai zhe li chu le wen ti 	在這裏除了問題	c=1 d=5.20947e-35 t=15799
 zai zhe zhong 	在這種	c=1 d=5.80237e-09 t=15799
 zai zuo jue ding 	再做決定	c=1 d=4.09373e-23 t=15799
 zan 	咱	c=2 d=7.69174e-13 t=15799
@@ -3831,7 +3831,7 @@ zen me jie jie 	怎麼姐姐	c=1 d=0.0184074 t=15799
 zen me yang 	怎麼樣	c=5 d=0.0135009 t=15799
 zen nai 	怎奈	c=2 d=6.84375e-31 t=15799
 zen yang 	怎樣	c=1 d=0.0869358 t=15799
-zen yang de 	怎樣的	c=0 d=0.1 t=32
+zen yang de 	怎樣的	c=0 d=5.78621e-36 t=15799
 zeng jia 	增加	c=1 d=1.6658e-33 t=15799
 zeng shang 	增上	c=1 d=2.58475e-25 t=15799
 zhai 	摘	c=1 d=8.11689e-17 t=15799
@@ -3887,7 +3887,7 @@ zhe bi 	這比	c=1 d=5.11779e-32 t=15799
 zhe bian 	這邊	c=5 d=1.79976e-16 t=15799
 zhe bu jiu shi 	這不就是	c=1 d=2.967e-30 t=15799
 zhe ci 	這次	c=7 d=0.361325 t=15799
-zhe dao di shi zen me hui shi 	這到底是怎麼回事	c=1 d=1 t=26
+zhe dao di shi zen me hui shi 	這到底是怎麼回事	c=1 d=5.61521e-35 t=15799
 zhe dou 	這都	c=1 d=0.00329615 t=15799
 zhe fu jin 	這附近	c=1 d=5.01389e-26 t=15799
 zhe gai zen me 	這該怎麼	c=1 d=0.0160829 t=15799
@@ -3905,26 +3905,26 @@ zhe li 	這裏	c=4 d=1.17431 t=15799
 zhe liang tian 	這兩天	c=1 d=1.11105e-33 t=15799
 zhe me 	這麼	c=10 d=0.000169956 t=15799
 zhe me hao 	這麼好	c=2 d=8.68732e-29 t=15799
-zhe me nan 	這麼難	c=0 d=0.1 t=27
+zhe me nan 	這麼難	c=0 d=5.64335e-36 t=15799
 zhe me qing xi 	這麼清晰	c=1 d=5.47954e-12 t=15799
 zhe ne 	着呢	c=0 d=1.60851e-34 t=15799
 zhe ne ge li 	着呢隔離	c=1 d=1.61657e-33 t=15799
 zhe ne guang ming yi xia 	這呢光明一下	c=1 d=0.0138427 t=15799
 zhe shang mian 	這上面	c=1 d=7.63095e-26 t=15799
 zhe shi 	這是	c=11 d=0.0146987 t=15799
-zhe shi yi ge 	這是一個	c=0 d=0.1 t=7
-zhe shi yi ge bu cuo 	這是一個不錯	c=1 d=1 t=8
+zhe shi yi ge 	這是一個	c=0 d=5.10632e-36 t=15799
+zhe shi yi ge bu cuo 	這是一個不錯	c=1 d=5.13191e-35 t=15799
 zhe tang ke 	這堂課	c=1 d=0.148823 t=15799
 zhe tiao xian 	這條線	c=1 d=2.77216e-25 t=15799
 zhe xie 	這些	c=4 d=0.00370176 t=15799
-zhe xie wen ti 	這些問題	c=0 d=0.1 t=24
+zhe xie wen ti 	這些問題	c=0 d=5.55933e-36 t=15799
 zhe xu yao 	這需要	c=3 d=1.67301e-25 t=15799
 zhe yang 	這樣	c=13 d=0.91649 t=15799
-zhe yang de 	這樣的	c=0 d=0.194176 t=12
-zhe yang de hao shi jiu zhe yang le ma 	這樣的好事就這樣了嗎	c=1 d=1 t=1
-zhe yang de xian shi bing bu shi fei chang you shan 	這樣的顯示並不是非常友善	c=1 d=1 t=13
-zhe yang zen me guo jia 	這樣怎麼國家	c=1 d=1 t=15
-zhe yang zuo 	這樣做	c=0 d=0.1 t=21
+zhe yang de 	這樣的	c=0 d=1.01662e-35 t=15799
+zhe yang de hao shi jiu zhe yang le ma 	這樣的好事就這樣了嗎	c=1 d=4.9554e-35 t=15799
+zhe yang de xian shi bing bu shi fei chang you shan 	這樣的顯示並不是非常友善	c=1 d=5.26183e-35 t=15799
+zhe yang zen me guo jia 	這樣怎麼國家	c=1 d=5.31471e-35 t=15799
+zhe yang zuo 	這樣做	c=0 d=5.47657e-36 t=15799
 zhe yi bu 	這一步	c=3 d=0.00337374 t=15799
 zhe yi fang mian 	這一方面	c=1 d=1.41902e-29 t=15799
 zhe yi quan 	這一圈	c=1 d=7.29517e-26 t=15799
@@ -3977,7 +3977,7 @@ zhi 	之	c=0 d=8.23535e-12 t=15799
 zhi 	值	c=14 d=0.00704963 t=15799
 zhi 	只	c=0 d=1.61273e-06 t=15799
 zhi 	指	c=0 d=1.00672e-21 t=15799
-zhi bao bu zhu 	紙包不住	c=0 d=0.1 t=16
+zhi bao bu zhu 	紙包不住	c=0 d=5.34135e-36 t=15799
 zhi bo 	直播	c=3 d=1.2155e-06 t=15799
 zhi bu qi 	直不起	c=1 d=9.98947e-18 t=15799
 zhi chi 	支持	c=32 d=1.53829 t=15799
@@ -4108,7 +4108,7 @@ zhuan bu dao 	賺不到	c=1 d=0.23457 t=15799
 zhuan duan 	專斷	c=1 d=3.62082e-20 t=15799
 zhuan hang 	轉行	c=3 d=1.85198e-07 t=15799
 zhuan huan 	轉換	c=2 d=0.0955998 t=15799
-zhuan huan si wei 	轉換思維	c=1 d=1 t=38
+zhuan huan si wei 	轉換思維	c=1 d=5.96243e-35 t=15799
 zhuan li 	專利	c=1 d=1.42715e-08 t=15799
 zhuan men 	專門	c=2 d=1.57192e-28 t=15799
 zhuan wei 	轉爲	c=1 d=6.3607e-31 t=15799
@@ -4128,7 +4128,7 @@ zhuang tai 	裝臺	c=3 d=2.66151e-20 t=15799
 zhuang ye 	裝也	c=1 d=5.42225e-06 t=15799
 zhuang zai 	裝載	c=1 d=6.7904e-06 t=15799
 zhui jia 	追加	c=1 d=1.12961e-22 t=15799
-zhui jiu 	追究	c=0 d=0.1 t=26
+zhui jiu 	追究	c=0 d=5.61521e-36 t=15799
 zhui qiu 	追求	c=3 d=3.3584e-09 t=15799
 zhun bei 	準備	c=13 d=0.0564925 t=15799
 zhun bu zhun 	準不準	c=1 d=8.38573e-18 t=15799
